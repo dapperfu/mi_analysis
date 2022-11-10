@@ -1,0 +1,9 @@
+jupyter
+matplotlib
+notebook
+numpy
+pandas
+
+pre-commit
+requests
+seaborn
