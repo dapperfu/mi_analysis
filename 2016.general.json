@@ -1,0 +1,1546 @@
+{
+  "article_url": "",
+  "candidates": [
+    {
+      "candidate_id": "trump-8639",
+      "candidate_key": "trumpd",
+      "electoral_votes": 16,
+      "first_name": "Donald",
+      "last_name": "Trump",
+      "name_display": "Donald J. Trump",
+      "order": 1,
+      "party_id": "republican",
+      "percent": 47.3,
+      "percent_display": "47.3",
+      "votes": 2279543,
+      "winner": true
+    },
+    {
+      "candidate_id": "clinton-1746",
+      "candidate_key": "clintonh",
+      "electoral_votes": 0,
+      "first_name": "Hillary",
+      "last_name": "Clinton",
+      "name_display": "Hillary Clinton",
+      "order": 2,
+      "party_id": "democrat",
+      "percent": 47,
+      "percent_display": "47.0",
+      "votes": 2268839
+    },
+    {
+      "candidate_id": "johnson-31708",
+      "candidate_key": "johnsong",
+      "electoral_votes": 0,
+      "first_name": "Gary",
+      "last_name": "Johnson",
+      "name_display": "Gary Johnson",
+      "order": 3,
+      "party_id": "libertarian",
+      "percent": 3.6,
+      "percent_display": "3.6",
+      "votes": 172136
+    },
+    {
+      "candidate_id": "stein-895",
+      "candidate_key": "steinj",
+      "electoral_votes": 0,
+      "first_name": "Jill",
+      "last_name": "Stein",
+      "name_display": "Jill Stein",
+      "order": 5,
+      "party_id": "green",
+      "percent": 1.1,
+      "percent_display": "1.1",
+      "votes": 51463
+    },
+    {
+      "candidate_id": "others-999999",
+      "candidate_key": "others",
+      "electoral_votes": 0,
+      "last_name": "Others",
+      "name_display": "Others",
+      "party_id": "other",
+      "percent": 0.7,
+      "percent_display": "0.7",
+      "votes": 33931
+    },
+    {
+      "candidate_id": "castle-59414",
+      "candidate_key": "castled",
+      "electoral_votes": 0,
+      "first_name": "Darrell",
+      "last_name": "Castle",
+      "name_display": "Darrell Castle",
+      "order": 4,
+      "party_id": "us-taxpayers",
+      "percent": 0.3,
+      "percent_display": "0.3",
+      "votes": 16139
+    },
+    {
+      "candidate_id": "soltysik-65684",
+      "candidate_key": "soltysike",
+      "electoral_votes": 0,
+      "first_name": "Emidio",
+      "last_name": "Soltysik",
+      "name_display": "Emidio Soltysik",
+      "order": 6,
+      "party_id": "natural-law",
+      "percent": 0,
+      "percent_display": "0.0",
+      "votes": 2209
+    }
+  ],
+  "counties": [
+    {
+      "est_votes_remaining": 0,
+      "fips": "26001",
+      "name": "Alcona",
+      "precincts": 12,
+      "reporting": 12,
+      "results": {
+        "castled": 28,
+        "clintonh": 1732,
+        "johnsong": 164,
+        "others": 19,
+        "soltysike": 0,
+        "steinj": 54,
+        "trumpd": 4201
+      },
+      "votes": 6198
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26003",
+      "name": "Alger",
+      "precincts": 10,
+      "reporting": 10,
+      "results": {
+        "castled": 19,
+        "clintonh": 1663,
+        "johnsong": 177,
+        "others": 5,
+        "soltysike": 2,
+        "steinj": 67,
+        "trumpd": 2585
+      },
+      "votes": 4518
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26005",
+      "name": "Allegan",
+      "precincts": 46,
+      "reporting": 46,
+      "results": {
+        "castled": 289,
+        "clintonh": 18050,
+        "johnsong": 2513,
+        "others": 462,
+        "soltysike": 27,
+        "steinj": 596,
+        "trumpd": 34183
+      },
+      "votes": 56120
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26007",
+      "name": "Alpena",
+      "precincts": 17,
+      "reporting": 17,
+      "results": {
+        "castled": 53,
+        "clintonh": 4877,
+        "johnsong": 498,
+        "others": 80,
+        "soltysike": 10,
+        "steinj": 160,
+        "trumpd": 9090
+      },
+      "votes": 14768
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26009",
+      "name": "Antrim",
+      "precincts": 15,
+      "reporting": 15,
+      "results": {
+        "castled": 47,
+        "clintonh": 4448,
+        "johnsong": 459,
+        "others": 95,
+        "soltysike": 3,
+        "steinj": 146,
+        "trumpd": 8469
+      },
+      "votes": 13667
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26011",
+      "name": "Arenac",
+      "precincts": 15,
+      "reporting": 15,
+      "results": {
+        "castled": 26,
+        "clintonh": 2384,
+        "johnsong": 270,
+        "others": 36,
+        "soltysike": 3,
+        "steinj": 60,
+        "trumpd": 4950
+      },
+      "votes": 7729
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26013",
+      "name": "Baraga",
+      "precincts": 8,
+      "reporting": 8,
+      "results": {
+        "castled": 15,
+        "clintonh": 1156,
+        "johnsong": 106,
+        "others": 32,
+        "soltysike": 2,
+        "steinj": 49,
+        "trumpd": 2158
+      },
+      "votes": 3518
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26015",
+      "name": "Barry",
+      "precincts": 27,
+      "reporting": 27,
+      "results": {
+        "castled": 181,
+        "clintonh": 9114,
+        "johnsong": 1424,
+        "others": 240,
+        "soltysike": 10,
+        "steinj": 346,
+        "trumpd": 19202
+      },
+      "votes": 30517
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26017",
+      "name": "Bay",
+      "precincts": 47,
+      "reporting": 47,
+      "results": {
+        "castled": 208,
+        "clintonh": 21642,
+        "johnsong": 2189,
+        "others": 340,
+        "soltysike": 23,
+        "steinj": 544,
+        "trumpd": 28328
+      },
+      "votes": 53274
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26019",
+      "name": "Benzie",
+      "precincts": 13,
+      "reporting": 13,
+      "results": {
+        "castled": 36,
+        "clintonh": 4108,
+        "johnsong": 382,
+        "others": 7,
+        "soltysike": 7,
+        "steinj": 149,
+        "trumpd": 5539
+      },
+      "votes": 10228
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26021",
+      "name": "Berrien",
+      "precincts": 62,
+      "reporting": 62,
+      "results": {
+        "castled": 290,
+        "clintonh": 29495,
+        "johnsong": 2760,
+        "others": 149,
+        "soltysike": 28,
+        "steinj": 662,
+        "trumpd": 38647
+      },
+      "votes": 72031
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26023",
+      "name": "Branch",
+      "precincts": 22,
+      "reporting": 22,
+      "results": {
+        "castled": 57,
+        "clintonh": 5061,
+        "johnsong": 582,
+        "others": 22,
+        "soltysike": 4,
+        "steinj": 151,
+        "trumpd": 11786
+      },
+      "votes": 17663
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26025",
+      "name": "Calhoun",
+      "precincts": 62,
+      "reporting": 62,
+      "results": {
+        "castled": 202,
+        "clintonh": 24157,
+        "johnsong": 2284,
+        "others": 101,
+        "soltysike": 29,
+        "steinj": 635,
+        "trumpd": 31494
+      },
+      "votes": 58902
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26027",
+      "name": "Cass",
+      "precincts": 22,
+      "reporting": 22,
+      "results": {
+        "castled": 100,
+        "clintonh": 7270,
+        "johnsong": 753,
+        "others": 21,
+        "soltysike": 9,
+        "steinj": 199,
+        "trumpd": 14243
+      },
+      "votes": 22595
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26029",
+      "name": "Charlevoix",
+      "precincts": 20,
+      "reporting": 20,
+      "results": {
+        "castled": 34,
+        "clintonh": 5137,
+        "johnsong": 532,
+        "others": 87,
+        "soltysike": 12,
+        "steinj": 178,
+        "trumpd": 8674
+      },
+      "votes": 14654
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26031",
+      "name": "Cheboygan",
+      "precincts": 22,
+      "reporting": 22,
+      "results": {
+        "castled": 58,
+        "clintonh": 4302,
+        "johnsong": 463,
+        "others": 22,
+        "soltysike": 4,
+        "steinj": 140,
+        "trumpd": 8683
+      },
+      "votes": 13672
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26033",
+      "name": "Chippewa",
+      "precincts": 19,
+      "reporting": 19,
+      "results": {
+        "castled": 105,
+        "clintonh": 5379,
+        "johnsong": 583,
+        "others": 115,
+        "soltysike": 5,
+        "steinj": 243,
+        "trumpd": 9122
+      },
+      "votes": 15552
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26035",
+      "name": "Clare",
+      "precincts": 19,
+      "reporting": 19,
+      "results": {
+        "castled": 67,
+        "clintonh": 4249,
+        "johnsong": 435,
+        "others": 67,
+        "soltysike": 6,
+        "steinj": 120,
+        "trumpd": 8505
+      },
+      "votes": 13449
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26037",
+      "name": "Clinton",
+      "precincts": 35,
+      "reporting": 35,
+      "results": {
+        "castled": 157,
+        "clintonh": 16492,
+        "johnsong": 1886,
+        "others": 87,
+        "soltysike": 18,
+        "steinj": 379,
+        "trumpd": 21636
+      },
+      "votes": 40655
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26039",
+      "name": "Crawford",
+      "precincts": 10,
+      "reporting": 10,
+      "results": {
+        "castled": 34,
+        "clintonh": 2110,
+        "johnsong": 267,
+        "others": 11,
+        "soltysike": 2,
+        "steinj": 66,
+        "trumpd": 4354
+      },
+      "votes": 6844
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26041",
+      "name": "Delta",
+      "precincts": 23,
+      "reporting": 23,
+      "results": {
+        "castled": 68,
+        "clintonh": 6436,
+        "johnsong": 660,
+        "others": 113,
+        "soltysike": 14,
+        "steinj": 182,
+        "trumpd": 11121
+      },
+      "votes": 18594
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26043",
+      "name": "Dickinson",
+      "precincts": 21,
+      "reporting": 21,
+      "results": {
+        "castled": 56,
+        "clintonh": 3923,
+        "johnsong": 450,
+        "others": 92,
+        "soltysike": 8,
+        "steinj": 123,
+        "trumpd": 8580
+      },
+      "votes": 13232
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26045",
+      "name": "Eaton",
+      "precincts": 52,
+      "reporting": 52,
+      "results": {
+        "castled": 302,
+        "clintonh": 24938,
+        "johnsong": 2618,
+        "others": 483,
+        "soltysike": 23,
+        "steinj": 602,
+        "trumpd": 27609
+      },
+      "votes": 56575
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26047",
+      "name": "Emmet",
+      "precincts": 23,
+      "reporting": 23,
+      "results": {
+        "castled": 92,
+        "clintonh": 6972,
+        "johnsong": 806,
+        "others": 220,
+        "soltysike": 9,
+        "steinj": 279,
+        "trumpd": 10616
+      },
+      "votes": 18994
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26049",
+      "name": "Genesee",
+      "precincts": 219,
+      "reporting": 219,
+      "results": {
+        "castled": 703,
+        "clintonh": 102751,
+        "johnsong": 6221,
+        "others": 1498,
+        "soltysike": 100,
+        "steinj": 2193,
+        "trumpd": 84175
+      },
+      "votes": 197641
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26051",
+      "name": "Gladwin",
+      "precincts": 18,
+      "reporting": 18,
+      "results": {
+        "castled": 65,
+        "clintonh": 3794,
+        "johnsong": 393,
+        "others": 70,
+        "soltysike": 9,
+        "steinj": 87,
+        "trumpd": 8124
+      },
+      "votes": 12542
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26053",
+      "name": "Gogebic",
+      "precincts": 11,
+      "reporting": 11,
+      "results": {
+        "castled": 30,
+        "clintonh": 2925,
+        "johnsong": 213,
+        "others": 71,
+        "soltysike": 8,
+        "steinj": 118,
+        "trumpd": 4018
+      },
+      "votes": 7383
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26055",
+      "name": "Grand Traverse",
+      "precincts": 36,
+      "reporting": 36,
+      "results": {
+        "castled": 153,
+        "clintonh": 20965,
+        "johnsong": 2149,
+        "others": 523,
+        "soltysike": 26,
+        "steinj": 756,
+        "trumpd": 27413
+      },
+      "votes": 51985
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26057",
+      "name": "Gratiot",
+      "precincts": 21,
+      "reporting": 21,
+      "results": {
+        "castled": 63,
+        "clintonh": 5666,
+        "johnsong": 687,
+        "others": 20,
+        "soltysike": 9,
+        "steinj": 140,
+        "trumpd": 9880
+      },
+      "votes": 16465
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26059",
+      "name": "Hillsdale",
+      "precincts": 26,
+      "reporting": 26,
+      "results": {
+        "castled": 98,
+        "clintonh": 4799,
+        "johnsong": 700,
+        "others": 59,
+        "soltysike": 5,
+        "steinj": 184,
+        "trumpd": 14095
+      },
+      "votes": 19940
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26061",
+      "name": "Houghton",
+      "precincts": 30,
+      "reporting": 30,
+      "results": {
+        "castled": 72,
+        "clintonh": 6018,
+        "johnsong": 837,
+        "others": 138,
+        "soltysike": 5,
+        "steinj": 216,
+        "trumpd": 8475
+      },
+      "votes": 15761
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26063",
+      "name": "Huron",
+      "precincts": 31,
+      "reporting": 31,
+      "results": {
+        "castled": 56,
+        "clintonh": 4579,
+        "johnsong": 477,
+        "others": 33,
+        "soltysike": 3,
+        "steinj": 104,
+        "trumpd": 10692
+      },
+      "votes": 15944
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26065",
+      "name": "Ingham",
+      "precincts": 118,
+      "reporting": 118,
+      "results": {
+        "castled": 516,
+        "clintonh": 79110,
+        "johnsong": 5305,
+        "others": 1400,
+        "soltysike": 90,
+        "steinj": 1846,
+        "trumpd": 43868
+      },
+      "votes": 132135
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26067",
+      "name": "Ionia",
+      "precincts": 31,
+      "reporting": 31,
+      "results": {
+        "castled": 146,
+        "clintonh": 8352,
+        "johnsong": 1355,
+        "others": 248,
+        "soltysike": 17,
+        "steinj": 286,
+        "trumpd": 16635
+      },
+      "votes": 27039
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26069",
+      "name": "Iosco",
+      "precincts": 18,
+      "reporting": 18,
+      "results": {
+        "castled": 47,
+        "clintonh": 4345,
+        "johnsong": 459,
+        "others": 78,
+        "soltysike": 9,
+        "steinj": 146,
+        "trumpd": 8345
+      },
+      "votes": 13429
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26071",
+      "name": "Iron",
+      "precincts": 16,
+      "reporting": 16,
+      "results": {
+        "castled": 18,
+        "clintonh": 2004,
+        "johnsong": 175,
+        "others": 50,
+        "soltysike": 2,
+        "steinj": 36,
+        "trumpd": 3675
+      },
+      "votes": 5960
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26073",
+      "name": "Isabella",
+      "precincts": 29,
+      "reporting": 29,
+      "results": {
+        "castled": 101,
+        "clintonh": 11404,
+        "johnsong": 1093,
+        "others": 196,
+        "soltysike": 12,
+        "steinj": 396,
+        "trumpd": 12338
+      },
+      "votes": 25540
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26075",
+      "name": "Jackson",
+      "precincts": 63,
+      "reporting": 63,
+      "results": {
+        "castled": 325,
+        "clintonh": 25795,
+        "johnsong": 2901,
+        "others": 558,
+        "soltysike": 40,
+        "steinj": 713,
+        "trumpd": 39793
+      },
+      "votes": 70125
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26077",
+      "name": "Kalamazoo",
+      "precincts": 108,
+      "reporting": 108,
+      "results": {
+        "castled": 446,
+        "clintonh": 67148,
+        "johnsong": 5644,
+        "others": 323,
+        "soltysike": 70,
+        "steinj": 1634,
+        "trumpd": 51034
+      },
+      "votes": 126299
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26079",
+      "name": "Kalkaska",
+      "precincts": 13,
+      "reporting": 13,
+      "results": {
+        "castled": 24,
+        "clintonh": 2280,
+        "johnsong": 283,
+        "others": 9,
+        "soltysike": 3,
+        "steinj": 118,
+        "trumpd": 6116
+      },
+      "votes": 8833
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26081",
+      "name": "Kent",
+      "precincts": 250,
+      "reporting": 250,
+      "results": {
+        "castled": 1375,
+        "clintonh": 138683,
+        "johnsong": 14246,
+        "others": 4273,
+        "soltysike": 141,
+        "steinj": 3996,
+        "trumpd": 148180
+      },
+      "votes": 310894
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26083",
+      "name": "Keweenaw",
+      "precincts": 5,
+      "reporting": 5,
+      "results": {
+        "castled": 5,
+        "clintonh": 527,
+        "johnsong": 62,
+        "others": 5,
+        "soltysike": 1,
+        "steinj": 20,
+        "trumpd": 814
+      },
+      "votes": 1434
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26085",
+      "name": "Lake",
+      "precincts": 19,
+      "reporting": 19,
+      "results": {
+        "castled": 26,
+        "clintonh": 1939,
+        "johnsong": 152,
+        "others": 30,
+        "soltysike": 4,
+        "steinj": 48,
+        "trumpd": 3159
+      },
+      "votes": 5358
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26087",
+      "name": "Lapeer",
+      "precincts": 38,
+      "reporting": 38,
+      "results": {
+        "castled": 176,
+        "clintonh": 12734,
+        "johnsong": 1730,
+        "others": 57,
+        "soltysike": 23,
+        "steinj": 426,
+        "trumpd": 30037
+      },
+      "votes": 45183
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26089",
+      "name": "Leelanau",
+      "precincts": 14,
+      "reporting": 14,
+      "results": {
+        "castled": 33,
+        "clintonh": 6774,
+        "johnsong": 510,
+        "others": 135,
+        "soltysike": 4,
+        "steinj": 197,
+        "trumpd": 7239
+      },
+      "votes": 14892
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26091",
+      "name": "Lenawee",
+      "precincts": 43,
+      "reporting": 43,
+      "results": {
+        "castled": 201,
+        "clintonh": 16750,
+        "johnsong": 2044,
+        "others": 401,
+        "soltysike": 23,
+        "steinj": 449,
+        "trumpd": 26430
+      },
+      "votes": 46298
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26093",
+      "name": "Livingston",
+      "precincts": 81,
+      "reporting": 81,
+      "results": {
+        "castled": 329,
+        "clintonh": 34384,
+        "johnsong": 4266,
+        "others": 885,
+        "soltysike": 34,
+        "steinj": 911,
+        "trumpd": 65680
+      },
+      "votes": 106489
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26095",
+      "name": "Luce",
+      "precincts": 4,
+      "reporting": 4,
+      "results": {
+        "castled": 6,
+        "clintonh": 681,
+        "johnsong": 103,
+        "others": 15,
+        "soltysike": 1,
+        "steinj": 29,
+        "trumpd": 1756
+      },
+      "votes": 2591
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26097",
+      "name": "Mackinac",
+      "precincts": 14,
+      "reporting": 14,
+      "results": {
+        "castled": 13,
+        "clintonh": 2085,
+        "johnsong": 180,
+        "others": 52,
+        "soltysike": 3,
+        "steinj": 67,
+        "trumpd": 3744
+      },
+      "votes": 6144
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26099",
+      "name": "Macomb",
+      "precincts": 337,
+      "reporting": 337,
+      "results": {
+        "castled": 1046,
+        "clintonh": 176317,
+        "johnsong": 12862,
+        "others": 381,
+        "soltysike": 155,
+        "steinj": 3886,
+        "trumpd": 224665
+      },
+      "votes": 419312
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26101",
+      "name": "Manistee",
+      "precincts": 16,
+      "reporting": 16,
+      "results": {
+        "castled": 43,
+        "clintonh": 4979,
+        "johnsong": 456,
+        "others": 62,
+        "soltysike": 5,
+        "steinj": 200,
+        "trumpd": 6915
+      },
+      "votes": 12660
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26103",
+      "name": "Marquette",
+      "precincts": 36,
+      "reporting": 36,
+      "results": {
+        "castled": 152,
+        "clintonh": 16042,
+        "johnsong": 1458,
+        "others": 321,
+        "soltysike": 16,
+        "steinj": 583,
+        "trumpd": 14646
+      },
+      "votes": 33218
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26105",
+      "name": "Mason",
+      "precincts": 25,
+      "reporting": 25,
+      "results": {
+        "castled": 76,
+        "clintonh": 5281,
+        "johnsong": 601,
+        "others": 134,
+        "soltysike": 6,
+        "steinj": 189,
+        "trumpd": 8505
+      },
+      "votes": 14792
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26107",
+      "name": "Mecosta",
+      "precincts": 21,
+      "reporting": 21,
+      "results": {
+        "castled": 85,
+        "clintonh": 5827,
+        "johnsong": 697,
+        "others": 110,
+        "soltysike": 6,
+        "steinj": 229,
+        "trumpd": 10305
+      },
+      "votes": 17259
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26109",
+      "name": "Menominee",
+      "precincts": 20,
+      "reporting": 20,
+      "results": {
+        "castled": 46,
+        "clintonh": 3539,
+        "johnsong": 351,
+        "others": 61,
+        "soltysike": 7,
+        "steinj": 118,
+        "trumpd": 6702
+      },
+      "votes": 10824
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26111",
+      "name": "Midland",
+      "precincts": 50,
+      "reporting": 50,
+      "results": {
+        "castled": 190,
+        "clintonh": 15635,
+        "johnsong": 2216,
+        "others": 457,
+        "soltysike": 25,
+        "steinj": 407,
+        "trumpd": 23846
+      },
+      "votes": 42776
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26113",
+      "name": "Missaukee",
+      "precincts": 17,
+      "reporting": 17,
+      "results": {
+        "castled": 31,
+        "clintonh": 1565,
+        "johnsong": 241,
+        "others": 16,
+        "soltysike": 4,
+        "steinj": 74,
+        "trumpd": 5386
+      },
+      "votes": 7317
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26115",
+      "name": "Monroe",
+      "precincts": 64,
+      "reporting": 64,
+      "results": {
+        "castled": 273,
+        "clintonh": 26863,
+        "johnsong": 2985,
+        "others": 544,
+        "soltysike": 22,
+        "steinj": 707,
+        "trumpd": 43261
+      },
+      "votes": 74655
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26117",
+      "name": "Montcalm",
+      "precincts": 32,
+      "reporting": 32,
+      "results": {
+        "castled": 154,
+        "clintonh": 7874,
+        "johnsong": 1316,
+        "others": 204,
+        "soltysike": 13,
+        "steinj": 292,
+        "trumpd": 16907
+      },
+      "votes": 26760
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26119",
+      "name": "Montmorency",
+      "precincts": 9,
+      "reporting": 9,
+      "results": {
+        "castled": 18,
+        "clintonh": 1287,
+        "johnsong": 159,
+        "others": 23,
+        "soltysike": 3,
+        "steinj": 44,
+        "trumpd": 3498
+      },
+      "votes": 5032
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26121",
+      "name": "Muskegon",
+      "precincts": 67,
+      "reporting": 67,
+      "results": {
+        "castled": 346,
+        "clintonh": 37304,
+        "johnsong": 3182,
+        "others": 761,
+        "soltysike": 39,
+        "steinj": 964,
+        "trumpd": 36127
+      },
+      "votes": 78723
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26123",
+      "name": "Newaygo",
+      "precincts": 30,
+      "reporting": 30,
+      "results": {
+        "castled": 129,
+        "clintonh": 6212,
+        "johnsong": 878,
+        "others": 178,
+        "soltysike": 15,
+        "steinj": 197,
+        "trumpd": 15173
+      },
+      "votes": 22782
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26125",
+      "name": "Oakland",
+      "precincts": 520,
+      "reporting": 520,
+      "results": {
+        "castled": 1400,
+        "clintonh": 343070,
+        "johnsong": 23154,
+        "others": 5490,
+        "soltysike": 212,
+        "steinj": 6396,
+        "trumpd": 289203
+      },
+      "votes": 668925
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26127",
+      "name": "Oceana",
+      "precincts": 18,
+      "reporting": 18,
+      "results": {
+        "castled": 86,
+        "clintonh": 3973,
+        "johnsong": 492,
+        "others": 27,
+        "soltysike": 8,
+        "steinj": 116,
+        "trumpd": 7228
+      },
+      "votes": 11930
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26129",
+      "name": "Ogemaw",
+      "precincts": 21,
+      "reporting": 21,
+      "results": {
+        "castled": 50,
+        "clintonh": 3030,
+        "johnsong": 353,
+        "others": 54,
+        "soltysike": 8,
+        "steinj": 118,
+        "trumpd": 6827
+      },
+      "votes": 10440
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26131",
+      "name": "Ontonagon",
+      "precincts": 12,
+      "reporting": 12,
+      "results": {
+        "castled": 17,
+        "clintonh": 1176,
+        "johnsong": 128,
+        "others": 15,
+        "soltysike": 2,
+        "steinj": 29,
+        "trumpd": 2066
+      },
+      "votes": 3433
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26133",
+      "name": "Osceola",
+      "precincts": 18,
+      "reporting": 18,
+      "results": {
+        "castled": 52,
+        "clintonh": 2705,
+        "johnsong": 401,
+        "others": 12,
+        "soltysike": 7,
+        "steinj": 96,
+        "trumpd": 7336
+      },
+      "votes": 10609
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26135",
+      "name": "Oscoda",
+      "precincts": 7,
+      "reporting": 7,
+      "results": {
+        "castled": 17,
+        "clintonh": 1044,
+        "johnsong": 140,
+        "others": 30,
+        "soltysike": 0,
+        "steinj": 18,
+        "trumpd": 2843
+      },
+      "votes": 4092
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26137",
+      "name": "Otsego",
+      "precincts": 13,
+      "reporting": 13,
+      "results": {
+        "castled": 56,
+        "clintonh": 3556,
+        "johnsong": 482,
+        "others": 81,
+        "soltysike": 6,
+        "steinj": 163,
+        "trumpd": 8266
+      },
+      "votes": 12610
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26139",
+      "name": "Ottawa",
+      "precincts": 106,
+      "reporting": 106,
+      "results": {
+        "castled": 676,
+        "clintonh": 44973,
+        "johnsong": 6324,
+        "others": 1943,
+        "soltysike": 47,
+        "steinj": 1418,
+        "trumpd": 88467
+      },
+      "votes": 143848
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26141",
+      "name": "Presque Isle",
+      "precincts": 17,
+      "reporting": 17,
+      "results": {
+        "castled": 39,
+        "clintonh": 2400,
+        "johnsong": 237,
+        "others": 40,
+        "soltysike": 3,
+        "steinj": 50,
+        "trumpd": 4488
+      },
+      "votes": 7257
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26143",
+      "name": "Roscommon",
+      "precincts": 14,
+      "reporting": 14,
+      "results": {
+        "castled": 50,
+        "clintonh": 4287,
+        "johnsong": 413,
+        "others": 60,
+        "soltysike": 3,
+        "steinj": 142,
+        "trumpd": 8141
+      },
+      "votes": 13096
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26145",
+      "name": "Saginaw",
+      "precincts": 86,
+      "reporting": 86,
+      "results": {
+        "castled": 324,
+        "clintonh": 44396,
+        "johnsong": 3199,
+        "others": 581,
+        "soltysike": 31,
+        "steinj": 780,
+        "trumpd": 45469
+      },
+      "votes": 94780
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26147",
+      "name": "St. Clair",
+      "precincts": 69,
+      "reporting": 69,
+      "results": {
+        "castled": 271,
+        "clintonh": 24553,
+        "johnsong": 2972,
+        "others": 56,
+        "soltysike": 38,
+        "steinj": 1062,
+        "trumpd": 49051
+      },
+      "votes": 78003
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26149",
+      "name": "St. Joseph",
+      "precincts": 24,
+      "reporting": 24,
+      "results": {
+        "castled": 111,
+        "clintonh": 7526,
+        "johnsong": 934,
+        "others": 210,
+        "soltysike": 12,
+        "steinj": 290,
+        "trumpd": 14884
+      },
+      "votes": 23967
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26151",
+      "name": "Sanilac",
+      "precincts": 31,
+      "reporting": 31,
+      "results": {
+        "castled": 77,
+        "clintonh": 4873,
+        "johnsong": 662,
+        "others": 6,
+        "soltysike": 15,
+        "steinj": 170,
+        "trumpd": 13446
+      },
+      "votes": 19249
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26153",
+      "name": "Schoolcraft",
+      "precincts": 11,
+      "reporting": 11,
+      "results": {
+        "castled": 29,
+        "clintonh": 1369,
+        "johnsong": 165,
+        "others": 26,
+        "soltysike": 1,
+        "steinj": 31,
+        "trumpd": 2556
+      },
+      "votes": 4177
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26155",
+      "name": "Shiawassee",
+      "precincts": 35,
+      "reporting": 35,
+      "results": {
+        "castled": 221,
+        "clintonh": 12546,
+        "johnsong": 1660,
+        "others": 70,
+        "soltysike": 22,
+        "steinj": 362,
+        "trumpd": 19230
+      },
+      "votes": 34111
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26157",
+      "name": "Tuscola",
+      "precincts": 31,
+      "reporting": 31,
+      "results": {
+        "castled": 122,
+        "clintonh": 7429,
+        "johnsong": 872,
+        "others": 166,
+        "soltysike": 16,
+        "steinj": 221,
+        "trumpd": 17102
+      },
+      "votes": 25928
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26159",
+      "name": "Van Buren",
+      "precincts": 33,
+      "reporting": 33,
+      "results": {
+        "castled": 148,
+        "clintonh": 13258,
+        "johnsong": 1480,
+        "others": 61,
+        "soltysike": 20,
+        "steinj": 417,
+        "trumpd": 17890
+      },
+      "votes": 33274
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26161",
+      "name": "Washtenaw",
+      "precincts": 143,
+      "reporting": 143,
+      "results": {
+        "castled": 473,
+        "clintonh": 128483,
+        "johnsong": 5840,
+        "others": 2085,
+        "soltysike": 95,
+        "steinj": 2472,
+        "trumpd": 50631
+      },
+      "votes": 190079
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26163",
+      "name": "Wayne",
+      "precincts": 999,
+      "reporting": 999,
+      "results": {
+        "castled": 1718,
+        "clintonh": 519444,
+        "johnsong": 18801,
+        "others": 5542,
+        "soltysike": 437,
+        "steinj": 7784,
+        "trumpd": 228993
+      },
+      "votes": 782719
+    },
+    {
+      "est_votes_remaining": 0,
+      "fips": "26165",
+      "name": "Wexford",
+      "precincts": 20,
+      "reporting": 20,
+      "results": {
+        "castled": 62,
+        "clintonh": 4436,
+        "johnsong": 579,
+        "others": 91,
+        "soltysike": 10,
+        "steinj": 192,
+        "trumpd": 10000
+      },
+      "votes": 15370
+    }
+  ],
+  "election_date": "2016-11-08",
+  "election_type": "general",
+  "electoral_votes": 16,
+  "forecast_admin": {
+    "office": "president",
+    "show": "yes",
+    "state": "michigan",
+    "yellow-box": "no"
+  },
+  "gain": true,
+  "guid": "mi-0-2016-11-08",
+  "has_incumbent": false,
+  "lost_seat": "democrat",
+  "nyt_rating": 2,
+  "office": "President",
+  "path": "results/michigan-president-clinton-trump",
+  "poll_display": "First polls close at 8 PM ET",
+  "poll_time": "November 8, 2016, 8:00 PM -0500",
+  "precincts_reporting": 4830,
+  "precincts_total": 4830,
+  "preview_text": [
+    "Heading into Tuesday, the Trump campaign saw a possible opening in Michigan, a competitive state with 16 electoral votes that leans Democratic. <a href=\"//elections.nytimes.com/2012/results/states/michigan\">Barack Obama won Michigan in 2012</a> by 9.5 percentage points."
+  ],
+  "race_best_sentence": "Donald J. Trump has won Michigan\u2019s 16 electoral votes. Trump has 10,704 more votes than Hillary Clinton, with 100 percent reporting",
+  "race_best_sentence_is_fresh": false,
+  "race_headline": "Michigan Presidential Race Results: Donald J. Trump Wins",
+  "race_id": "mi-0-2016-11-08",
+  "race_name": "President",
+  "race_slug": "mi-president-general-2016-11-08",
+  "race_type": "president",
+  "report": true,
+  "reporting_display": "100% reporting",
+  "result": "winner",
+  "result_source": "AP",
+  "state_id": "MI",
+  "state_slug": "michigan",
+  "uncontested": false,
+  "votes": 4824260
+}

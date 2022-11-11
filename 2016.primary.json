@@ -1,0 +1,3865 @@
+[
+  {
+    "article_url": "",
+    "candidates": [
+      {
+        "candidate_id": "trump-8639-president",
+        "delegates": 25,
+        "first_name": "Donald",
+        "last_name": "Trump",
+        "name_display": "Donald J. Trump",
+        "order": 13,
+        "party_display": "Republican",
+        "party_id": "republican",
+        "percent": 36.5,
+        "percent_display": "36.5",
+        "rollup": false,
+        "us_delegates": 1448,
+        "us_superdelegates": 95,
+        "votes": 483751,
+        "winner": true
+      },
+      {
+        "candidate_id": "cruz-61815-president",
+        "delegates": 17,
+        "first_name": "Ted",
+        "last_name": "Cruz",
+        "name_display": "Ted Cruz",
+        "order": 4,
+        "party_display": "Republican",
+        "party_id": "republican",
+        "percent": 24.9,
+        "percent_display": "24.9",
+        "rollup": false,
+        "us_delegates": 551,
+        "us_superdelegates": 9,
+        "votes": 330015
+      },
+      {
+        "candidate_id": "kasich-36679-president",
+        "delegates": 17,
+        "first_name": "John",
+        "last_name": "Kasich",
+        "name_display": "John Kasich",
+        "order": 8,
+        "party_display": "Republican",
+        "party_id": "republican",
+        "percent": 24.3,
+        "percent_display": "24.3",
+        "rollup": false,
+        "us_delegates": 161,
+        "us_superdelegates": 0,
+        "votes": 321655
+      },
+      {
+        "candidate_id": "rubio-53044-president",
+        "delegates": 0,
+        "first_name": "Marco",
+        "last_name": "Rubio",
+        "name_display": "Marco Rubio",
+        "order": 11,
+        "party_display": "Republican",
+        "party_id": "republican",
+        "percent": 9.3,
+        "percent_display": "9.3",
+        "rollup": false,
+        "us_delegates": 167,
+        "us_superdelegates": 0,
+        "votes": 123673
+      },
+      {
+        "candidate_id": "carson-64509-president",
+        "delegates": 0,
+        "first_name": "Ben",
+        "last_name": "Carson",
+        "name_display": "Ben Carson",
+        "order": 2,
+        "party_display": "Republican",
+        "party_id": "republican",
+        "percent": 1.6,
+        "percent_display": "1.6",
+        "rollup": false,
+        "us_delegates": 7,
+        "us_superdelegates": 0,
+        "votes": 21342
+      },
+      {
+        "candidate_id": "bush-1239-president",
+        "delegates": 0,
+        "first_name": "Jeb",
+        "last_name": "Bush",
+        "name_display": "Jeb Bush",
+        "order": 1,
+        "party_display": "Republican",
+        "party_id": "republican",
+        "percent": 0.8,
+        "percent_display": "0.8",
+        "rollup": false,
+        "us_delegates": 4,
+        "us_superdelegates": 0,
+        "votes": 10670
+      },
+      {
+        "candidate_id": "paul-60208-president",
+        "delegates": 0,
+        "first_name": "Rand",
+        "last_name": "Paul",
+        "name_display": "Rand Paul",
+        "order": 10,
+        "party_display": "Republican",
+        "party_id": "republican",
+        "percent": 0.3,
+        "percent_display": "0.3",
+        "rollup": false,
+        "us_delegates": 1,
+        "us_superdelegates": 0,
+        "votes": 3776
+      },
+      {
+        "candidate_id": "christie-60051-president",
+        "delegates": 0,
+        "first_name": "Chris",
+        "last_name": "Christie",
+        "name_display": "Chris Christie",
+        "order": 3,
+        "party_display": "Republican",
+        "party_id": "republican",
+        "percent": 0.2,
+        "percent_display": "0.2",
+        "rollup": false,
+        "us_delegates": 0,
+        "us_superdelegates": 0,
+        "votes": 3121
+      },
+      {
+        "candidate_id": "huckabee-1187-president",
+        "delegates": 0,
+        "first_name": "Mike",
+        "last_name": "Huckabee",
+        "name_display": "Mike Huckabee",
+        "order": 7,
+        "party_display": "Republican",
+        "party_id": "republican",
+        "percent": 0.2,
+        "percent_display": "0.2",
+        "rollup": false,
+        "us_delegates": 1,
+        "us_superdelegates": 0,
+        "votes": 2606
+      },
+      {
+        "candidate_id": "santorum-1752-president",
+        "delegates": 0,
+        "first_name": "Rick",
+        "last_name": "Santorum",
+        "name_display": "Rick Santorum",
+        "order": 12,
+        "party_display": "Republican",
+        "party_id": "republican",
+        "percent": 0.1,
+        "percent_display": "0.1",
+        "rollup": false,
+        "us_delegates": 0,
+        "us_superdelegates": 0,
+        "votes": 1725
+      },
+      {
+        "candidate_id": "fiorina-60339-president",
+        "delegates": 0,
+        "first_name": "Carly",
+        "last_name": "Fiorina",
+        "name_display": "Carly Fiorina",
+        "order": 5,
+        "party_display": "Republican",
+        "party_id": "republican",
+        "percent": 0.1,
+        "percent_display": "0.1",
+        "rollup": false,
+        "us_delegates": 1,
+        "us_superdelegates": 0,
+        "votes": 1413
+      },
+      {
+        "candidate_id": "pataki-1502-president",
+        "delegates": 0,
+        "first_name": "George",
+        "last_name": "Pataki",
+        "name_display": "George Pataki",
+        "order": 9,
+        "party_display": "Republican",
+        "party_id": "republican",
+        "percent": 0,
+        "percent_display": "0.0",
+        "rollup": false,
+        "us_delegates": 0,
+        "us_superdelegates": 0,
+        "votes": 592
+      },
+      {
+        "candidate_id": "graham-1408-president",
+        "delegates": 0,
+        "first_name": "Lindsey",
+        "last_name": "Graham",
+        "name_display": "Lindsey Graham",
+        "order": 6,
+        "party_display": "Republican",
+        "party_id": "republican",
+        "percent": 0,
+        "percent_display": "0.0",
+        "rollup": false,
+        "us_delegates": 0,
+        "us_superdelegates": 0,
+        "votes": 440
+      },
+      {
+        "candidate_id": "uncommitted-100004-president",
+        "delegates": 0,
+        "first_name": null,
+        "last_name": "Uncommitted",
+        "name_display": "Uncommitted",
+        "order": 14,
+        "party_display": "Republican",
+        "party_id": "republican",
+        "percent": 1.5,
+        "percent_display": "1.5",
+        "rollup": false,
+        "us_delegates": 8,
+        "us_superdelegates": 19,
+        "votes": 19842
+      }
+    ],
+    "congressional_districts": [],
+    "convention_districts": [],
+    "counties": [
+      {
+        "fips": "26001",
+        "name": "Alcona",
+        "precincts_reporting": 12,
+        "precincts_total": 12,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 13,
+          "carson-64509-president": 27,
+          "christie-60051-president": 5,
+          "cruz-61815-president": 460,
+          "fiorina-60339-president": 4,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 2,
+          "kasich-36679-president": 340,
+          "pataki-1502-president": 2,
+          "paul-60208-president": 8,
+          "rubio-53044-president": 138,
+          "santorum-1752-president": 4,
+          "trump-8639-president": 1111,
+          "uncommitted-100004-president": 29
+        }
+      },
+      {
+        "fips": "26003",
+        "name": "Alger",
+        "precincts_reporting": 10,
+        "precincts_total": 10,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 4,
+          "carson-64509-president": 20,
+          "christie-60051-president": 2,
+          "cruz-61815-president": 318,
+          "fiorina-60339-president": 1,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 4,
+          "kasich-36679-president": 281,
+          "pataki-1502-president": 0,
+          "paul-60208-president": 5,
+          "rubio-53044-president": 99,
+          "santorum-1752-president": 0,
+          "trump-8639-president": 517,
+          "uncommitted-100004-president": 19
+        }
+      },
+      {
+        "fips": "26005",
+        "name": "Allegan",
+        "precincts_reporting": 46,
+        "precincts_total": 46,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 164,
+          "carson-64509-president": 362,
+          "christie-60051-president": 36,
+          "cruz-61815-president": 7530,
+          "fiorina-60339-president": 16,
+          "graham-1408-president": 6,
+          "huckabee-1187-president": 40,
+          "kasich-36679-president": 4636,
+          "pataki-1502-president": 6,
+          "paul-60208-president": 52,
+          "rubio-53044-president": 1981,
+          "santorum-1752-president": 20,
+          "trump-8639-president": 5327,
+          "uncommitted-100004-president": 242
+        }
+      },
+      {
+        "fips": "26007",
+        "name": "Alpena",
+        "precincts_reporting": 17,
+        "precincts_total": 17,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 24,
+          "carson-64509-president": 60,
+          "christie-60051-president": 8,
+          "cruz-61815-president": 1125,
+          "fiorina-60339-president": 2,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 6,
+          "kasich-36679-president": 785,
+          "pataki-1502-president": 3,
+          "paul-60208-president": 16,
+          "rubio-53044-president": 318,
+          "santorum-1752-president": 3,
+          "trump-8639-president": 1885,
+          "uncommitted-100004-president": 35
+        }
+      },
+      {
+        "fips": "26009",
+        "name": "Antrim",
+        "precincts_reporting": 15,
+        "precincts_total": 15,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 44,
+          "carson-64509-president": 91,
+          "christie-60051-president": 17,
+          "cruz-61815-president": 1201,
+          "fiorina-60339-president": 5,
+          "graham-1408-president": 4,
+          "huckabee-1187-president": 10,
+          "kasich-36679-president": 1025,
+          "pataki-1502-president": 2,
+          "paul-60208-president": 9,
+          "rubio-53044-president": 424,
+          "santorum-1752-president": 11,
+          "trump-8639-president": 1969,
+          "uncommitted-100004-president": 65
+        }
+      },
+      {
+        "fips": "26011",
+        "name": "Arenac",
+        "precincts_reporting": 15,
+        "precincts_total": 15,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 21,
+          "carson-64509-president": 34,
+          "christie-60051-president": 4,
+          "cruz-61815-president": 472,
+          "fiorina-60339-president": 3,
+          "graham-1408-president": 2,
+          "huckabee-1187-president": 3,
+          "kasich-36679-president": 328,
+          "pataki-1502-president": 0,
+          "paul-60208-president": 4,
+          "rubio-53044-president": 178,
+          "santorum-1752-president": 2,
+          "trump-8639-president": 1141,
+          "uncommitted-100004-president": 32
+        }
+      },
+      {
+        "fips": "26013",
+        "name": "Baraga",
+        "precincts_reporting": 8,
+        "precincts_total": 8,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 5,
+          "carson-64509-president": 19,
+          "christie-60051-president": 1,
+          "cruz-61815-president": 239,
+          "fiorina-60339-president": 1,
+          "graham-1408-president": 2,
+          "huckabee-1187-president": 3,
+          "kasich-36679-president": 197,
+          "pataki-1502-president": 1,
+          "paul-60208-president": 3,
+          "rubio-53044-president": 96,
+          "santorum-1752-president": 2,
+          "trump-8639-president": 468,
+          "uncommitted-100004-president": 17
+        }
+      },
+      {
+        "fips": "26015",
+        "name": "Barry",
+        "precincts_reporting": 27,
+        "precincts_total": 27,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 85,
+          "carson-64509-president": 251,
+          "christie-60051-president": 38,
+          "cruz-61815-president": 3449,
+          "fiorina-60339-president": 6,
+          "graham-1408-president": 3,
+          "huckabee-1187-president": 25,
+          "kasich-36679-president": 2191,
+          "pataki-1502-president": 2,
+          "paul-60208-president": 33,
+          "rubio-53044-president": 875,
+          "santorum-1752-president": 13,
+          "trump-8639-president": 3478,
+          "uncommitted-100004-president": 115
+        }
+      },
+      {
+        "fips": "26017",
+        "name": "Bay",
+        "precincts_reporting": 47,
+        "precincts_total": 47,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 127,
+          "carson-64509-president": 215,
+          "christie-60051-president": 32,
+          "cruz-61815-president": 3631,
+          "fiorina-60339-president": 13,
+          "graham-1408-president": 4,
+          "huckabee-1187-president": 22,
+          "kasich-36679-president": 2304,
+          "pataki-1502-president": 6,
+          "paul-60208-president": 45,
+          "rubio-53044-president": 1248,
+          "santorum-1752-president": 17,
+          "trump-8639-president": 5738,
+          "uncommitted-100004-president": 371
+        }
+      },
+      {
+        "fips": "26019",
+        "name": "Benzie",
+        "precincts_reporting": 13,
+        "precincts_total": 13,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 23,
+          "carson-64509-president": 52,
+          "christie-60051-president": 8,
+          "cruz-61815-president": 782,
+          "fiorina-60339-president": 4,
+          "graham-1408-president": 2,
+          "huckabee-1187-president": 7,
+          "kasich-36679-president": 674,
+          "pataki-1502-president": 1,
+          "paul-60208-president": 7,
+          "rubio-53044-president": 264,
+          "santorum-1752-president": 7,
+          "trump-8639-president": 1278,
+          "uncommitted-100004-president": 39
+        }
+      },
+      {
+        "fips": "26021",
+        "name": "Berrien",
+        "precincts_reporting": 62,
+        "precincts_total": 62,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 245,
+          "carson-64509-president": 473,
+          "christie-60051-president": 72,
+          "cruz-61815-president": 6603,
+          "fiorina-60339-president": 25,
+          "graham-1408-president": 8,
+          "huckabee-1187-president": 48,
+          "kasich-36679-president": 4219,
+          "pataki-1502-president": 13,
+          "paul-60208-president": 60,
+          "rubio-53044-president": 2359,
+          "santorum-1752-president": 34,
+          "trump-8639-president": 7817,
+          "uncommitted-100004-president": 0
+        }
+      },
+      {
+        "fips": "26023",
+        "name": "Branch",
+        "precincts_reporting": 22,
+        "precincts_total": 22,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 45,
+          "carson-64509-president": 123,
+          "christie-60051-president": 11,
+          "cruz-61815-president": 1535,
+          "fiorina-60339-president": 4,
+          "graham-1408-president": 3,
+          "huckabee-1187-president": 24,
+          "kasich-36679-president": 1244,
+          "pataki-1502-president": 6,
+          "paul-60208-president": 12,
+          "rubio-53044-president": 482,
+          "santorum-1752-president": 8,
+          "trump-8639-president": 2455,
+          "uncommitted-100004-president": 114
+        }
+      },
+      {
+        "fips": "26025",
+        "name": "Calhoun",
+        "precincts_reporting": 62,
+        "precincts_total": 62,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 153,
+          "carson-64509-president": 346,
+          "christie-60051-president": 43,
+          "cruz-61815-president": 4446,
+          "fiorina-60339-president": 25,
+          "graham-1408-president": 6,
+          "huckabee-1187-president": 49,
+          "kasich-36679-president": 3321,
+          "pataki-1502-president": 11,
+          "paul-60208-president": 45,
+          "rubio-53044-president": 1430,
+          "santorum-1752-president": 27,
+          "trump-8639-president": 5800,
+          "uncommitted-100004-president": 221
+        }
+      },
+      {
+        "fips": "26027",
+        "name": "Cass",
+        "precincts_reporting": 22,
+        "precincts_total": 22,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 45,
+          "carson-64509-president": 116,
+          "christie-60051-president": 25,
+          "cruz-61815-president": 2470,
+          "fiorina-60339-president": 5,
+          "graham-1408-president": 3,
+          "huckabee-1187-president": 18,
+          "kasich-36679-president": 1048,
+          "pataki-1502-president": 6,
+          "paul-60208-president": 22,
+          "rubio-53044-president": 566,
+          "santorum-1752-president": 11,
+          "trump-8639-president": 2859,
+          "uncommitted-100004-president": 92
+        }
+      },
+      {
+        "fips": "26029",
+        "name": "Charlevoix",
+        "precincts_reporting": 20,
+        "precincts_total": 20,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 35,
+          "carson-64509-president": 85,
+          "christie-60051-president": 14,
+          "cruz-61815-president": 1182,
+          "fiorina-60339-president": 2,
+          "graham-1408-president": 1,
+          "huckabee-1187-president": 11,
+          "kasich-36679-president": 1208,
+          "pataki-1502-president": 2,
+          "paul-60208-president": 19,
+          "rubio-53044-president": 455,
+          "santorum-1752-president": 5,
+          "trump-8639-president": 1886,
+          "uncommitted-100004-president": 66
+        }
+      },
+      {
+        "fips": "26031",
+        "name": "Cheboygan",
+        "precincts_reporting": 22,
+        "precincts_total": 22,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 33,
+          "carson-64509-president": 47,
+          "christie-60051-president": 17,
+          "cruz-61815-president": 1082,
+          "fiorina-60339-president": 6,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 5,
+          "kasich-36679-president": 815,
+          "pataki-1502-president": 2,
+          "paul-60208-president": 14,
+          "rubio-53044-president": 354,
+          "santorum-1752-president": 6,
+          "trump-8639-president": 2089,
+          "uncommitted-100004-president": 65
+        }
+      },
+      {
+        "fips": "26033",
+        "name": "Chippewa",
+        "precincts_reporting": 20,
+        "precincts_total": 20,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 41,
+          "carson-64509-president": 87,
+          "christie-60051-president": 9,
+          "cruz-61815-president": 1320,
+          "fiorina-60339-president": 4,
+          "graham-1408-president": 5,
+          "huckabee-1187-president": 13,
+          "kasich-36679-president": 904,
+          "pataki-1502-president": 2,
+          "paul-60208-president": 14,
+          "rubio-53044-president": 427,
+          "santorum-1752-president": 14,
+          "trump-8639-president": 1959,
+          "uncommitted-100004-president": 79
+        }
+      },
+      {
+        "fips": "26035",
+        "name": "Clare",
+        "precincts_reporting": 19,
+        "precincts_total": 19,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 26,
+          "carson-64509-president": 92,
+          "christie-60051-president": 7,
+          "cruz-61815-president": 1060,
+          "fiorina-60339-president": 1,
+          "graham-1408-president": 3,
+          "huckabee-1187-president": 11,
+          "kasich-36679-president": 636,
+          "pataki-1502-president": 2,
+          "paul-60208-president": 9,
+          "rubio-53044-president": 334,
+          "santorum-1752-president": 8,
+          "trump-8639-president": 1996,
+          "uncommitted-100004-president": 55
+        }
+      },
+      {
+        "fips": "26037",
+        "name": "Clinton",
+        "precincts_reporting": 33,
+        "precincts_total": 33,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 123,
+          "carson-64509-president": 233,
+          "christie-60051-president": 33,
+          "cruz-61815-president": 3619,
+          "fiorina-60339-president": 6,
+          "graham-1408-president": 5,
+          "huckabee-1187-president": 30,
+          "kasich-36679-president": 3357,
+          "pataki-1502-president": 8,
+          "paul-60208-president": 48,
+          "rubio-53044-president": 1290,
+          "santorum-1752-president": 18,
+          "trump-8639-president": 3777,
+          "uncommitted-100004-president": 234
+        }
+      },
+      {
+        "fips": "26039",
+        "name": "Crawford",
+        "precincts_reporting": 10,
+        "precincts_total": 10,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 20,
+          "carson-64509-president": 38,
+          "christie-60051-president": 17,
+          "cruz-61815-president": 470,
+          "fiorina-60339-president": 3,
+          "graham-1408-president": 1,
+          "huckabee-1187-president": 2,
+          "kasich-36679-president": 370,
+          "pataki-1502-president": 1,
+          "paul-60208-president": 8,
+          "rubio-53044-president": 189,
+          "santorum-1752-president": 3,
+          "trump-8639-president": 1108,
+          "uncommitted-100004-president": 31
+        }
+      },
+      {
+        "fips": "26041",
+        "name": "Delta",
+        "precincts_reporting": 25,
+        "precincts_total": 25,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 29,
+          "carson-64509-president": 83,
+          "christie-60051-president": 15,
+          "cruz-61815-president": 1402,
+          "fiorina-60339-president": 6,
+          "graham-1408-president": 3,
+          "huckabee-1187-president": 14,
+          "kasich-36679-president": 874,
+          "pataki-1502-president": 4,
+          "paul-60208-president": 29,
+          "rubio-53044-president": 434,
+          "santorum-1752-president": 3,
+          "trump-8639-president": 1954,
+          "uncommitted-100004-president": 82
+        }
+      },
+      {
+        "fips": "26043",
+        "name": "Dickinson",
+        "precincts_reporting": 16,
+        "precincts_total": 16,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 22,
+          "carson-64509-president": 80,
+          "christie-60051-president": 7,
+          "cruz-61815-president": 1226,
+          "fiorina-60339-president": 3,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 11,
+          "kasich-36679-president": 876,
+          "pataki-1502-president": 1,
+          "paul-60208-president": 9,
+          "rubio-53044-president": 352,
+          "santorum-1752-president": 3,
+          "trump-8639-president": 1708,
+          "uncommitted-100004-president": 85
+        }
+      },
+      {
+        "fips": "26045",
+        "name": "Eaton",
+        "precincts_reporting": 52,
+        "precincts_total": 52,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 189,
+          "carson-64509-president": 311,
+          "christie-60051-president": 56,
+          "cruz-61815-president": 4496,
+          "fiorina-60339-president": 17,
+          "graham-1408-president": 5,
+          "huckabee-1187-president": 31,
+          "kasich-36679-president": 3415,
+          "pataki-1502-president": 11,
+          "paul-60208-president": 59,
+          "rubio-53044-president": 1636,
+          "santorum-1752-president": 24,
+          "trump-8639-president": 5386,
+          "uncommitted-100004-president": 0
+        }
+      },
+      {
+        "fips": "26047",
+        "name": "Emmet",
+        "precincts_reporting": 23,
+        "precincts_total": 23,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 54,
+          "carson-64509-president": 106,
+          "christie-60051-president": 22,
+          "cruz-61815-president": 1564,
+          "fiorina-60339-president": 9,
+          "graham-1408-president": 1,
+          "huckabee-1187-president": 10,
+          "kasich-36679-president": 1557,
+          "pataki-1502-president": 2,
+          "paul-60208-president": 20,
+          "rubio-53044-president": 677,
+          "santorum-1752-president": 11,
+          "trump-8639-president": 2244,
+          "uncommitted-100004-president": 104
+        }
+      },
+      {
+        "fips": "26049",
+        "name": "Genesee",
+        "precincts_reporting": 219,
+        "precincts_total": 219,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 301,
+          "carson-64509-president": 760,
+          "christie-60051-president": 82,
+          "cruz-61815-president": 9824,
+          "fiorina-60339-president": 28,
+          "graham-1408-president": 16,
+          "huckabee-1187-president": 97,
+          "kasich-36679-president": 7730,
+          "pataki-1502-president": 14,
+          "paul-60208-president": 124,
+          "rubio-53044-president": 3630,
+          "santorum-1752-president": 67,
+          "trump-8639-president": 16756,
+          "uncommitted-100004-president": 683
+        }
+      },
+      {
+        "fips": "26051",
+        "name": "Gladwin",
+        "precincts_reporting": 18,
+        "precincts_total": 18,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 32,
+          "carson-64509-president": 74,
+          "christie-60051-president": 16,
+          "cruz-61815-president": 927,
+          "fiorina-60339-president": 2,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 20,
+          "kasich-36679-president": 665,
+          "pataki-1502-president": 2,
+          "paul-60208-president": 16,
+          "rubio-53044-president": 304,
+          "santorum-1752-president": 8,
+          "trump-8639-president": 1774,
+          "uncommitted-100004-president": 59
+        }
+      },
+      {
+        "fips": "26053",
+        "name": "Gogebic",
+        "precincts_reporting": 11,
+        "precincts_total": 11,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 9,
+          "carson-64509-president": 12,
+          "christie-60051-president": 4,
+          "cruz-61815-president": 399,
+          "fiorina-60339-president": 1,
+          "graham-1408-president": 2,
+          "huckabee-1187-president": 1,
+          "kasich-36679-president": 325,
+          "pataki-1502-president": 3,
+          "paul-60208-president": 7,
+          "rubio-53044-president": 173,
+          "santorum-1752-president": 0,
+          "trump-8639-president": 753,
+          "uncommitted-100004-president": 32
+        }
+      },
+      {
+        "fips": "26055",
+        "name": "Grand Traverse",
+        "precincts_reporting": 36,
+        "precincts_total": 36,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 191,
+          "carson-64509-president": 321,
+          "christie-60051-president": 69,
+          "cruz-61815-president": 4557,
+          "fiorina-60339-president": 20,
+          "graham-1408-president": 6,
+          "huckabee-1187-president": 47,
+          "kasich-36679-president": 3925,
+          "pataki-1502-president": 7,
+          "paul-60208-president": 83,
+          "rubio-53044-president": 1890,
+          "santorum-1752-president": 29,
+          "trump-8639-president": 5891,
+          "uncommitted-100004-president": 373
+        }
+      },
+      {
+        "fips": "26057",
+        "name": "Gratiot",
+        "precincts_reporting": 21,
+        "precincts_total": 21,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 41,
+          "carson-64509-president": 80,
+          "christie-60051-president": 11,
+          "cruz-61815-president": 1619,
+          "fiorina-60339-president": 3,
+          "graham-1408-president": 3,
+          "huckabee-1187-president": 17,
+          "kasich-36679-president": 819,
+          "pataki-1502-president": 1,
+          "paul-60208-president": 16,
+          "rubio-53044-president": 383,
+          "santorum-1752-president": 7,
+          "trump-8639-president": 1799,
+          "uncommitted-100004-president": 0
+        }
+      },
+      {
+        "fips": "26059",
+        "name": "Hillsdale",
+        "precincts_reporting": 26,
+        "precincts_total": 26,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 49,
+          "carson-64509-president": 192,
+          "christie-60051-president": 17,
+          "cruz-61815-president": 2095,
+          "fiorina-60339-president": 7,
+          "graham-1408-president": 2,
+          "huckabee-1187-president": 12,
+          "kasich-36679-president": 1321,
+          "pataki-1502-president": 7,
+          "paul-60208-president": 22,
+          "rubio-53044-president": 547,
+          "santorum-1752-president": 13,
+          "trump-8639-president": 3060,
+          "uncommitted-100004-president": 104
+        }
+      },
+      {
+        "fips": "26061",
+        "name": "Houghton",
+        "precincts_reporting": 31,
+        "precincts_total": 31,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 24,
+          "carson-64509-president": 71,
+          "christie-60051-president": 5,
+          "cruz-61815-president": 1497,
+          "fiorina-60339-president": 9,
+          "graham-1408-president": 3,
+          "huckabee-1187-president": 7,
+          "kasich-36679-president": 926,
+          "pataki-1502-president": 3,
+          "paul-60208-president": 17,
+          "rubio-53044-president": 439,
+          "santorum-1752-president": 6,
+          "trump-8639-president": 1375,
+          "uncommitted-100004-president": 32
+        }
+      },
+      {
+        "fips": "26063",
+        "name": "Huron",
+        "precincts_reporting": 31,
+        "precincts_total": 31,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 45,
+          "carson-64509-president": 64,
+          "christie-60051-president": 20,
+          "cruz-61815-president": 1250,
+          "fiorina-60339-president": 10,
+          "graham-1408-president": 1,
+          "huckabee-1187-president": 19,
+          "kasich-36679-president": 1056,
+          "pataki-1502-president": 6,
+          "paul-60208-president": 14,
+          "rubio-53044-president": 515,
+          "santorum-1752-president": 8,
+          "trump-8639-president": 2346,
+          "uncommitted-100004-president": 96
+        }
+      },
+      {
+        "fips": "26065",
+        "name": "Ingham",
+        "precincts_reporting": 121,
+        "precincts_total": 121,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 365,
+          "carson-64509-president": 491,
+          "christie-60051-president": 96,
+          "cruz-61815-president": 7042,
+          "fiorina-60339-president": 40,
+          "graham-1408-president": 18,
+          "huckabee-1187-president": 67,
+          "kasich-36679-president": 7725,
+          "pataki-1502-president": 20,
+          "paul-60208-president": 110,
+          "rubio-53044-president": 3064,
+          "santorum-1752-president": 37,
+          "trump-8639-president": 8056,
+          "uncommitted-100004-president": 484
+        }
+      },
+      {
+        "fips": "26067",
+        "name": "Ionia",
+        "precincts_reporting": 31,
+        "precincts_total": 31,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 78,
+          "carson-64509-president": 142,
+          "christie-60051-president": 17,
+          "cruz-61815-president": 2630,
+          "fiorina-60339-president": 7,
+          "graham-1408-president": 3,
+          "huckabee-1187-president": 22,
+          "kasich-36679-president": 1783,
+          "pataki-1502-president": 0,
+          "paul-60208-president": 27,
+          "rubio-53044-president": 685,
+          "santorum-1752-president": 7,
+          "trump-8639-president": 2676,
+          "uncommitted-100004-president": 119
+        }
+      },
+      {
+        "fips": "26069",
+        "name": "Iosco",
+        "precincts_reporting": 18,
+        "precincts_total": 18,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 27,
+          "carson-64509-president": 57,
+          "christie-60051-president": 9,
+          "cruz-61815-president": 676,
+          "fiorina-60339-president": 1,
+          "graham-1408-president": 1,
+          "huckabee-1187-president": 9,
+          "kasich-36679-president": 608,
+          "pataki-1502-president": 3,
+          "paul-60208-president": 10,
+          "rubio-53044-president": 326,
+          "santorum-1752-president": 6,
+          "trump-8639-president": 1973,
+          "uncommitted-100004-president": 69
+        }
+      },
+      {
+        "fips": "26071",
+        "name": "Iron",
+        "precincts_reporting": 16,
+        "precincts_total": 16,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 12,
+          "carson-64509-president": 28,
+          "christie-60051-president": 0,
+          "cruz-61815-president": 462,
+          "fiorina-60339-president": 3,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 6,
+          "kasich-36679-president": 333,
+          "pataki-1502-president": 1,
+          "paul-60208-president": 6,
+          "rubio-53044-president": 103,
+          "santorum-1752-president": 3,
+          "trump-8639-president": 868,
+          "uncommitted-100004-president": 10
+        }
+      },
+      {
+        "fips": "26073",
+        "name": "Isabella",
+        "precincts_reporting": 29,
+        "precincts_total": 29,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 35,
+          "carson-64509-president": 102,
+          "christie-60051-president": 17,
+          "cruz-61815-president": 1685,
+          "fiorina-60339-president": 5,
+          "graham-1408-president": 5,
+          "huckabee-1187-president": 11,
+          "kasich-36679-president": 1330,
+          "pataki-1502-president": 7,
+          "paul-60208-president": 17,
+          "rubio-53044-president": 704,
+          "santorum-1752-president": 11,
+          "trump-8639-president": 2180,
+          "uncommitted-100004-president": 74
+        }
+      },
+      {
+        "fips": "26075",
+        "name": "Jackson",
+        "precincts_reporting": 63,
+        "precincts_total": 63,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 159,
+          "carson-64509-president": 420,
+          "christie-60051-president": 50,
+          "cruz-61815-president": 5199,
+          "fiorina-60339-president": 13,
+          "graham-1408-president": 7,
+          "huckabee-1187-president": 36,
+          "kasich-36679-president": 4380,
+          "pataki-1502-president": 11,
+          "paul-60208-president": 60,
+          "rubio-53044-president": 1929,
+          "santorum-1752-president": 20,
+          "trump-8639-president": 8113,
+          "uncommitted-100004-president": 314
+        }
+      },
+      {
+        "fips": "26077",
+        "name": "Kalamazoo",
+        "precincts_reporting": 108,
+        "precincts_total": 108,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 330,
+          "carson-64509-president": 625,
+          "christie-60051-president": 100,
+          "cruz-61815-president": 8878,
+          "fiorina-60339-president": 45,
+          "graham-1408-president": 10,
+          "huckabee-1187-president": 78,
+          "kasich-36679-president": 9104,
+          "pataki-1502-president": 18,
+          "paul-60208-president": 83,
+          "rubio-53044-president": 3795,
+          "santorum-1752-president": 39,
+          "trump-8639-president": 8655,
+          "uncommitted-100004-president": 644
+        }
+      },
+      {
+        "fips": "26079",
+        "name": "Kalkaska",
+        "precincts_reporting": 13,
+        "precincts_total": 13,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 22,
+          "carson-64509-president": 60,
+          "christie-60051-president": 8,
+          "cruz-61815-president": 790,
+          "fiorina-60339-president": 3,
+          "graham-1408-president": 2,
+          "huckabee-1187-president": 5,
+          "kasich-36679-president": 523,
+          "pataki-1502-president": 2,
+          "paul-60208-president": 14,
+          "rubio-53044-president": 265,
+          "santorum-1752-president": 9,
+          "trump-8639-president": 1724,
+          "uncommitted-100004-president": 0
+        }
+      },
+      {
+        "fips": "26081",
+        "name": "Kent",
+        "precincts_reporting": 250,
+        "precincts_total": 250,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 844,
+          "carson-64509-president": 1850,
+          "christie-60051-president": 211,
+          "cruz-61815-president": 35185,
+          "fiorina-60339-president": 101,
+          "graham-1408-president": 25,
+          "huckabee-1187-president": 209,
+          "kasich-36679-president": 25562,
+          "pataki-1502-president": 46,
+          "paul-60208-president": 253,
+          "rubio-53044-president": 11542,
+          "santorum-1752-president": 90,
+          "trump-8639-president": 22742,
+          "uncommitted-100004-president": 0
+        }
+      },
+      {
+        "fips": "26083",
+        "name": "Keweenaw",
+        "precincts_reporting": 5,
+        "precincts_total": 5,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 1,
+          "carson-64509-president": 12,
+          "christie-60051-president": 1,
+          "cruz-61815-president": 105,
+          "fiorina-60339-president": 1,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 0,
+          "kasich-36679-president": 76,
+          "pataki-1502-president": 0,
+          "paul-60208-president": 2,
+          "rubio-53044-president": 50,
+          "santorum-1752-president": 0,
+          "trump-8639-president": 184,
+          "uncommitted-100004-president": 3
+        }
+      },
+      {
+        "fips": "26085",
+        "name": "Lake",
+        "precincts_reporting": 19,
+        "precincts_total": 19,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 12,
+          "carson-64509-president": 30,
+          "christie-60051-president": 1,
+          "cruz-61815-president": 382,
+          "fiorina-60339-president": 0,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 2,
+          "kasich-36679-president": 237,
+          "pataki-1502-president": 1,
+          "paul-60208-president": 4,
+          "rubio-53044-president": 99,
+          "santorum-1752-president": 1,
+          "trump-8639-president": 803,
+          "uncommitted-100004-president": 16
+        }
+      },
+      {
+        "fips": "26087",
+        "name": "Lapeer",
+        "precincts_reporting": 36,
+        "precincts_total": 36,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 98,
+          "carson-64509-president": 334,
+          "christie-60051-president": 35,
+          "cruz-61815-president": 3821,
+          "fiorina-60339-president": 12,
+          "graham-1408-president": 1,
+          "huckabee-1187-president": 34,
+          "kasich-36679-president": 3012,
+          "pataki-1502-president": 5,
+          "paul-60208-president": 73,
+          "rubio-53044-president": 1160,
+          "santorum-1752-president": 32,
+          "trump-8639-president": 7446,
+          "uncommitted-100004-president": 261
+        }
+      },
+      {
+        "fips": "26089",
+        "name": "Leelanau",
+        "precincts_reporting": 14,
+        "precincts_total": 14,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 49,
+          "carson-64509-president": 79,
+          "christie-60051-president": 18,
+          "cruz-61815-president": 1160,
+          "fiorina-60339-president": 7,
+          "graham-1408-president": 1,
+          "huckabee-1187-president": 7,
+          "kasich-36679-president": 1251,
+          "pataki-1502-president": 3,
+          "paul-60208-president": 15,
+          "rubio-53044-president": 542,
+          "santorum-1752-president": 4,
+          "trump-8639-president": 1613,
+          "uncommitted-100004-president": 86
+        }
+      },
+      {
+        "fips": "26091",
+        "name": "Lenawee",
+        "precincts_reporting": 43,
+        "precincts_total": 43,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 92,
+          "carson-64509-president": 214,
+          "christie-60051-president": 22,
+          "cruz-61815-president": 3904,
+          "fiorina-60339-president": 7,
+          "graham-1408-president": 3,
+          "huckabee-1187-president": 26,
+          "kasich-36679-president": 3713,
+          "pataki-1502-president": 3,
+          "paul-60208-president": 28,
+          "rubio-53044-president": 1028,
+          "santorum-1752-president": 12,
+          "trump-8639-president": 5167,
+          "uncommitted-100004-president": 173
+        }
+      },
+      {
+        "fips": "26093",
+        "name": "Livingston",
+        "precincts_reporting": 81,
+        "precincts_total": 81,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 264,
+          "carson-64509-president": 485,
+          "christie-60051-president": 71,
+          "cruz-61815-president": 9324,
+          "fiorina-60339-president": 35,
+          "graham-1408-president": 6,
+          "huckabee-1187-president": 69,
+          "kasich-36679-president": 9383,
+          "pataki-1502-president": 13,
+          "paul-60208-president": 89,
+          "rubio-53044-president": 3340,
+          "santorum-1752-president": 47,
+          "trump-8639-president": 15359,
+          "uncommitted-100004-president": 568
+        }
+      },
+      {
+        "fips": "26095",
+        "name": "Luce",
+        "precincts_reporting": 4,
+        "precincts_total": 4,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 17,
+          "carson-64509-president": 14,
+          "christie-60051-president": 5,
+          "cruz-61815-president": 242,
+          "fiorina-60339-president": 1,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 1,
+          "kasich-36679-president": 154,
+          "pataki-1502-president": 0,
+          "paul-60208-president": 5,
+          "rubio-53044-president": 66,
+          "santorum-1752-president": 0,
+          "trump-8639-president": 407,
+          "uncommitted-100004-president": 20
+        }
+      },
+      {
+        "fips": "26097",
+        "name": "Mackinac",
+        "precincts_reporting": 14,
+        "precincts_total": 14,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 8,
+          "carson-64509-president": 31,
+          "christie-60051-president": 3,
+          "cruz-61815-president": 439,
+          "fiorina-60339-president": 2,
+          "graham-1408-president": 2,
+          "huckabee-1187-president": 5,
+          "kasich-36679-president": 416,
+          "pataki-1502-president": 2,
+          "paul-60208-president": 6,
+          "rubio-53044-president": 172,
+          "santorum-1752-president": 2,
+          "trump-8639-president": 856,
+          "uncommitted-100004-president": 37
+        }
+      },
+      {
+        "fips": "26099",
+        "name": "Macomb",
+        "precincts_reporting": 337,
+        "precincts_total": 337,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 1019,
+          "carson-64509-president": 1652,
+          "christie-60051-president": 238,
+          "cruz-61815-president": 19988,
+          "fiorina-60339-president": 133,
+          "graham-1408-president": 34,
+          "huckabee-1187-president": 163,
+          "kasich-36679-president": 27534,
+          "pataki-1502-president": 44,
+          "paul-60208-president": 324,
+          "rubio-53044-president": 10206,
+          "santorum-1752-president": 158,
+          "trump-8639-president": 60492,
+          "uncommitted-100004-president": 2911
+        }
+      },
+      {
+        "fips": "26101",
+        "name": "Manistee",
+        "precincts_reporting": 16,
+        "precincts_total": 16,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 27,
+          "carson-64509-president": 57,
+          "christie-60051-president": 4,
+          "cruz-61815-president": 979,
+          "fiorina-60339-president": 2,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 9,
+          "kasich-36679-president": 756,
+          "pataki-1502-president": 2,
+          "paul-60208-president": 10,
+          "rubio-53044-president": 280,
+          "santorum-1752-president": 5,
+          "trump-8639-president": 1552,
+          "uncommitted-100004-president": 51
+        }
+      },
+      {
+        "fips": "26103",
+        "name": "Marquette",
+        "precincts_reporting": 36,
+        "precincts_total": 36,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 61,
+          "carson-64509-president": 118,
+          "christie-60051-president": 15,
+          "cruz-61815-president": 2094,
+          "fiorina-60339-president": 6,
+          "graham-1408-president": 4,
+          "huckabee-1187-president": 22,
+          "kasich-36679-president": 1984,
+          "pataki-1502-president": 2,
+          "paul-60208-president": 35,
+          "rubio-53044-president": 691,
+          "santorum-1752-president": 14,
+          "trump-8639-president": 2524,
+          "uncommitted-100004-president": 108
+        }
+      },
+      {
+        "fips": "26105",
+        "name": "Mason",
+        "precincts_reporting": 25,
+        "precincts_total": 25,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 37,
+          "carson-64509-president": 70,
+          "christie-60051-president": 10,
+          "cruz-61815-president": 1546,
+          "fiorina-60339-president": 1,
+          "graham-1408-president": 3,
+          "huckabee-1187-president": 16,
+          "kasich-36679-president": 993,
+          "pataki-1502-president": 3,
+          "paul-60208-president": 17,
+          "rubio-53044-president": 458,
+          "santorum-1752-president": 9,
+          "trump-8639-president": 1785,
+          "uncommitted-100004-president": 66
+        }
+      },
+      {
+        "fips": "26107",
+        "name": "Mecosta",
+        "precincts_reporting": 21,
+        "precincts_total": 21,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 76,
+          "carson-64509-president": 122,
+          "christie-60051-president": 18,
+          "cruz-61815-president": 1780,
+          "fiorina-60339-president": 12,
+          "graham-1408-president": 2,
+          "huckabee-1187-president": 10,
+          "kasich-36679-president": 943,
+          "pataki-1502-president": 5,
+          "paul-60208-president": 19,
+          "rubio-53044-president": 521,
+          "santorum-1752-president": 8,
+          "trump-8639-president": 2113,
+          "uncommitted-100004-president": 90
+        }
+      },
+      {
+        "fips": "26109",
+        "name": "Menominee",
+        "precincts_reporting": 20,
+        "precincts_total": 20,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 22,
+          "carson-64509-president": 51,
+          "christie-60051-president": 6,
+          "cruz-61815-president": 707,
+          "fiorina-60339-president": 4,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 4,
+          "kasich-36679-president": 421,
+          "pataki-1502-president": 1,
+          "paul-60208-president": 9,
+          "rubio-53044-president": 266,
+          "santorum-1752-president": 3,
+          "trump-8639-president": 1304,
+          "uncommitted-100004-president": 54
+        }
+      },
+      {
+        "fips": "26111",
+        "name": "Midland",
+        "precincts_reporting": 50,
+        "precincts_total": 50,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 93,
+          "carson-64509-president": 203,
+          "christie-60051-president": 30,
+          "cruz-61815-president": 4720,
+          "fiorina-60339-president": 13,
+          "graham-1408-president": 5,
+          "huckabee-1187-president": 30,
+          "kasich-36679-president": 3366,
+          "pataki-1502-president": 5,
+          "paul-60208-president": 47,
+          "rubio-53044-president": 1506,
+          "santorum-1752-president": 27,
+          "trump-8639-president": 3909,
+          "uncommitted-100004-president": 115
+        }
+      },
+      {
+        "fips": "26113",
+        "name": "Missaukee",
+        "precincts_reporting": 17,
+        "precincts_total": 17,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 20,
+          "carson-64509-president": 65,
+          "christie-60051-president": 13,
+          "cruz-61815-president": 887,
+          "fiorina-60339-president": 1,
+          "graham-1408-president": 2,
+          "huckabee-1187-president": 10,
+          "kasich-36679-president": 537,
+          "pataki-1502-president": 4,
+          "paul-60208-president": 12,
+          "rubio-53044-president": 254,
+          "santorum-1752-president": 7,
+          "trump-8639-president": 1221,
+          "uncommitted-100004-president": 73
+        }
+      },
+      {
+        "fips": "26115",
+        "name": "Monroe",
+        "precincts_reporting": 70,
+        "precincts_total": 70,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 115,
+          "carson-64509-president": 306,
+          "christie-60051-president": 55,
+          "cruz-61815-president": 5049,
+          "fiorina-60339-president": 22,
+          "graham-1408-president": 5,
+          "huckabee-1187-president": 37,
+          "kasich-36679-president": 5482,
+          "pataki-1502-president": 4,
+          "paul-60208-president": 60,
+          "rubio-53044-president": 1413,
+          "santorum-1752-president": 25,
+          "trump-8639-president": 8802,
+          "uncommitted-100004-president": 430
+        }
+      },
+      {
+        "fips": "26117",
+        "name": "Montcalm",
+        "precincts_reporting": 32,
+        "precincts_total": 32,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 75,
+          "carson-64509-president": 201,
+          "christie-60051-president": 21,
+          "cruz-61815-president": 2909,
+          "fiorina-60339-president": 12,
+          "graham-1408-president": 3,
+          "huckabee-1187-president": 17,
+          "kasich-36679-president": 1538,
+          "pataki-1502-president": 3,
+          "paul-60208-president": 21,
+          "rubio-53044-president": 662,
+          "santorum-1752-president": 16,
+          "trump-8639-president": 3051,
+          "uncommitted-100004-president": 167
+        }
+      },
+      {
+        "fips": "26119",
+        "name": "Montmorency",
+        "precincts_reporting": 9,
+        "precincts_total": 9,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 16,
+          "carson-64509-president": 38,
+          "christie-60051-president": 0,
+          "cruz-61815-president": 403,
+          "fiorina-60339-president": 4,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 5,
+          "kasich-36679-president": 325,
+          "pataki-1502-president": 1,
+          "paul-60208-president": 13,
+          "rubio-53044-president": 155,
+          "santorum-1752-president": 1,
+          "trump-8639-president": 1046,
+          "uncommitted-100004-president": 43
+        }
+      },
+      {
+        "fips": "26121",
+        "name": "Muskegon",
+        "precincts_reporting": 67,
+        "precincts_total": 67,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 155,
+          "carson-64509-president": 282,
+          "christie-60051-president": 56,
+          "cruz-61815-president": 6478,
+          "fiorina-60339-president": 21,
+          "graham-1408-president": 6,
+          "huckabee-1187-president": 33,
+          "kasich-36679-president": 3706,
+          "pataki-1502-president": 7,
+          "paul-60208-president": 48,
+          "rubio-53044-president": 1875,
+          "santorum-1752-president": 25,
+          "trump-8639-president": 5757,
+          "uncommitted-100004-president": 342
+        }
+      },
+      {
+        "fips": "26123",
+        "name": "Newaygo",
+        "precincts_reporting": 30,
+        "precincts_total": 30,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 64,
+          "carson-64509-president": 158,
+          "christie-60051-president": 23,
+          "cruz-61815-president": 3557,
+          "fiorina-60339-president": 9,
+          "graham-1408-president": 2,
+          "huckabee-1187-president": 27,
+          "kasich-36679-president": 1417,
+          "pataki-1502-president": 5,
+          "paul-60208-president": 23,
+          "rubio-53044-president": 618,
+          "santorum-1752-president": 10,
+          "trump-8639-president": 2660,
+          "uncommitted-100004-president": 134
+        }
+      },
+      {
+        "fips": "26125",
+        "name": "Oakland",
+        "precincts_reporting": 520,
+        "precincts_total": 520,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 1472,
+          "carson-64509-president": 2296,
+          "christie-60051-president": 429,
+          "cruz-61815-president": 33634,
+          "fiorina-60339-president": 248,
+          "graham-1408-president": 50,
+          "huckabee-1187-president": 255,
+          "kasich-36679-president": 61053,
+          "pataki-1502-president": 66,
+          "paul-60208-president": 450,
+          "rubio-53044-president": 18536,
+          "santorum-1752-president": 195,
+          "trump-8639-president": 69399,
+          "uncommitted-100004-president": 3428
+        }
+      },
+      {
+        "fips": "26127",
+        "name": "Oceana",
+        "precincts_reporting": 18,
+        "precincts_total": 18,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 40,
+          "carson-64509-president": 77,
+          "christie-60051-president": 6,
+          "cruz-61815-president": 1698,
+          "fiorina-60339-president": 6,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 9,
+          "kasich-36679-president": 924,
+          "pataki-1502-president": 2,
+          "paul-60208-president": 16,
+          "rubio-53044-president": 331,
+          "santorum-1752-president": 5,
+          "trump-8639-president": 1339,
+          "uncommitted-100004-president": 56
+        }
+      },
+      {
+        "fips": "26129",
+        "name": "Ogemaw",
+        "precincts_reporting": 21,
+        "precincts_total": 21,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 34,
+          "carson-64509-president": 64,
+          "christie-60051-president": 6,
+          "cruz-61815-president": 700,
+          "fiorina-60339-president": 1,
+          "graham-1408-president": 1,
+          "huckabee-1187-president": 7,
+          "kasich-36679-president": 489,
+          "pataki-1502-president": 0,
+          "paul-60208-president": 12,
+          "rubio-53044-president": 222,
+          "santorum-1752-president": 3,
+          "trump-8639-president": 1612,
+          "uncommitted-100004-president": 40
+        }
+      },
+      {
+        "fips": "26131",
+        "name": "Ontonagon",
+        "precincts_reporting": 12,
+        "precincts_total": 12,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 9,
+          "carson-64509-president": 13,
+          "christie-60051-president": 7,
+          "cruz-61815-president": 209,
+          "fiorina-60339-president": 2,
+          "graham-1408-president": 1,
+          "huckabee-1187-president": 3,
+          "kasich-36679-president": 203,
+          "pataki-1502-president": 0,
+          "paul-60208-president": 5,
+          "rubio-53044-president": 95,
+          "santorum-1752-president": 3,
+          "trump-8639-president": 519,
+          "uncommitted-100004-president": 23
+        }
+      },
+      {
+        "fips": "26133",
+        "name": "Osceola",
+        "precincts_reporting": 18,
+        "precincts_total": 18,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 27,
+          "carson-64509-president": 71,
+          "christie-60051-president": 12,
+          "cruz-61815-president": 1276,
+          "fiorina-60339-president": 1,
+          "graham-1408-president": 5,
+          "huckabee-1187-president": 10,
+          "kasich-36679-president": 645,
+          "pataki-1502-president": 2,
+          "paul-60208-president": 17,
+          "rubio-53044-president": 294,
+          "santorum-1752-president": 7,
+          "trump-8639-president": 1812,
+          "uncommitted-100004-president": 50
+        }
+      },
+      {
+        "fips": "26135",
+        "name": "Oscoda",
+        "precincts_reporting": 7,
+        "precincts_total": 7,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 14,
+          "carson-64509-president": 39,
+          "christie-60051-president": 1,
+          "cruz-61815-president": 369,
+          "fiorina-60339-president": 3,
+          "graham-1408-president": 1,
+          "huckabee-1187-president": 5,
+          "kasich-36679-president": 247,
+          "pataki-1502-president": 0,
+          "paul-60208-president": 1,
+          "rubio-53044-president": 90,
+          "santorum-1752-president": 1,
+          "trump-8639-president": 705,
+          "uncommitted-100004-president": 18
+        }
+      },
+      {
+        "fips": "26137",
+        "name": "Otsego",
+        "precincts_reporting": 13,
+        "precincts_total": 13,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 25,
+          "carson-64509-president": 60,
+          "christie-60051-president": 12,
+          "cruz-61815-president": 1040,
+          "fiorina-60339-president": 7,
+          "graham-1408-president": 4,
+          "huckabee-1187-president": 13,
+          "kasich-36679-president": 800,
+          "pataki-1502-president": 0,
+          "paul-60208-president": 9,
+          "rubio-53044-president": 342,
+          "santorum-1752-president": 5,
+          "trump-8639-president": 1933,
+          "uncommitted-100004-president": 50
+        }
+      },
+      {
+        "fips": "26139",
+        "name": "Ottawa",
+        "precincts_reporting": 106,
+        "precincts_total": 106,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 498,
+          "carson-64509-president": 1213,
+          "christie-60051-president": 119,
+          "cruz-61815-president": 23862,
+          "fiorina-60339-president": 49,
+          "graham-1408-president": 21,
+          "huckabee-1187-president": 149,
+          "kasich-36679-president": 14263,
+          "pataki-1502-president": 14,
+          "paul-60208-president": 153,
+          "rubio-53044-president": 7255,
+          "santorum-1752-president": 83,
+          "trump-8639-president": 11600,
+          "uncommitted-100004-president": 741
+        }
+      },
+      {
+        "fips": "26141",
+        "name": "Presque Isle",
+        "precincts_reporting": 17,
+        "precincts_total": 17,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 11,
+          "carson-64509-president": 24,
+          "christie-60051-president": 4,
+          "cruz-61815-president": 524,
+          "fiorina-60339-president": 5,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 3,
+          "kasich-36679-president": 423,
+          "pataki-1502-president": 0,
+          "paul-60208-president": 2,
+          "rubio-53044-president": 216,
+          "santorum-1752-president": 3,
+          "trump-8639-president": 916,
+          "uncommitted-100004-president": 36
+        }
+      },
+      {
+        "fips": "26143",
+        "name": "Roscommon",
+        "precincts_reporting": 14,
+        "precincts_total": 14,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 65,
+          "carson-64509-president": 106,
+          "christie-60051-president": 21,
+          "cruz-61815-president": 748,
+          "fiorina-60339-president": 19,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 20,
+          "kasich-36679-president": 726,
+          "pataki-1502-president": 1,
+          "paul-60208-president": 13,
+          "rubio-53044-president": 409,
+          "santorum-1752-president": 8,
+          "trump-8639-president": 2257,
+          "uncommitted-100004-president": 123
+        }
+      },
+      {
+        "fips": "26145",
+        "name": "Saginaw",
+        "precincts_reporting": 86,
+        "precincts_total": 86,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 162,
+          "carson-64509-president": 364,
+          "christie-60051-president": 76,
+          "cruz-61815-president": 6536,
+          "fiorina-60339-president": 18,
+          "graham-1408-president": 6,
+          "huckabee-1187-president": 34,
+          "kasich-36679-president": 4404,
+          "pataki-1502-president": 8,
+          "paul-60208-president": 65,
+          "rubio-53044-president": 2067,
+          "santorum-1752-president": 30,
+          "trump-8639-president": 9106,
+          "uncommitted-100004-president": 348
+        }
+      },
+      {
+        "fips": "26147",
+        "name": "St. Clair",
+        "precincts_reporting": 69,
+        "precincts_total": 69,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 161,
+          "carson-64509-president": 441,
+          "christie-60051-president": 51,
+          "cruz-61815-president": 4846,
+          "fiorina-60339-president": 41,
+          "graham-1408-president": 7,
+          "huckabee-1187-president": 38,
+          "kasich-36679-president": 5093,
+          "pataki-1502-president": 19,
+          "paul-60208-president": 78,
+          "rubio-53044-president": 1777,
+          "santorum-1752-president": 38,
+          "trump-8639-president": 11995,
+          "uncommitted-100004-president": 0
+        }
+      },
+      {
+        "fips": "26149",
+        "name": "St. Joseph",
+        "precincts_reporting": 24,
+        "precincts_total": 24,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 51,
+          "carson-64509-president": 147,
+          "christie-60051-president": 17,
+          "cruz-61815-president": 2655,
+          "fiorina-60339-president": 4,
+          "graham-1408-president": 5,
+          "huckabee-1187-president": 13,
+          "kasich-36679-president": 1691,
+          "pataki-1502-president": 5,
+          "paul-60208-president": 22,
+          "rubio-53044-president": 600,
+          "santorum-1752-president": 10,
+          "trump-8639-president": 2528,
+          "uncommitted-100004-president": 103
+        }
+      },
+      {
+        "fips": "26151",
+        "name": "Sanilac",
+        "precincts_reporting": 31,
+        "precincts_total": 31,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 62,
+          "carson-64509-president": 143,
+          "christie-60051-president": 19,
+          "cruz-61815-president": 1588,
+          "fiorina-60339-president": 8,
+          "graham-1408-president": 5,
+          "huckabee-1187-president": 34,
+          "kasich-36679-president": 1407,
+          "pataki-1502-president": 7,
+          "paul-60208-president": 27,
+          "rubio-53044-president": 568,
+          "santorum-1752-president": 19,
+          "trump-8639-president": 3279,
+          "uncommitted-100004-president": 164
+        }
+      },
+      {
+        "fips": "26153",
+        "name": "Schoolcraft",
+        "precincts_reporting": 11,
+        "precincts_total": 11,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 5,
+          "carson-64509-president": 19,
+          "christie-60051-president": 5,
+          "cruz-61815-president": 217,
+          "fiorina-60339-president": 0,
+          "graham-1408-president": 1,
+          "huckabee-1187-president": 4,
+          "kasich-36679-president": 242,
+          "pataki-1502-president": 1,
+          "paul-60208-president": 0,
+          "rubio-53044-president": 78,
+          "santorum-1752-president": 3,
+          "trump-8639-president": 529,
+          "uncommitted-100004-president": 13
+        }
+      },
+      {
+        "fips": "26155",
+        "name": "Shiawassee",
+        "precincts_reporting": 33,
+        "precincts_total": 33,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 90,
+          "carson-64509-president": 185,
+          "christie-60051-president": 19,
+          "cruz-61815-president": 2745,
+          "fiorina-60339-president": 6,
+          "graham-1408-president": 4,
+          "huckabee-1187-president": 41,
+          "kasich-36679-president": 1853,
+          "pataki-1502-president": 9,
+          "paul-60208-president": 43,
+          "rubio-53044-president": 876,
+          "santorum-1752-president": 26,
+          "trump-8639-president": 3864,
+          "uncommitted-100004-president": 223
+        }
+      },
+      {
+        "fips": "26157",
+        "name": "Tuscola",
+        "precincts_reporting": 31,
+        "precincts_total": 31,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 67,
+          "carson-64509-president": 163,
+          "christie-60051-president": 27,
+          "cruz-61815-president": 2668,
+          "fiorina-60339-president": 5,
+          "graham-1408-president": 2,
+          "huckabee-1187-president": 27,
+          "kasich-36679-president": 1268,
+          "pataki-1502-president": 5,
+          "paul-60208-president": 32,
+          "rubio-53044-president": 658,
+          "santorum-1752-president": 19,
+          "trump-8639-president": 3750,
+          "uncommitted-100004-president": 155
+        }
+      },
+      {
+        "fips": "26159",
+        "name": "Van Buren",
+        "precincts_reporting": 33,
+        "precincts_total": 33,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 80,
+          "carson-64509-president": 170,
+          "christie-60051-president": 23,
+          "cruz-61815-president": 2579,
+          "fiorina-60339-president": 9,
+          "graham-1408-president": 2,
+          "huckabee-1187-president": 17,
+          "kasich-36679-president": 2092,
+          "pataki-1502-president": 4,
+          "paul-60208-president": 27,
+          "rubio-53044-president": 932,
+          "santorum-1752-president": 17,
+          "trump-8639-president": 3287,
+          "uncommitted-100004-president": 138
+        }
+      },
+      {
+        "fips": "26161",
+        "name": "Washtenaw",
+        "precincts_reporting": 141,
+        "precincts_total": 141,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 266,
+          "carson-64509-president": 468,
+          "christie-60051-president": 64,
+          "cruz-61815-president": 8574,
+          "fiorina-60339-president": 35,
+          "graham-1408-president": 14,
+          "huckabee-1187-president": 67,
+          "kasich-36679-president": 12643,
+          "pataki-1502-president": 22,
+          "paul-60208-president": 117,
+          "rubio-53044-president": 4101,
+          "santorum-1752-president": 42,
+          "trump-8639-president": 10206,
+          "uncommitted-100004-president": 483
+        }
+      },
+      {
+        "fips": "26163",
+        "name": "Wayne",
+        "precincts_reporting": 999,
+        "precincts_total": 999,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 1046,
+          "carson-64509-president": 1959,
+          "christie-60051-president": 317,
+          "cruz-61815-president": 25155,
+          "fiorina-60339-president": 166,
+          "graham-1408-president": 61,
+          "huckabee-1187-president": 250,
+          "kasich-36679-president": 38165,
+          "pataki-1502-president": 69,
+          "paul-60208-president": 379,
+          "rubio-53044-president": 11569,
+          "santorum-1752-president": 182,
+          "trump-8639-president": 55795,
+          "uncommitted-100004-president": 2538
+        }
+      },
+      {
+        "fips": "26165",
+        "name": "Wexford",
+        "precincts_reporting": 20,
+        "precincts_total": 20,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 30,
+          "carson-64509-president": 98,
+          "christie-60051-president": 10,
+          "cruz-61815-president": 1521,
+          "fiorina-60339-president": 6,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 18,
+          "kasich-36679-president": 1060,
+          "pataki-1502-president": 0,
+          "paul-60208-president": 19,
+          "rubio-53044-president": 395,
+          "santorum-1752-president": 6,
+          "trump-8639-president": 2578,
+          "uncommitted-100004-president": 79
+        }
+      }
+    ],
+    "delegate_districts": [
+      {
+        "delegates": {
+          "bush-1239-president": 0,
+          "carson-64509-president": 0,
+          "christie-60051-president": 0,
+          "cruz-61815-president": 17,
+          "fiorina-60339-president": 0,
+          "graham-1408-president": 0,
+          "huckabee-1187-president": 0,
+          "kasich-36679-president": 17,
+          "pataki-1502-president": 0,
+          "paul-60208-president": 0,
+          "rubio-53044-president": 0,
+          "santorum-1752-president": 0,
+          "trump-8639-president": 25,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": null,
+        "name": "At Large",
+        "precincts_reporting": 4830,
+        "precincts_total": 4830,
+        "reporting_display": "100% reporting",
+        "results": {
+          "bush-1239-president": 10670,
+          "carson-64509-president": 21342,
+          "christie-60051-president": 3121,
+          "cruz-61815-president": 330015,
+          "fiorina-60339-president": 1413,
+          "graham-1408-president": 440,
+          "huckabee-1187-president": 2606,
+          "kasich-36679-president": 321655,
+          "pataki-1502-president": 592,
+          "paul-60208-president": 3776,
+          "rubio-53044-president": 123673,
+          "santorum-1752-president": 1725,
+          "trump-8639-president": 483751,
+          "uncommitted-100004-president": 19842
+        },
+        "votes": 1324621
+      }
+    ],
+    "delegates": 59,
+    "election_date": "2016-03-08",
+    "election_type": "primary",
+    "guid": "mi-president-primary-republican-2016-03-08",
+    "has_incumbent": false,
+    "load_id": 1457562203000,
+    "party_id": "republican",
+    "pledged_delegates": 59,
+    "poll_display": "",
+    "precincts_reporting": 4830,
+    "precincts_total": 4830,
+    "race_best_sentence": "Donald J. Trump won Michigan, according to A.P",
+    "race_best_sentence_is_fresh": false,
+    "race_call_note": "Winner called by A.P.",
+    "race_headline": "Donald Trump Wins Michigan",
+    "race_id": "mi-president-primary-republican-2016-03-08",
+    "race_name": "President",
+    "race_sentences": {
+      "poll_closing": "",
+      "race_leader_margin": "Donald J. Trump won by 12 points",
+      "race_winner": "Donald J. Trump won Michigan, according to A.P"
+    },
+    "race_type": "president",
+    "report": true,
+    "reporting_display": "100% reporting",
+    "result": "winner",
+    "result_source": "AP",
+    "state_house_districts": [],
+    "state_id": "MI",
+    "state_slug": "michigan",
+    "state_sort": 100,
+    "townships": [],
+    "uncontested": false,
+    "updated": "2016-09-29T14:37:00.000Z",
+    "votes": 1324621,
+    "wards": []
+  },
+  {
+    "article_url": "",
+    "candidates": [
+      {
+        "candidate_id": "sanders-1445-president",
+        "delegates": 67,
+        "first_name": "Bernie",
+        "last_name": "Sanders",
+        "name_display": "Bernie Sanders",
+        "order": 4,
+        "party_display": "Democrat",
+        "party_id": "democrat",
+        "percent": 49.8,
+        "percent_display": "49.8",
+        "rollup": false,
+        "us_delegates": 1846,
+        "us_superdelegates": 47,
+        "votes": 595222,
+        "winner": true
+      },
+      {
+        "candidate_id": "clinton-1746-president",
+        "delegates": 63,
+        "first_name": "Hillary",
+        "last_name": "Clinton",
+        "name_display": "Hillary Clinton",
+        "order": 1,
+        "party_display": "Democrat",
+        "party_id": "democrat",
+        "percent": 48.3,
+        "percent_display": "48.3",
+        "rollup": false,
+        "us_delegates": 2205,
+        "us_superdelegates": 609,
+        "votes": 576795
+      },
+      {
+        "candidate_id": "omalley-22603-president",
+        "delegates": 0,
+        "first_name": "Martin",
+        "last_name": "O'Malley",
+        "name_display": "Martin O'Malley",
+        "order": 3,
+        "party_display": "Democrat",
+        "party_id": "democrat",
+        "percent": 0.2,
+        "percent_display": "0.2",
+        "rollup": false,
+        "us_delegates": 0,
+        "us_superdelegates": 0,
+        "votes": 2338
+      },
+      {
+        "candidate_id": "de-la-fuente-64542-president",
+        "delegates": 0,
+        "first_name": "Rocky",
+        "last_name": "De La Fuente",
+        "name_display": "Rocky De La Fuente",
+        "order": 2,
+        "party_display": "Democrat",
+        "party_id": "democrat",
+        "percent": 0.1,
+        "percent_display": "0.1",
+        "rollup": false,
+        "us_delegates": 0,
+        "us_superdelegates": 0,
+        "votes": 863
+      },
+      {
+        "candidate_id": "uncommitted-100004-president",
+        "delegates": 0,
+        "first_name": null,
+        "last_name": "Uncommitted",
+        "name_display": "Uncommitted",
+        "order": 5,
+        "party_display": "Democrat",
+        "party_id": "democrat",
+        "percent": 1.6,
+        "percent_display": "1.6",
+        "rollup": false,
+        "us_delegates": 8,
+        "us_superdelegates": 19,
+        "votes": 19425
+      }
+    ],
+    "congressional_districts": [],
+    "convention_districts": [],
+    "counties": [
+      {
+        "fips": "26001",
+        "name": "Alcona",
+        "precincts_reporting": 12,
+        "precincts_total": 12,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 463,
+          "de-la-fuente-64542-president": 1,
+          "omalley-22603-president": 5,
+          "sanders-1445-president": 455,
+          "uncommitted-100004-president": 26
+        }
+      },
+      {
+        "fips": "26003",
+        "name": "Alger",
+        "precincts_reporting": 10,
+        "precincts_total": 10,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 384,
+          "de-la-fuente-64542-president": 1,
+          "omalley-22603-president": 3,
+          "sanders-1445-president": 622,
+          "uncommitted-100004-president": 26
+        }
+      },
+      {
+        "fips": "26005",
+        "name": "Allegan",
+        "precincts_reporting": 46,
+        "precincts_total": 46,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 3489,
+          "de-la-fuente-64542-president": 8,
+          "omalley-22603-president": 8,
+          "sanders-1445-president": 5545,
+          "uncommitted-100004-president": 141
+        }
+      },
+      {
+        "fips": "26007",
+        "name": "Alpena",
+        "precincts_reporting": 17,
+        "precincts_total": 17,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1102,
+          "de-la-fuente-64542-president": 4,
+          "omalley-22603-president": 11,
+          "sanders-1445-president": 1347,
+          "uncommitted-100004-president": 26
+        }
+      },
+      {
+        "fips": "26009",
+        "name": "Antrim",
+        "precincts_reporting": 15,
+        "precincts_total": 15,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 867,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 5,
+          "sanders-1445-president": 1491,
+          "uncommitted-100004-president": 39
+        }
+      },
+      {
+        "fips": "26011",
+        "name": "Arenac",
+        "precincts_reporting": 15,
+        "precincts_total": 15,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 595,
+          "de-la-fuente-64542-president": 3,
+          "omalley-22603-president": 5,
+          "sanders-1445-president": 663,
+          "uncommitted-100004-president": 24
+        }
+      },
+      {
+        "fips": "26013",
+        "name": "Baraga",
+        "precincts_reporting": 8,
+        "precincts_total": 8,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 270,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 3,
+          "sanders-1445-president": 371,
+          "uncommitted-100004-president": 25
+        }
+      },
+      {
+        "fips": "26015",
+        "name": "Barry",
+        "precincts_reporting": 27,
+        "precincts_total": 27,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1736,
+          "de-la-fuente-64542-president": 2,
+          "omalley-22603-president": 12,
+          "sanders-1445-president": 3078,
+          "uncommitted-100004-president": 74
+        }
+      },
+      {
+        "fips": "26017",
+        "name": "Bay",
+        "precincts_reporting": 47,
+        "precincts_total": 47,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 5937,
+          "de-la-fuente-64542-president": 16,
+          "omalley-22603-president": 41,
+          "sanders-1445-president": 6363,
+          "uncommitted-100004-president": 555
+        }
+      },
+      {
+        "fips": "26019",
+        "name": "Benzie",
+        "precincts_reporting": 13,
+        "precincts_total": 13,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 853,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 2,
+          "sanders-1445-president": 1650,
+          "uncommitted-100004-president": 43
+        }
+      },
+      {
+        "fips": "26021",
+        "name": "Berrien",
+        "precincts_reporting": 62,
+        "precincts_total": 62,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 6646,
+          "de-la-fuente-64542-president": 9,
+          "omalley-22603-president": 35,
+          "sanders-1445-president": 5952,
+          "uncommitted-100004-president": 0
+        }
+      },
+      {
+        "fips": "26023",
+        "name": "Branch",
+        "precincts_reporting": 22,
+        "precincts_total": 22,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1010,
+          "de-la-fuente-64542-president": 5,
+          "omalley-22603-president": 5,
+          "sanders-1445-president": 1246,
+          "uncommitted-100004-president": 59
+        }
+      },
+      {
+        "fips": "26025",
+        "name": "Calhoun",
+        "precincts_reporting": 62,
+        "precincts_total": 62,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 5230,
+          "de-la-fuente-64542-president": 12,
+          "omalley-22603-president": 27,
+          "sanders-1445-president": 5810,
+          "uncommitted-100004-president": 201
+        }
+      },
+      {
+        "fips": "26027",
+        "name": "Cass",
+        "precincts_reporting": 22,
+        "precincts_total": 22,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1657,
+          "de-la-fuente-64542-president": 3,
+          "omalley-22603-president": 13,
+          "sanders-1445-president": 1683,
+          "uncommitted-100004-president": 69
+        }
+      },
+      {
+        "fips": "26029",
+        "name": "Charlevoix",
+        "precincts_reporting": 20,
+        "precincts_total": 20,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1044,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 10,
+          "sanders-1445-president": 1730,
+          "uncommitted-100004-president": 58
+        }
+      },
+      {
+        "fips": "26031",
+        "name": "Cheboygan",
+        "precincts_reporting": 22,
+        "precincts_total": 22,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1010,
+          "de-la-fuente-64542-president": 1,
+          "omalley-22603-president": 5,
+          "sanders-1445-president": 1318,
+          "uncommitted-100004-president": 36
+        }
+      },
+      {
+        "fips": "26033",
+        "name": "Chippewa",
+        "precincts_reporting": 20,
+        "precincts_total": 20,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1230,
+          "de-la-fuente-64542-president": 3,
+          "omalley-22603-president": 7,
+          "sanders-1445-president": 1789,
+          "uncommitted-100004-president": 55
+        }
+      },
+      {
+        "fips": "26035",
+        "name": "Clare",
+        "precincts_reporting": 19,
+        "precincts_total": 19,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1090,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 10,
+          "sanders-1445-president": 1239,
+          "uncommitted-100004-president": 43
+        }
+      },
+      {
+        "fips": "26037",
+        "name": "Clinton",
+        "precincts_reporting": 33,
+        "precincts_total": 33,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 3409,
+          "de-la-fuente-64542-president": 6,
+          "omalley-22603-president": 15,
+          "sanders-1445-president": 4524,
+          "uncommitted-100004-president": 150
+        }
+      },
+      {
+        "fips": "26039",
+        "name": "Crawford",
+        "precincts_reporting": 10,
+        "precincts_total": 10,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 494,
+          "de-la-fuente-64542-president": 2,
+          "omalley-22603-president": 4,
+          "sanders-1445-president": 631,
+          "uncommitted-100004-president": 36
+        }
+      },
+      {
+        "fips": "26041",
+        "name": "Delta",
+        "precincts_reporting": 25,
+        "precincts_total": 25,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1409,
+          "de-la-fuente-64542-president": 7,
+          "omalley-22603-president": 8,
+          "sanders-1445-president": 1705,
+          "uncommitted-100004-president": 122
+        }
+      },
+      {
+        "fips": "26043",
+        "name": "Dickinson",
+        "precincts_reporting": 16,
+        "precincts_total": 16,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 908,
+          "de-la-fuente-64542-president": 3,
+          "omalley-22603-president": 2,
+          "sanders-1445-president": 1075,
+          "uncommitted-100004-president": 99
+        }
+      },
+      {
+        "fips": "26045",
+        "name": "Eaton",
+        "precincts_reporting": 52,
+        "precincts_total": 52,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 5560,
+          "de-la-fuente-64542-president": 11,
+          "omalley-22603-president": 32,
+          "sanders-1445-president": 7007,
+          "uncommitted-100004-president": 0
+        }
+      },
+      {
+        "fips": "26047",
+        "name": "Emmet",
+        "precincts_reporting": 23,
+        "precincts_total": 23,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1369,
+          "de-la-fuente-64542-president": 3,
+          "omalley-22603-president": 8,
+          "sanders-1445-president": 2589,
+          "uncommitted-100004-president": 68
+        }
+      },
+      {
+        "fips": "26049",
+        "name": "Genesee",
+        "precincts_reporting": 219,
+        "precincts_total": 219,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 31284,
+          "de-la-fuente-64542-president": 39,
+          "omalley-22603-president": 85,
+          "sanders-1445-president": 28117,
+          "uncommitted-100004-president": 946
+        }
+      },
+      {
+        "fips": "26051",
+        "name": "Gladwin",
+        "precincts_reporting": 18,
+        "precincts_total": 18,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 985,
+          "de-la-fuente-64542-president": 5,
+          "omalley-22603-president": 7,
+          "sanders-1445-president": 1083,
+          "uncommitted-100004-president": 46
+        }
+      },
+      {
+        "fips": "26053",
+        "name": "Gogebic",
+        "precincts_reporting": 11,
+        "precincts_total": 11,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 678,
+          "de-la-fuente-64542-president": 1,
+          "omalley-22603-president": 3,
+          "sanders-1445-president": 790,
+          "uncommitted-100004-president": 38
+        }
+      },
+      {
+        "fips": "26055",
+        "name": "Grand Traverse",
+        "precincts_reporting": 36,
+        "precincts_total": 36,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 4140,
+          "de-la-fuente-64542-president": 8,
+          "omalley-22603-president": 30,
+          "sanders-1445-president": 8091,
+          "uncommitted-100004-president": 206
+        }
+      },
+      {
+        "fips": "26057",
+        "name": "Gratiot",
+        "precincts_reporting": 21,
+        "precincts_total": 21,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1185,
+          "de-la-fuente-64542-president": 1,
+          "omalley-22603-president": 9,
+          "sanders-1445-president": 1812,
+          "uncommitted-100004-president": 0
+        }
+      },
+      {
+        "fips": "26059",
+        "name": "Hillsdale",
+        "precincts_reporting": 26,
+        "precincts_total": 26,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 977,
+          "de-la-fuente-64542-president": 6,
+          "omalley-22603-president": 10,
+          "sanders-1445-president": 1380,
+          "uncommitted-100004-president": 59
+        }
+      },
+      {
+        "fips": "26061",
+        "name": "Houghton",
+        "precincts_reporting": 31,
+        "precincts_total": 31,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1109,
+          "de-la-fuente-64542-president": 1,
+          "omalley-22603-president": 4,
+          "sanders-1445-president": 2039,
+          "uncommitted-100004-president": 35
+        }
+      },
+      {
+        "fips": "26063",
+        "name": "Huron",
+        "precincts_reporting": 31,
+        "precincts_total": 31,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1050,
+          "de-la-fuente-64542-president": 4,
+          "omalley-22603-president": 9,
+          "sanders-1445-president": 1184,
+          "uncommitted-100004-president": 36
+        }
+      },
+      {
+        "fips": "26065",
+        "name": "Ingham",
+        "precincts_reporting": 121,
+        "precincts_total": 121,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 18287,
+          "de-la-fuente-64542-president": 36,
+          "omalley-22603-president": 61,
+          "sanders-1445-president": 22909,
+          "uncommitted-100004-president": 569
+        }
+      },
+      {
+        "fips": "26067",
+        "name": "Ionia",
+        "precincts_reporting": 31,
+        "precincts_total": 31,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1491,
+          "de-la-fuente-64542-president": 6,
+          "omalley-22603-president": 15,
+          "sanders-1445-president": 2812,
+          "uncommitted-100004-president": 62
+        }
+      },
+      {
+        "fips": "26069",
+        "name": "Iosco",
+        "precincts_reporting": 18,
+        "precincts_total": 18,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1077,
+          "de-la-fuente-64542-president": 1,
+          "omalley-22603-president": 3,
+          "sanders-1445-president": 1202,
+          "uncommitted-100004-president": 54
+        }
+      },
+      {
+        "fips": "26071",
+        "name": "Iron",
+        "precincts_reporting": 16,
+        "precincts_total": 16,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 527,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 546,
+          "uncommitted-100004-president": 18
+        }
+      },
+      {
+        "fips": "26073",
+        "name": "Isabella",
+        "precincts_reporting": 29,
+        "precincts_total": 29,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 2032,
+          "de-la-fuente-64542-president": 3,
+          "omalley-22603-president": 9,
+          "sanders-1445-president": 4024,
+          "uncommitted-100004-president": 55
+        }
+      },
+      {
+        "fips": "26075",
+        "name": "Jackson",
+        "precincts_reporting": 63,
+        "precincts_total": 63,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 5288,
+          "de-la-fuente-64542-president": 13,
+          "omalley-22603-president": 43,
+          "sanders-1445-president": 6804,
+          "uncommitted-100004-president": 230
+        }
+      },
+      {
+        "fips": "26077",
+        "name": "Kalamazoo",
+        "precincts_reporting": 108,
+        "precincts_total": 108,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 12593,
+          "de-la-fuente-64542-president": 23,
+          "omalley-22603-president": 52,
+          "sanders-1445-president": 20146,
+          "uncommitted-100004-president": 408
+        }
+      },
+      {
+        "fips": "26079",
+        "name": "Kalkaska",
+        "precincts_reporting": 13,
+        "precincts_total": 13,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 590,
+          "de-la-fuente-64542-president": 3,
+          "omalley-22603-president": 5,
+          "sanders-1445-president": 987,
+          "uncommitted-100004-president": 0
+        }
+      },
+      {
+        "fips": "26081",
+        "name": "Kent",
+        "precincts_reporting": 250,
+        "precincts_total": 250,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 25899,
+          "de-la-fuente-64542-president": 43,
+          "omalley-22603-president": 111,
+          "sanders-1445-president": 43375,
+          "uncommitted-100004-president": 0
+        }
+      },
+      {
+        "fips": "26083",
+        "name": "Keweenaw",
+        "precincts_reporting": 5,
+        "precincts_total": 5,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 128,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 188,
+          "uncommitted-100004-president": 6
+        }
+      },
+      {
+        "fips": "26085",
+        "name": "Lake",
+        "precincts_reporting": 19,
+        "precincts_total": 19,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 548,
+          "de-la-fuente-64542-president": 1,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 514,
+          "uncommitted-100004-president": 30
+        }
+      },
+      {
+        "fips": "26087",
+        "name": "Lapeer",
+        "precincts_reporting": 36,
+        "precincts_total": 36,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 3319,
+          "de-la-fuente-64542-president": 10,
+          "omalley-22603-president": 26,
+          "sanders-1445-president": 4650,
+          "uncommitted-100004-president": 221
+        }
+      },
+      {
+        "fips": "26089",
+        "name": "Leelanau",
+        "precincts_reporting": 14,
+        "precincts_total": 14,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1459,
+          "de-la-fuente-64542-president": 2,
+          "omalley-22603-president": 8,
+          "sanders-1445-president": 2359,
+          "uncommitted-100004-president": 38
+        }
+      },
+      {
+        "fips": "26091",
+        "name": "Lenawee",
+        "precincts_reporting": 43,
+        "precincts_total": 43,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 3455,
+          "de-la-fuente-64542-president": 5,
+          "omalley-22603-president": 21,
+          "sanders-1445-president": 4256,
+          "uncommitted-100004-president": 163
+        }
+      },
+      {
+        "fips": "26093",
+        "name": "Livingston",
+        "precincts_reporting": 81,
+        "precincts_total": 81,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 6705,
+          "de-la-fuente-64542-president": 7,
+          "omalley-22603-president": 38,
+          "sanders-1445-president": 10435,
+          "uncommitted-100004-president": 396
+        }
+      },
+      {
+        "fips": "26095",
+        "name": "Luce",
+        "precincts_reporting": 4,
+        "precincts_total": 4,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 167,
+          "de-la-fuente-64542-president": 1,
+          "omalley-22603-president": 1,
+          "sanders-1445-president": 291,
+          "uncommitted-100004-president": 11
+        }
+      },
+      {
+        "fips": "26097",
+        "name": "Mackinac",
+        "precincts_reporting": 14,
+        "precincts_total": 14,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 500,
+          "de-la-fuente-64542-president": 3,
+          "omalley-22603-president": 4,
+          "sanders-1445-president": 633,
+          "uncommitted-100004-president": 0
+        }
+      },
+      {
+        "fips": "26099",
+        "name": "Macomb",
+        "precincts_reporting": 337,
+        "precincts_total": 337,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 47597,
+          "de-la-fuente-64542-president": 69,
+          "omalley-22603-president": 287,
+          "sanders-1445-president": 46242,
+          "uncommitted-100004-president": 3333
+        }
+      },
+      {
+        "fips": "26101",
+        "name": "Manistee",
+        "precincts_reporting": 16,
+        "precincts_total": 16,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1120,
+          "de-la-fuente-64542-president": 4,
+          "omalley-22603-president": 5,
+          "sanders-1445-president": 1646,
+          "uncommitted-100004-president": 51
+        }
+      },
+      {
+        "fips": "26103",
+        "name": "Marquette",
+        "precincts_reporting": 36,
+        "precincts_total": 36,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 3188,
+          "de-la-fuente-64542-president": 9,
+          "omalley-22603-president": 27,
+          "sanders-1445-president": 5530,
+          "uncommitted-100004-president": 203
+        }
+      },
+      {
+        "fips": "26105",
+        "name": "Mason",
+        "precincts_reporting": 25,
+        "precincts_total": 25,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1223,
+          "de-la-fuente-64542-president": 1,
+          "omalley-22603-president": 6,
+          "sanders-1445-president": 1741,
+          "uncommitted-100004-president": 44
+        }
+      },
+      {
+        "fips": "26107",
+        "name": "Mecosta",
+        "precincts_reporting": 21,
+        "precincts_total": 21,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1173,
+          "de-la-fuente-64542-president": 1,
+          "omalley-22603-president": 12,
+          "sanders-1445-president": 1767,
+          "uncommitted-100004-president": 63
+        }
+      },
+      {
+        "fips": "26109",
+        "name": "Menominee",
+        "precincts_reporting": 20,
+        "precincts_total": 20,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 835,
+          "de-la-fuente-64542-president": 2,
+          "omalley-22603-president": 8,
+          "sanders-1445-president": 805,
+          "uncommitted-100004-president": 64
+        }
+      },
+      {
+        "fips": "26111",
+        "name": "Midland",
+        "precincts_reporting": 50,
+        "precincts_total": 50,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 3097,
+          "de-la-fuente-64542-president": 7,
+          "omalley-22603-president": 20,
+          "sanders-1445-president": 4568,
+          "uncommitted-100004-president": 88
+        }
+      },
+      {
+        "fips": "26113",
+        "name": "Missaukee",
+        "precincts_reporting": 17,
+        "precincts_total": 17,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 399,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 1,
+          "sanders-1445-president": 591,
+          "uncommitted-100004-president": 33
+        }
+      },
+      {
+        "fips": "26115",
+        "name": "Monroe",
+        "precincts_reporting": 70,
+        "precincts_total": 70,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 6716,
+          "de-la-fuente-64542-president": 15,
+          "omalley-22603-president": 47,
+          "sanders-1445-president": 6842,
+          "uncommitted-100004-president": 595
+        }
+      },
+      {
+        "fips": "26117",
+        "name": "Montcalm",
+        "precincts_reporting": 32,
+        "precincts_total": 32,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1681,
+          "de-la-fuente-64542-president": 1,
+          "omalley-22603-president": 22,
+          "sanders-1445-president": 2762,
+          "uncommitted-100004-president": 96
+        }
+      },
+      {
+        "fips": "26119",
+        "name": "Montmorency",
+        "precincts_reporting": 9,
+        "precincts_total": 9,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 392,
+          "de-la-fuente-64542-president": 1,
+          "omalley-22603-president": 1,
+          "sanders-1445-president": 383,
+          "uncommitted-100004-president": 28
+        }
+      },
+      {
+        "fips": "26121",
+        "name": "Muskegon",
+        "precincts_reporting": 67,
+        "precincts_total": 67,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 8220,
+          "de-la-fuente-64542-president": 25,
+          "omalley-22603-president": 47,
+          "sanders-1445-president": 10062,
+          "uncommitted-100004-president": 377
+        }
+      },
+      {
+        "fips": "26123",
+        "name": "Newaygo",
+        "precincts_reporting": 30,
+        "precincts_total": 30,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1290,
+          "de-la-fuente-64542-president": 4,
+          "omalley-22603-president": 8,
+          "sanders-1445-president": 2139,
+          "uncommitted-100004-president": 85
+        }
+      },
+      {
+        "fips": "26125",
+        "name": "Oakland",
+        "precincts_reporting": 520,
+        "precincts_total": 520,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 92296,
+          "de-la-fuente-64542-president": 99,
+          "omalley-22603-president": 270,
+          "sanders-1445-president": 84158,
+          "uncommitted-100004-president": 2824
+        }
+      },
+      {
+        "fips": "26127",
+        "name": "Oceana",
+        "precincts_reporting": 18,
+        "precincts_total": 18,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 791,
+          "de-la-fuente-64542-president": 5,
+          "omalley-22603-president": 6,
+          "sanders-1445-president": 1237,
+          "uncommitted-100004-president": 31
+        }
+      },
+      {
+        "fips": "26129",
+        "name": "Ogemaw",
+        "precincts_reporting": 21,
+        "precincts_total": 21,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 862,
+          "de-la-fuente-64542-president": 2,
+          "omalley-22603-president": 8,
+          "sanders-1445-president": 926,
+          "uncommitted-100004-president": 66
+        }
+      },
+      {
+        "fips": "26131",
+        "name": "Ontonagon",
+        "precincts_reporting": 12,
+        "precincts_total": 12,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 327,
+          "de-la-fuente-64542-president": 1,
+          "omalley-22603-president": 4,
+          "sanders-1445-president": 362,
+          "uncommitted-100004-president": 43
+        }
+      },
+      {
+        "fips": "26133",
+        "name": "Osceola",
+        "precincts_reporting": 18,
+        "precincts_total": 18,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 670,
+          "de-la-fuente-64542-president": 3,
+          "omalley-22603-president": 6,
+          "sanders-1445-president": 953,
+          "uncommitted-100004-president": 27
+        }
+      },
+      {
+        "fips": "26135",
+        "name": "Oscoda",
+        "precincts_reporting": 7,
+        "precincts_total": 7,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 273,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 1,
+          "sanders-1445-president": 315,
+          "uncommitted-100004-president": 19
+        }
+      },
+      {
+        "fips": "26137",
+        "name": "Otsego",
+        "precincts_reporting": 13,
+        "precincts_total": 13,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 786,
+          "de-la-fuente-64542-president": 4,
+          "omalley-22603-president": 9,
+          "sanders-1445-president": 1228,
+          "uncommitted-100004-president": 43
+        }
+      },
+      {
+        "fips": "26139",
+        "name": "Ottawa",
+        "precincts_reporting": 106,
+        "precincts_total": 106,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 7686,
+          "de-la-fuente-64542-president": 14,
+          "omalley-22603-president": 46,
+          "sanders-1445-president": 14334,
+          "uncommitted-100004-president": 240
+        }
+      },
+      {
+        "fips": "26141",
+        "name": "Presque Isle",
+        "precincts_reporting": 17,
+        "precincts_total": 17,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 592,
+          "de-la-fuente-64542-president": 2,
+          "omalley-22603-president": 9,
+          "sanders-1445-president": 606,
+          "uncommitted-100004-president": 32
+        }
+      },
+      {
+        "fips": "26143",
+        "name": "Roscommon",
+        "precincts_reporting": 14,
+        "precincts_total": 14,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1163,
+          "de-la-fuente-64542-president": 4,
+          "omalley-22603-president": 6,
+          "sanders-1445-president": 1187,
+          "uncommitted-100004-president": 97
+        }
+      },
+      {
+        "fips": "26145",
+        "name": "Saginaw",
+        "precincts_reporting": 86,
+        "precincts_total": 86,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 12348,
+          "de-la-fuente-64542-president": 25,
+          "omalley-22603-president": 38,
+          "sanders-1445-president": 9619,
+          "uncommitted-100004-president": 344
+        }
+      },
+      {
+        "fips": "26147",
+        "name": "St. Clair",
+        "precincts_reporting": 69,
+        "precincts_total": 69,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 3665,
+          "de-la-fuente-64542-president": 16,
+          "omalley-22603-president": 34,
+          "sanders-1445-president": 5165,
+          "uncommitted-100004-president": 0
+        }
+      },
+      {
+        "fips": "26149",
+        "name": "St. Joseph",
+        "precincts_reporting": 24,
+        "precincts_total": 24,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1382,
+          "de-la-fuente-64542-president": 4,
+          "omalley-22603-president": 13,
+          "sanders-1445-president": 2219,
+          "uncommitted-100004-president": 52
+        }
+      },
+      {
+        "fips": "26151",
+        "name": "Sanilac",
+        "precincts_reporting": 31,
+        "precincts_total": 31,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1160,
+          "de-la-fuente-64542-president": 2,
+          "omalley-22603-president": 16,
+          "sanders-1445-president": 1485,
+          "uncommitted-100004-president": 99
+        }
+      },
+      {
+        "fips": "26153",
+        "name": "Schoolcraft",
+        "precincts_reporting": 11,
+        "precincts_total": 11,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 312,
+          "de-la-fuente-64542-president": 2,
+          "omalley-22603-president": 1,
+          "sanders-1445-president": 345,
+          "uncommitted-100004-president": 22
+        }
+      },
+      {
+        "fips": "26155",
+        "name": "Shiawassee",
+        "precincts_reporting": 33,
+        "precincts_total": 33,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 3031,
+          "de-la-fuente-64542-president": 7,
+          "omalley-22603-president": 16,
+          "sanders-1445-president": 4452,
+          "uncommitted-100004-president": 191
+        }
+      },
+      {
+        "fips": "26157",
+        "name": "Tuscola",
+        "precincts_reporting": 31,
+        "precincts_total": 31,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 1984,
+          "de-la-fuente-64542-president": 3,
+          "omalley-22603-president": 14,
+          "sanders-1445-president": 2532,
+          "uncommitted-100004-president": 119
+        }
+      },
+      {
+        "fips": "26159",
+        "name": "Van Buren",
+        "precincts_reporting": 33,
+        "precincts_total": 33,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 2484,
+          "de-la-fuente-64542-president": 8,
+          "omalley-22603-president": 10,
+          "sanders-1445-president": 3656,
+          "uncommitted-100004-president": 94
+        }
+      },
+      {
+        "fips": "26161",
+        "name": "Washtenaw",
+        "precincts_reporting": 141,
+        "precincts_total": 141,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 30022,
+          "de-la-fuente-64542-president": 36,
+          "omalley-22603-president": 70,
+          "sanders-1445-president": 38063,
+          "uncommitted-100004-president": 506
+        }
+      },
+      {
+        "fips": "26163",
+        "name": "Wayne",
+        "precincts_reporting": 999,
+        "precincts_total": 999,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 163886,
+          "de-la-fuente-64542-president": 160,
+          "omalley-22603-president": 431,
+          "sanders-1445-president": 104999,
+          "uncommitted-100004-president": 3871
+        }
+      },
+      {
+        "fips": "26165",
+        "name": "Wexford",
+        "precincts_reporting": 20,
+        "precincts_total": 20,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 909,
+          "de-la-fuente-64542-president": 5,
+          "omalley-22603-president": 9,
+          "sanders-1445-president": 1793,
+          "uncommitted-100004-president": 43
+        }
+      }
+    ],
+    "delegate_districts": [
+      {
+        "delegates": {
+          "clinton-1746-president": 13,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 14,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": null,
+        "name": "At Large",
+        "precincts_reporting": 4830,
+        "precincts_total": 4830,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 576795,
+          "de-la-fuente-64542-president": 863,
+          "omalley-22603-president": 2338,
+          "sanders-1445-president": 595222,
+          "uncommitted-100004-president": 19425
+        },
+        "votes": 1194643
+      },
+      {
+        "delegates": {
+          "clinton-1746-president": 8,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 9,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": null,
+        "name": "PLEO",
+        "precincts_reporting": 4830,
+        "precincts_total": 4830,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 576795,
+          "de-la-fuente-64542-president": 863,
+          "omalley-22603-president": 2338,
+          "sanders-1445-president": 595222,
+          "uncommitted-100004-president": 19425
+        },
+        "votes": 1194643
+      },
+      {
+        "delegates": {
+          "clinton-1746-president": 2,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 3,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": "MI01",
+        "name": "District 1",
+        "precincts_reporting": 503,
+        "precincts_total": 503,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 28860,
+          "de-la-fuente-64542-president": 69,
+          "omalley-22603-president": 193,
+          "sanders-1445-president": 44354,
+          "uncommitted-100004-president": 1526
+        },
+        "votes": 75002
+      },
+      {
+        "delegates": {
+          "clinton-1746-president": 2,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 3,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": "MI02",
+        "name": "District 2",
+        "precincts_reporting": 323,
+        "precincts_total": 323,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 25724,
+          "de-la-fuente-64542-president": 63,
+          "omalley-22603-president": 141,
+          "sanders-1445-president": 39851,
+          "uncommitted-100004-president": 797
+        },
+        "votes": 66576
+      },
+      {
+        "delegates": {
+          "clinton-1746-president": 2,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 2,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": "MI03",
+        "name": "District 3",
+        "precincts_reporting": 310,
+        "precincts_total": 310,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 28307,
+          "de-la-fuente-64542-president": 50,
+          "omalley-22603-president": 138,
+          "sanders-1445-president": 45211,
+          "uncommitted-100004-president": 357
+        },
+        "votes": 74063
+      },
+      {
+        "delegates": {
+          "clinton-1746-president": 2,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 3,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": "MI04",
+        "name": "District 4",
+        "precincts_reporting": 383,
+        "precincts_total": 383,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 25357,
+          "de-la-fuente-64542-president": 55,
+          "omalley-22603-president": 164,
+          "sanders-1445-president": 35625,
+          "uncommitted-100004-president": 1135
+        },
+        "votes": 62336
+      },
+      {
+        "delegates": {
+          "clinton-1746-president": 3,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 3,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": "MI05",
+        "name": "District 5",
+        "precincts_reporting": 353,
+        "precincts_total": 353,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 48374,
+          "de-la-fuente-64542-president": 74,
+          "omalley-22603-president": 163,
+          "sanders-1445-president": 42643,
+          "uncommitted-100004-president": 1797
+        },
+        "votes": 93051
+      },
+      {
+        "delegates": {
+          "clinton-1746-president": 2,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 3,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": "MI06",
+        "name": "District 6",
+        "precincts_reporting": 294,
+        "precincts_total": 294,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 28162,
+          "de-la-fuente-64542-president": 55,
+          "omalley-22603-president": 131,
+          "sanders-1445-president": 39049,
+          "uncommitted-100004-president": 764
+        },
+        "votes": 68161
+      },
+      {
+        "delegates": {
+          "clinton-1746-president": 2,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 3,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": "MI07",
+        "name": "District 7",
+        "precincts_reporting": 318,
+        "precincts_total": 318,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 28879,
+          "de-la-fuente-64542-president": 62,
+          "omalley-22603-president": 183,
+          "sanders-1445-president": 35899,
+          "uncommitted-100004-president": 1304
+        },
+        "votes": 66327
+      },
+      {
+        "delegates": {
+          "clinton-1746-president": 2,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 3,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": "MI08",
+        "name": "District 8",
+        "precincts_reporting": 186,
+        "precincts_total": 310,
+        "reporting_display": "60% reporting",
+        "results": {
+          "clinton-1746-president": 17321,
+          "de-la-fuente-64542-president": 22,
+          "omalley-22603-president": 92,
+          "sanders-1445-president": 24389,
+          "uncommitted-100004-president": 931
+        },
+        "votes": 42755
+      },
+      {
+        "delegates": {
+          "clinton-1746-president": 3,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 3,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": "MI09",
+        "name": "District 9",
+        "precincts_reporting": 306,
+        "precincts_total": 306,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 48567,
+          "de-la-fuente-64542-president": 63,
+          "omalley-22603-president": 241,
+          "sanders-1445-president": 50897,
+          "uncommitted-100004-president": 2537
+        },
+        "votes": 102305
+      },
+      {
+        "delegates": {
+          "clinton-1746-president": 2,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 3,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": "MI10",
+        "name": "District 10",
+        "precincts_reporting": 326,
+        "precincts_total": 326,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 25935,
+          "de-la-fuente-64542-president": 61,
+          "omalley-22603-president": 201,
+          "sanders-1445-president": 30440,
+          "uncommitted-100004-president": 1743
+        },
+        "votes": 58380
+      },
+      {
+        "delegates": {
+          "clinton-1746-president": 3,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 3,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": "MI11",
+        "name": "District 11",
+        "precincts_reporting": 298,
+        "precincts_total": 298,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 39980,
+          "de-la-fuente-64542-president": 38,
+          "omalley-22603-president": 128,
+          "sanders-1445-president": 45259,
+          "uncommitted-100004-president": 1522
+        },
+        "votes": 86927
+      },
+      {
+        "delegates": {
+          "clinton-1746-president": 3,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 3,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": "MI12",
+        "name": "District 12",
+        "precincts_reporting": 305,
+        "precincts_total": 305,
+        "reporting_display": "100% reporting",
+        "results": {
+          "clinton-1746-president": 50042,
+          "de-la-fuente-64542-president": 68,
+          "omalley-22603-president": 165,
+          "sanders-1445-president": 58724,
+          "uncommitted-100004-president": 1606
+        },
+        "votes": 110605
+      },
+      {
+        "delegates": {
+          "clinton-1746-president": 4,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 4,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": "MI13",
+        "name": "District 13",
+        "precincts_reporting": 157,
+        "precincts_total": 427,
+        "reporting_display": "37% reporting",
+        "results": {
+          "clinton-1746-president": 25824,
+          "de-la-fuente-64542-president": 34,
+          "omalley-22603-president": 93,
+          "sanders-1445-president": 20069,
+          "uncommitted-100004-president": 758
+        },
+        "votes": 46778
+      },
+      {
+        "delegates": {
+          "clinton-1746-president": 5,
+          "de-la-fuente-64542-president": 0,
+          "omalley-22603-president": 0,
+          "sanders-1445-president": 3,
+          "uncommitted-100004-president": 0
+        },
+        "geoid": "MI14",
+        "name": "District 14",
+        "precincts_reporting": 161,
+        "precincts_total": 381,
+        "reporting_display": "42% reporting",
+        "results": {
+          "clinton-1746-president": 47601,
+          "de-la-fuente-64542-president": 44,
+          "omalley-22603-president": 87,
+          "sanders-1445-president": 27368,
+          "uncommitted-100004-president": 962
+        },
+        "votes": 76062
+      }
+    ],
+    "delegates": 147,
+    "election_date": "2016-03-08",
+    "election_type": "primary",
+    "guid": "mi-president-primary-democrat-2016-03-08",
+    "has_incumbent": false,
+    "load_id": 1457562203000,
+    "party_id": "democrat",
+    "pledged_delegates": 130,
+    "poll_display": "",
+    "precincts_reporting": 4830,
+    "precincts_total": 4830,
+    "race_best_sentence": "Bernie Sanders won Michigan, according to A.P",
+    "race_best_sentence_is_fresh": false,
+    "race_call_note": "Winner called by A.P.",
+    "race_headline": "Bernie Sanders Wins Michigan",
+    "race_id": "mi-president-primary-democrat-2016-03-08",
+    "race_name": "President",
+    "race_sentences": {
+      "poll_closing": "",
+      "race_leader_margin": "Bernie Sanders won by 2 points",
+      "race_winner": "Bernie Sanders won Michigan, according to A.P"
+    },
+    "race_type": "president",
+    "report": true,
+    "reporting_display": "100% reporting",
+    "result": "winner",
+    "result_source": "AP",
+    "state_house_districts": [],
+    "state_id": "MI",
+    "state_slug": "michigan",
+    "state_sort": 100,
+    "townships": [],
+    "uncontested": false,
+    "updated": "2016-09-29T14:37:00.000Z",
+    "votes": 1194643,
+    "wards": []
+  }
+]
