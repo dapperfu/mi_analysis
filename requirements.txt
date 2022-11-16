@@ -3,8 +3,8 @@ matplotlib
 notebook
 numpy
 pandas
-
 pre-commit
 requests
 scikit-learn
 seaborn
+selenium

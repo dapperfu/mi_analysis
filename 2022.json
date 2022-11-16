@@ -143,7 +143,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 225009,
-              "total": 2426365
+              "total": 2427985
             }
           },
           {
@@ -152,7 +152,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 62387,
-              "total": 1956599
+              "total": 1958311
             }
           },
           {
@@ -161,7 +161,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 1372,
-              "total": 38833
+              "total": 38860
             }
           },
           {
@@ -170,7 +170,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 683,
-              "total": 16291
+              "total": 16280
             }
           },
           {
@@ -179,7 +179,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 541,
-              "total": 10792
+              "total": 10788
             }
           },
           {
@@ -188,7 +188,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 213,
-              "total": 5000
+              "total": 4995
             }
           }
         ],
@@ -206,7 +206,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 4498111,
-        "total_votes": 4453880
+        "total_votes": 4457219
       },
       {
         "candidates": [
@@ -641,7 +641,7 @@
             "nyt_id": "dixon-t",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 85350
+              "total": 87040
             }
           },
           {
@@ -649,7 +649,7 @@
             "nyt_id": "whitmer-g",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 58939
+              "total": 60534
             }
           },
           {
@@ -657,7 +657,7 @@
             "nyt_id": "buzuma-m",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 1383
+              "total": 1426
             }
           },
           {
@@ -665,7 +665,7 @@
             "nyt_id": "brandenburg-d",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 377
+              "total": 385
             }
           },
           {
@@ -673,7 +673,7 @@
             "nyt_id": "hogan-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 255
+              "total": 261
             }
           },
           {
@@ -681,7 +681,7 @@
             "nyt_id": "simpson-d",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 103
+              "total": 104
             }
           }
         ],
@@ -698,8 +698,8 @@
         "precincts_total": 113,
         "state_abb": "Mich.",
         "state_postal": "MI",
-        "total_expected_vote": 147886,
-        "total_votes": 146407
+        "total_expected_vote": 151263,
+        "total_votes": 149750
       },
       {
         "candidates": [
@@ -909,7 +909,7 @@
             "nyt_id": "whitmer-g",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 43193
+              "total": 43219
             }
           },
           {
@@ -917,7 +917,7 @@
             "nyt_id": "dixon-t",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 37003
+              "total": 37002
             }
           },
           {
@@ -925,7 +925,7 @@
             "nyt_id": "buzuma-m",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 706
+              "total": 689
             }
           },
           {
@@ -933,7 +933,7 @@
             "nyt_id": "brandenburg-d",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 339
+              "total": 324
             }
           },
           {
@@ -941,7 +941,7 @@
             "nyt_id": "hogan-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 216
+              "total": 207
             }
           },
           {
@@ -949,11 +949,11 @@
             "nyt_id": "simpson-d",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 115
+              "total": 109
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.97,
         "eevp_max": 99,
         "fips_county": "145",
         "fips_state": "26",
@@ -967,7 +967,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 82396,
-        "total_votes": 81572
+        "total_votes": 81550
       },
       {
         "candidates": [
@@ -1579,7 +1579,7 @@
             "nyt_id": "whitmer-g",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 24762
+              "total": 24780
             }
           },
           {
@@ -1587,7 +1587,7 @@
             "nyt_id": "dixon-t",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 23413
+              "total": 23443
             }
           },
           {
@@ -1595,7 +1595,7 @@
             "nyt_id": "buzuma-m",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 465
+              "total": 466
             }
           },
           {
@@ -1637,7 +1637,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 49648,
-        "total_votes": 49152
+        "total_votes": 49201
       },
       {
         "candidates": [
@@ -2190,7 +2190,7 @@
             "nyt_id": "whitmer-g",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 10844
+              "total": 10845
             }
           },
           {
@@ -2240,7 +2240,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 27480,
-        "total_votes": 27205
+        "total_votes": 27206
       },
       {
         "candidates": [
@@ -2383,7 +2383,7 @@
             "nyt_id": "whitmer-g",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 12603
+              "total": 12581
             }
           },
           {
@@ -2391,7 +2391,7 @@
             "nyt_id": "dixon-t",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 10929
+              "total": 10927
             }
           },
           {
@@ -2415,7 +2415,7 @@
             "nyt_id": "hogan-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 77
+              "total": 76
             }
           },
           {
@@ -2427,7 +2427,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.9,
         "eevp_max": 99,
         "fips_county": "073",
         "fips_state": "26",
@@ -2441,7 +2441,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 24224,
-        "total_votes": 23982
+        "total_votes": 23957
       },
       {
         "candidates": [
@@ -2919,7 +2919,7 @@
             "nyt_id": "dixon-t",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 10102
+              "total": 10097
             }
           },
           {
@@ -2963,7 +2963,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.97,
         "eevp_max": 99,
         "fips_county": "041",
         "fips_state": "26",
@@ -2977,7 +2977,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 17521,
-        "total_votes": 17346
+        "total_votes": 17341
       },
       {
         "candidates": [
@@ -3195,7 +3195,7 @@
             "nyt_id": "whitmer-g",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 6283
+              "total": 6285
             }
           },
           {
@@ -3245,7 +3245,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 15477,
-        "total_votes": 15322
+        "total_votes": 15324
       },
       {
         "candidates": [
@@ -3932,7 +3932,7 @@
             "nyt_id": "whitmer-g",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 5265
+              "total": 5266
             }
           },
           {
@@ -3982,7 +3982,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 12758,
-        "total_votes": 12630
+        "total_votes": 12631
       },
       {
         "candidates": [
@@ -4133,7 +4133,7 @@
             "nyt_id": "whitmer-g",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 4422
+              "total": 4421
             }
           },
           {
@@ -4183,7 +4183,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 12146,
-        "total_votes": 12025
+        "total_votes": 12024
       },
       {
         "candidates": [
@@ -4811,7 +4811,7 @@
             "nyt_id": "brandenburg-d",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 58
+              "total": 54
             }
           },
           {
@@ -4839,7 +4839,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.95,
         "eevp_max": 99,
         "fips_county": "011",
         "fips_state": "26",
@@ -4853,7 +4853,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 7242,
-        "total_votes": 7170
+        "total_votes": 7166
       },
       {
         "candidates": [
@@ -5805,7 +5805,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 225009,
-            "total": 2426365
+            "total": 2427985
           }
         },
         {
@@ -5814,7 +5814,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 62387,
-            "total": 1956599
+            "total": 1958311
           }
         },
         {
@@ -5823,7 +5823,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 1372,
-            "total": 38833
+            "total": 38860
           }
         },
         {
@@ -5832,7 +5832,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 683,
-            "total": 16291
+            "total": 16280
           }
         },
         {
@@ -5841,7 +5841,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 541,
-            "total": 10792
+            "total": 10788
           }
         },
         {
@@ -5850,7 +5850,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 213,
-            "total": 5000
+            "total": 4995
           }
         }
       ],
@@ -5866,15 +5866,15 @@
       "precincts_reporting": 4690,
       "precincts_total": 4690,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T14:16:31.742+00:00",
+      "provider_updated_at": "2022-11-14T21:29:02.494+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 4498111,
-      "total_votes": 4453880
+      "total_votes": 4457219
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T14:16:31.742Z",
+    "updated_at": "2022-11-14T21:29:02.494Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-governor.html"
   },
   {
@@ -6080,7 +6080,7 @@
             "nyt_id": "bergman-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 231637
+              "total": 231652
             }
           },
           {
@@ -6088,7 +6088,7 @@
             "nyt_id": "lorinser-b",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 145082
+              "total": 144952
             }
           },
           {
@@ -6108,7 +6108,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.97,
         "eevp_max": 99,
         "fips_county": null,
         "fips_state": "26",
@@ -6127,7 +6127,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 390677,
-        "total_votes": 386768
+        "total_votes": 386653
       }
     ],
     "seat": "District 1",
@@ -6140,7 +6140,7 @@
           "nyt_id": "bergman-j",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 231637
+            "total": 231652
           }
         },
         {
@@ -6148,7 +6148,7 @@
           "nyt_id": "lorinser-b",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 145082
+            "total": 144952
           }
         },
         {
@@ -6168,7 +6168,7 @@
           }
         }
       ],
-      "eevp": 99,
+      "eevp": 98.97,
       "eevp_max": 99,
       "fips_county": null,
       "fips_state": "26",
@@ -6185,15 +6185,15 @@
       "precincts_reporting": 561,
       "precincts_total": 561,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:19.378+00:00",
+      "provider_updated_at": "2022-11-14T21:29:02.09+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 390677,
-      "total_votes": 386768
+      "total_votes": 386653
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:19.378Z",
+    "updated_at": "2022-11-14T21:29:02.090Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-us-house-district-1.html"
   },
   {
@@ -6383,7 +6383,7 @@
             "nyt_id": "moolenaar-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 215096
+              "total": 215092
             }
           },
           {
@@ -6391,7 +6391,7 @@
             "nyt_id": "hilliard-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 115731
+              "total": 115710
             }
           },
           {
@@ -6403,7 +6403,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.99,
         "eevp_max": 99,
         "fips_county": null,
         "fips_state": "26",
@@ -6422,7 +6422,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 341056,
-        "total_votes": 337645
+        "total_votes": 337620
       }
     ],
     "seat": "District 2",
@@ -6435,7 +6435,7 @@
           "nyt_id": "moolenaar-j",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 215096
+            "total": 215092
           }
         },
         {
@@ -6443,7 +6443,7 @@
           "nyt_id": "hilliard-j",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 115731
+            "total": 115710
           }
         },
         {
@@ -6455,7 +6455,7 @@
           }
         }
       ],
-      "eevp": 99,
+      "eevp": 98.99,
       "eevp_max": 99,
       "fips_county": null,
       "fips_state": "26",
@@ -6472,15 +6472,15 @@
       "precincts_reporting": 400,
       "precincts_total": 400,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:19.335+00:00",
+      "provider_updated_at": "2022-11-14T21:29:02.233+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 341056,
-      "total_votes": 337645
+      "total_votes": 337620
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:19.335Z",
+    "updated_at": "2022-11-14T21:29:02.233Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-us-house-district-2.html"
   },
   {
@@ -6799,7 +6799,7 @@
       "precincts_reporting": 297,
       "precincts_total": 297,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:19.085+00:00",
+      "provider_updated_at": "2022-11-14T17:22:15.04+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 342767,
@@ -6807,7 +6807,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:19.085Z",
+    "updated_at": "2022-11-14T17:22:15.040Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-us-house-district-3.html"
   },
   {
@@ -7013,7 +7013,7 @@
             "nyt_id": "huizenga-b",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 183925
+              "total": 185778
             }
           },
           {
@@ -7021,7 +7021,7 @@
             "nyt_id": "alfonso-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 143678
+              "total": 145041
             }
           },
           {
@@ -7029,7 +7029,7 @@
             "nyt_id": "wenke-l",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 8478
+              "total": 8525
             }
           },
           {
@@ -7037,7 +7037,7 @@
             "nyt_id": "clark-c",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 2244
+              "total": 2260
             }
           }
         ],
@@ -7059,8 +7059,8 @@
         "precincts_total": 311,
         "state_abb": "Mich.",
         "state_postal": "MI",
-        "total_expected_vote": 341742,
-        "total_votes": 338325
+        "total_expected_vote": 345054,
+        "total_votes": 341604
       }
     ],
     "seat": "District 4",
@@ -7073,7 +7073,7 @@
           "nyt_id": "huizenga-b",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 183925
+            "total": 185778
           }
         },
         {
@@ -7081,7 +7081,7 @@
           "nyt_id": "alfonso-j",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 143678
+            "total": 145041
           }
         },
         {
@@ -7089,7 +7089,7 @@
           "nyt_id": "wenke-l",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 8478
+            "total": 8525
           }
         },
         {
@@ -7097,7 +7097,7 @@
           "nyt_id": "clark-c",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 2244
+            "total": 2260
           }
         }
       ],
@@ -7118,15 +7118,15 @@
       "precincts_reporting": 311,
       "precincts_total": 311,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:19.338+00:00",
+      "provider_updated_at": "2022-11-14T17:22:15.105+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
-      "total_expected_vote": 341742,
-      "total_votes": 338325
+      "total_expected_vote": 345054,
+      "total_votes": 341604
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:19.338Z",
+    "updated_at": "2022-11-14T17:22:15.105Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-us-house-district-4.html"
   },
   {
@@ -7437,7 +7437,7 @@
       "precincts_reporting": 329,
       "precincts_total": 329,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:19.797+00:00",
+      "provider_updated_at": "2022-11-14T19:36:25.802+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 317425,
@@ -7445,7 +7445,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:19.797Z",
+    "updated_at": "2022-11-14T19:36:25.802Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-us-house-district-5.html"
   },
   {
@@ -7670,7 +7670,7 @@
       "precincts_reporting": 303,
       "precincts_total": 303,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:19.85+00:00",
+      "provider_updated_at": "2022-11-14T20:26:41.847+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 370638,
@@ -7678,7 +7678,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:19.850Z",
+    "updated_at": "2022-11-14T20:26:41.847Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-us-house-district-6.html"
   },
   {
@@ -7965,7 +7965,7 @@
       "precincts_reporting": 328,
       "precincts_total": 328,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:20.121+00:00",
+      "provider_updated_at": "2022-11-11T18:58:34.608+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 376488,
@@ -7973,7 +7973,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:20.121Z",
+    "updated_at": "2022-11-11T18:58:34.608Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-us-house-district-7.html"
   },
   {
@@ -8187,7 +8187,7 @@
             "nyt_id": "kildee-d",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 178277
+              "total": 178318
             }
           },
           {
@@ -8195,7 +8195,7 @@
             "nyt_id": "junge-p",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 143815
+              "total": 143845
             }
           },
           {
@@ -8203,7 +8203,7 @@
             "nyt_id": "goodwin-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 9088
+              "total": 9077
             }
           },
           {
@@ -8211,7 +8211,7 @@
             "nyt_id": "canny-d",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 4598
+              "total": 4580
             }
           }
         ],
@@ -8234,7 +8234,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 339170,
-        "total_votes": 335778
+        "total_votes": 335820
       }
     ],
     "seat": "District 8",
@@ -8247,7 +8247,7 @@
           "nyt_id": "kildee-d",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 178277
+            "total": 178318
           }
         },
         {
@@ -8255,7 +8255,7 @@
           "nyt_id": "junge-p",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 143815
+            "total": 143845
           }
         },
         {
@@ -8263,7 +8263,7 @@
           "nyt_id": "goodwin-k",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 9088
+            "total": 9077
           }
         },
         {
@@ -8271,7 +8271,7 @@
           "nyt_id": "canny-d",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 4598
+            "total": 4580
           }
         }
       ],
@@ -8292,15 +8292,15 @@
       "precincts_reporting": 373,
       "precincts_total": 373,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:20.216+00:00",
+      "provider_updated_at": "2022-11-14T21:29:02.51+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 339170,
-      "total_votes": 335778
+      "total_votes": 335820
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:20.216Z",
+    "updated_at": "2022-11-14T21:29:02.510Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-us-house-district-8.html"
   },
   {
@@ -9452,7 +9452,7 @@
       "precincts_reporting": 410,
       "precincts_total": 410,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:20.516+00:00",
+      "provider_updated_at": "2022-11-14T20:26:42.479+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 280339,
@@ -9460,7 +9460,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:20.516Z",
+    "updated_at": "2022-11-14T20:26:42.479Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-us-house-district-12.html"
   },
   {
@@ -9779,7 +9779,7 @@
       "precincts_reporting": 430,
       "precincts_total": 430,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:20.546+00:00",
+      "provider_updated_at": "2022-11-14T20:26:41.546+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 236251,
@@ -9787,7 +9787,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:20.546Z",
+    "updated_at": "2022-11-14T20:26:41.546Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-us-house-district-13.html"
   },
   {
@@ -9902,7 +9902,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 220266,
-              "total": 2327979
+              "total": 2326855
             }
           },
           {
@@ -9911,7 +9911,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 61890,
-              "total": 1948357
+              "total": 1950046
             }
           },
           {
@@ -9920,7 +9920,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 2638,
-              "total": 67830
+              "total": 67866
             }
           },
           {
@@ -9929,7 +9929,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 1385,
-              "total": 32463
+              "total": 32473
             }
           }
         ],
@@ -9947,7 +9947,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 4420021,
-        "total_votes": 4376629
+        "total_votes": 4377240
       },
       {
         "candidates": [
@@ -10278,7 +10278,7 @@
             "nyt_id": "deperno-m",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 83778
+              "total": 85440
             }
           },
           {
@@ -10286,7 +10286,7 @@
             "nyt_id": "nessel-d",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 57055
+              "total": 58608
             }
           },
           {
@@ -10294,7 +10294,7 @@
             "nyt_id": "mchugh-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 2431
+              "total": 2483
             }
           },
           {
@@ -10302,7 +10302,7 @@
             "nyt_id": "van_sickle-g",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 847
+              "total": 874
             }
           }
         ],
@@ -10319,8 +10319,8 @@
         "precincts_total": 113,
         "state_abb": "Mich.",
         "state_postal": "MI",
-        "total_expected_vote": 145567,
-        "total_votes": 144111
+        "total_expected_vote": 148894,
+        "total_votes": 147405
       },
       {
         "candidates": [
@@ -10482,7 +10482,7 @@
             "nyt_id": "nessel-d",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 41445
+              "total": 41468
             }
           },
           {
@@ -10490,7 +10490,7 @@
             "nyt_id": "deperno-m",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 36782
+              "total": 36784
             }
           },
           {
@@ -10498,7 +10498,7 @@
             "nyt_id": "mchugh-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 1191
+              "total": 1173
             }
           },
           {
@@ -10506,11 +10506,11 @@
             "nyt_id": "van_sickle-g",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 693
+              "total": 678
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.99,
         "eevp_max": 99,
         "fips_county": "145",
         "fips_state": "26",
@@ -10524,7 +10524,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 80920,
-        "total_votes": 80111
+        "total_votes": 80103
       },
       {
         "candidates": [
@@ -10992,7 +10992,7 @@
             "nyt_id": "nessel-d",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 23789
+              "total": 23804
             }
           },
           {
@@ -11000,7 +11000,7 @@
             "nyt_id": "deperno-m",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 23244
+              "total": 23275
             }
           },
           {
@@ -11008,7 +11008,7 @@
             "nyt_id": "mchugh-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 733
+              "total": 734
             }
           },
           {
@@ -11016,7 +11016,7 @@
             "nyt_id": "van_sickle-g",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 547
+              "total": 549
             }
           }
         ],
@@ -11034,7 +11034,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 48801,
-        "total_votes": 48313
+        "total_votes": 48362
       },
       {
         "candidates": [
@@ -11459,7 +11459,7 @@
             "nyt_id": "nessel-d",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 10386
+              "total": 10387
             }
           },
           {
@@ -11493,7 +11493,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 26911,
-        "total_votes": 26642
+        "total_votes": 26643
       },
       {
         "candidates": [
@@ -11604,7 +11604,7 @@
             "nyt_id": "nessel-d",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 11981
+              "total": 11959
             }
           },
           {
@@ -11612,7 +11612,7 @@
             "nyt_id": "deperno-m",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 10931
+              "total": 10930
             }
           },
           {
@@ -11620,7 +11620,7 @@
             "nyt_id": "mchugh-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 389
+              "total": 388
             }
           },
           {
@@ -11632,7 +11632,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.9,
         "eevp_max": 99,
         "fips_county": "073",
         "fips_state": "26",
@@ -11646,7 +11646,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 23767,
-        "total_votes": 23529
+        "total_votes": 23505
       },
       {
         "candidates": [
@@ -12012,7 +12012,7 @@
             "nyt_id": "deperno-m",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 10095
+              "total": 10091
             }
           },
           {
@@ -12040,7 +12040,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.98,
         "eevp_max": 99,
         "fips_county": "041",
         "fips_state": "26",
@@ -12054,7 +12054,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 17200,
-        "total_votes": 17028
+        "total_votes": 17024
       },
       {
         "candidates": [
@@ -12216,7 +12216,7 @@
             "nyt_id": "deperno-m",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 8705
+              "total": 8704
             }
           },
           {
@@ -12258,7 +12258,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 15240,
-        "total_votes": 15088
+        "total_votes": 15087
       },
       {
         "candidates": [
@@ -13182,57 +13182,6 @@
         "candidates": [
           {
             "leader": true,
-            "nyt_id": "nessel-d",
-            "nyt_vote_estimates": null,
-            "votes": {
-              "total": 5261
-            }
-          },
-          {
-            "leader": false,
-            "nyt_id": "deperno-m",
-            "nyt_vote_estimates": null,
-            "votes": {
-              "total": 4323
-            }
-          },
-          {
-            "leader": false,
-            "nyt_id": "mchugh-j",
-            "nyt_vote_estimates": null,
-            "votes": {
-              "total": 108
-            }
-          },
-          {
-            "leader": false,
-            "nyt_id": "van_sickle-g",
-            "nyt_vote_estimates": null,
-            "votes": {
-              "total": 88
-            }
-          }
-        ],
-        "eevp": 99,
-        "eevp_max": 99,
-        "fips_county": "011",
-        "fips_state": "26",
-        "fips_suffix": null,
-        "level": "county",
-        "name": "Arenac",
-        "nyt_id": "MI-county-26-011",
-        "nyt_vote_estimate": null,
-        "precincts_reporting": 15,
-        "precincts_total": 15,
-        "state_abb": "Mich.",
-        "state_postal": "MI",
-        "total_expected_vote": 9879,
-        "total_votes": 9780
-      },
-      {
-        "candidates": [
-          {
-            "leader": true,
             "nyt_id": "deperno-m",
             "nyt_vote_estimates": null,
             "votes": {
@@ -13483,6 +13432,57 @@
         "state_postal": "MI",
         "total_expected_vote": 7290,
         "total_votes": 7217
+      },
+      {
+        "candidates": [
+          {
+            "leader": true,
+            "nyt_id": "deperno-m",
+            "nyt_vote_estimates": null,
+            "votes": {
+              "total": 4323
+            }
+          },
+          {
+            "leader": false,
+            "nyt_id": "nessel-d",
+            "nyt_vote_estimates": null,
+            "votes": {
+              "total": 2567
+            }
+          },
+          {
+            "leader": false,
+            "nyt_id": "mchugh-j",
+            "nyt_vote_estimates": null,
+            "votes": {
+              "total": 108
+            }
+          },
+          {
+            "leader": false,
+            "nyt_id": "van_sickle-g",
+            "nyt_vote_estimates": null,
+            "votes": {
+              "total": 88
+            }
+          }
+        ],
+        "eevp": 71.73,
+        "eevp_max": 99,
+        "fips_county": "011",
+        "fips_state": "26",
+        "fips_suffix": null,
+        "level": "county",
+        "name": "Arenac",
+        "nyt_id": "MI-county-26-011",
+        "nyt_vote_estimate": null,
+        "precincts_reporting": 15,
+        "precincts_total": 15,
+        "state_abb": "Mich.",
+        "state_postal": "MI",
+        "total_expected_vote": 9879,
+        "total_votes": 7086
       },
       {
         "candidates": [
@@ -13966,7 +13966,7 @@
             "nyt_id": "mchugh-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 57
+              "total": 59
             }
           },
           {
@@ -13974,11 +13974,11 @@
             "nyt_id": "van_sickle-g",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 45
+              "total": 41
             }
           }
         ],
-        "eevp": 98.99,
+        "eevp": 98.94,
         "eevp_max": 99,
         "fips_county": "153",
         "fips_state": "26",
@@ -13992,7 +13992,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 3857,
-        "total_votes": 3818
+        "total_votes": 3816
       },
       {
         "candidates": [
@@ -14210,7 +14210,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 220266,
-            "total": 2327979
+            "total": 2326855
           }
         },
         {
@@ -14219,7 +14219,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 61890,
-            "total": 1948357
+            "total": 1950046
           }
         },
         {
@@ -14228,7 +14228,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 2638,
-            "total": 67830
+            "total": 67866
           }
         },
         {
@@ -14237,7 +14237,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 1385,
-            "total": 32463
+            "total": 32473
           }
         }
       ],
@@ -14253,15 +14253,15 @@
       "precincts_reporting": 4690,
       "precincts_total": 4690,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:20.019+00:00",
+      "provider_updated_at": "2022-11-14T21:29:03.134+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 4420021,
-      "total_votes": 4376629
+      "total_votes": 4377240
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:20.019Z",
+    "updated_at": "2022-11-14T21:29:03.134Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-attorney-general.html"
   },
   {
@@ -16754,7 +16754,7 @@
       "precincts_reporting": 118,
       "precincts_total": 118,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:22.371+00:00",
+      "provider_updated_at": "2022-11-11T17:09:58.628+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 101517,
@@ -16762,7 +16762,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:22.371Z"
+    "updated_at": "2022-11-11T17:09:58.628Z"
   },
   {
     "candidate_metadata": {
@@ -17186,7 +17186,7 @@
       "precincts_reporting": 106,
       "precincts_total": 106,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:22.616+00:00",
+      "provider_updated_at": "2022-11-11T17:09:58.641+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 114868,
@@ -17194,7 +17194,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:22.616Z"
+    "updated_at": "2022-11-11T17:09:58.641Z"
   },
   {
     "candidate_metadata": {
@@ -17330,7 +17330,7 @@
       "precincts_reporting": 107,
       "precincts_total": 107,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:22.658+00:00",
+      "provider_updated_at": "2022-11-11T18:58:34.877+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 114827,
@@ -17338,7 +17338,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:22.658Z"
+    "updated_at": "2022-11-11T18:58:34.877Z"
   },
   {
     "candidate_metadata": {
@@ -17538,7 +17538,7 @@
       "precincts_reporting": 108,
       "precincts_total": 108,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:22.848+00:00",
+      "provider_updated_at": "2022-11-11T18:46:35.316+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 139769,
@@ -17546,7 +17546,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:22.848Z"
+    "updated_at": "2022-11-11T18:46:35.316Z"
   },
   {
     "candidate_metadata": {
@@ -17826,7 +17826,7 @@
       "precincts_reporting": 107,
       "precincts_total": 107,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:22.998+00:00",
+      "provider_updated_at": "2022-11-11T18:46:35.299+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 133818,
@@ -17834,7 +17834,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:22.998Z"
+    "updated_at": "2022-11-11T18:46:35.299Z"
   },
   {
     "candidate_metadata": {
@@ -18114,7 +18114,7 @@
       "precincts_reporting": 117,
       "precincts_total": 117,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:23.377+00:00",
+      "provider_updated_at": "2022-11-11T18:46:35.378+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 119955,
@@ -18122,7 +18122,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:23.377Z"
+    "updated_at": "2022-11-11T18:46:35.378Z"
   },
   {
     "candidate_metadata": {
@@ -18258,7 +18258,7 @@
       "precincts_reporting": 141,
       "precincts_total": 141,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:23.356+00:00",
+      "provider_updated_at": "2022-11-11T18:46:35.407+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 101173,
@@ -18266,7 +18266,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:23.356Z"
+    "updated_at": "2022-11-11T18:46:35.407Z"
   },
   {
     "candidate_metadata": {
@@ -18748,7 +18748,7 @@
       "precincts_reporting": 101,
       "precincts_total": 101,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:23.805+00:00",
+      "provider_updated_at": "2022-11-14T17:22:15.225+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 130926,
@@ -18756,7 +18756,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:23.805Z"
+    "updated_at": "2022-11-14T17:22:15.225Z"
   },
   {
     "candidate_metadata": {
@@ -18845,7 +18845,7 @@
             "nyt_id": "victory-r",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 82371
+              "total": 84170
             }
           },
           {
@@ -18853,7 +18853,7 @@
             "nyt_id": "nagy-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 47401
+              "total": 48795
             }
           },
           {
@@ -18861,7 +18861,7 @@
             "nyt_id": "fox-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 2845
+              "total": 2915
             }
           }
         ],
@@ -18878,8 +18878,8 @@
         "precincts_total": 106,
         "state_abb": "Mich.",
         "state_postal": "MI",
-        "total_expected_vote": 133957,
-        "total_votes": 132617
+        "total_expected_vote": 137253,
+        "total_votes": 135880
       }
     ],
     "seat": "District 31",
@@ -18892,7 +18892,7 @@
           "nyt_id": "victory-r",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 82371
+            "total": 84170
           }
         },
         {
@@ -18900,7 +18900,7 @@
           "nyt_id": "nagy-k",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 47401
+            "total": 48795
           }
         },
         {
@@ -18908,7 +18908,7 @@
           "nyt_id": "fox-j",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 2845
+            "total": 2915
           }
         }
       ],
@@ -18924,15 +18924,15 @@
       "precincts_reporting": 106,
       "precincts_total": 106,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:23.883+00:00",
+      "provider_updated_at": "2022-11-14T17:22:15.321+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
-      "total_expected_vote": 133957,
-      "total_votes": 132617
+      "total_expected_vote": 137253,
+      "total_votes": 135880
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:23.883Z"
+    "updated_at": "2022-11-14T17:22:15.321Z"
   },
   {
     "candidate_metadata": {
@@ -19173,7 +19173,7 @@
             "nyt_id": "bignell-m",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 36743
+              "total": 36744
             }
           },
           {
@@ -19199,7 +19199,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 117037,
-        "total_votes": 115867
+        "total_votes": 115868
       }
     ],
     "seat": "District 33",
@@ -19220,7 +19220,7 @@
           "nyt_id": "bignell-m",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 36743
+            "total": 36744
           }
         },
         {
@@ -19244,15 +19244,15 @@
       "precincts_reporting": 132,
       "precincts_total": 132,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:24.33+00:00",
+      "provider_updated_at": "2022-11-14T21:29:02.179+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 117037,
-      "total_votes": 115867
+      "total_votes": 115868
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:24.330Z"
+    "updated_at": "2022-11-14T21:29:02.179Z"
   },
   {
     "candidate_metadata": {
@@ -19341,7 +19341,7 @@
             "nyt_id": "hauck-r",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 71200
+              "total": 71197
             }
           },
           {
@@ -19349,7 +19349,7 @@
             "nyt_id": "gerace-c",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 36777
+              "total": 36755
             }
           },
           {
@@ -19357,11 +19357,11 @@
             "nyt_id": "mcdonald-b",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 2683
+              "total": 2682
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.98,
         "eevp_max": 99,
         "fips_county": null,
         "fips_state": "26",
@@ -19375,7 +19375,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 111776,
-        "total_votes": 110660
+        "total_votes": 110634
       }
     ],
     "seat": "District 34",
@@ -19388,7 +19388,7 @@
           "nyt_id": "hauck-r",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 71200
+            "total": 71197
           }
         },
         {
@@ -19396,7 +19396,7 @@
           "nyt_id": "gerace-c",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 36777
+            "total": 36755
           }
         },
         {
@@ -19404,11 +19404,11 @@
           "nyt_id": "mcdonald-b",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 2683
+            "total": 2682
           }
         }
       ],
-      "eevp": 99,
+      "eevp": 98.98,
       "eevp_max": 99,
       "fips_county": null,
       "fips_state": "26",
@@ -19420,15 +19420,15 @@
       "precincts_reporting": 155,
       "precincts_total": 155,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:24.713+00:00",
+      "provider_updated_at": "2022-11-14T21:29:01.324+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 111776,
-      "total_votes": 110660
+      "total_votes": 110634
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:24.713Z"
+    "updated_at": "2022-11-14T21:29:01.324Z"
   },
   {
     "candidate_metadata": {
@@ -19501,7 +19501,7 @@
             "nyt_id": "mcdonald_rivet-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 62062
+              "total": 62105
             }
           },
           {
@@ -19509,7 +19509,7 @@
             "nyt_id": "glenn-a",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 54219
+              "total": 54246
             }
           }
         ],
@@ -19527,7 +19527,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 117456,
-        "total_votes": 116281
+        "total_votes": 116351
       }
     ],
     "seat": "District 35",
@@ -19540,7 +19540,7 @@
           "nyt_id": "mcdonald_rivet-k",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 62062
+            "total": 62105
           }
         },
         {
@@ -19548,7 +19548,7 @@
           "nyt_id": "glenn-a",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 54219
+            "total": 54246
           }
         }
       ],
@@ -19564,15 +19564,15 @@
       "precincts_reporting": 114,
       "precincts_total": 114,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:24.573+00:00",
+      "provider_updated_at": "2022-11-14T21:29:02.491+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 117456,
-      "total_votes": 116281
+      "total_votes": 116351
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:24.573Z"
+    "updated_at": "2022-11-14T21:29:02.491Z"
   },
   {
     "candidate_metadata": {
@@ -19708,7 +19708,7 @@
       "precincts_reporting": 208,
       "precincts_total": 208,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:25.454+00:00",
+      "provider_updated_at": "2022-11-11T16:46:55.445+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 131888,
@@ -19716,7 +19716,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:25.454Z"
+    "updated_at": "2022-11-11T16:46:55.445Z"
   },
   {
     "candidate_metadata": {
@@ -19981,7 +19981,7 @@
             "nyt_id": "mcbroom-e",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 74643
+              "total": 74638
             }
           },
           {
@@ -20015,7 +20015,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 121145,
-        "total_votes": 119933
+        "total_votes": 119928
       }
     ],
     "seat": "District 38",
@@ -20028,7 +20028,7 @@
           "nyt_id": "mcbroom-e",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 74643
+            "total": 74638
           }
         },
         {
@@ -20060,15 +20060,15 @@
       "precincts_reporting": 208,
       "precincts_total": 208,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:25.872+00:00",
+      "provider_updated_at": "2022-11-14T21:29:01.088+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 121145,
-      "total_votes": 119933
+      "total_votes": 119928
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:25.872Z"
+    "updated_at": "2022-11-14T21:29:01.088Z"
   },
   {
     "candidate_metadata": {
@@ -25478,7 +25478,7 @@
       "precincts_reporting": 35,
       "precincts_total": 35,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:28.625+00:00",
+      "provider_updated_at": "2022-11-11T17:09:58.511+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 34309,
@@ -25486,7 +25486,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:28.625Z"
+    "updated_at": "2022-11-11T17:09:58.511Z"
   },
   {
     "candidate_metadata": {
@@ -25622,7 +25622,7 @@
       "precincts_reporting": 42,
       "precincts_total": 42,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:28.731+00:00",
+      "provider_updated_at": "2022-11-11T17:09:58.542+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 42433,
@@ -25630,7 +25630,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:28.731Z"
+    "updated_at": "2022-11-11T17:09:58.542Z"
   },
   {
     "candidate_metadata": {
@@ -25766,7 +25766,7 @@
       "precincts_reporting": 36,
       "precincts_total": 36,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:28.933+00:00",
+      "provider_updated_at": "2022-11-11T17:09:58.568+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 36720,
@@ -25774,7 +25774,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:28.933Z"
+    "updated_at": "2022-11-11T17:09:58.568Z"
   },
   {
     "candidate_metadata": {
@@ -26374,7 +26374,7 @@
       "precincts_reporting": 35,
       "precincts_total": 35,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:29.354+00:00",
+      "provider_updated_at": "2022-11-14T17:22:15.128+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 44133,
@@ -26382,7 +26382,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:29.354Z"
+    "updated_at": "2022-11-14T17:22:15.128Z"
   },
   {
     "candidate_metadata": {
@@ -29862,7 +29862,7 @@
       "precincts_reporting": 34,
       "precincts_total": 34,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:31.731+00:00",
+      "provider_updated_at": "2022-11-11T18:46:34.85+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 42398,
@@ -29870,7 +29870,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:31.731Z"
+    "updated_at": "2022-11-11T18:46:34.850Z"
   },
   {
     "candidate_metadata": {
@@ -30006,7 +30006,7 @@
       "precincts_reporting": 42,
       "precincts_total": 42,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:31.907+00:00",
+      "provider_updated_at": "2022-11-11T18:46:34.875+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 42720,
@@ -30014,7 +30014,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:31.907Z"
+    "updated_at": "2022-11-11T18:46:34.875Z"
   },
   {
     "candidate_metadata": {
@@ -30182,7 +30182,7 @@
       "precincts_reporting": 46,
       "precincts_total": 46,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:31.968+00:00",
+      "provider_updated_at": "2022-11-11T18:46:34.909+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 37686,
@@ -30190,7 +30190,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:31.968Z"
+    "updated_at": "2022-11-11T18:46:34.909Z"
   },
   {
     "candidate_metadata": {
@@ -30326,7 +30326,7 @@
       "precincts_reporting": 62,
       "precincts_total": 62,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:32.061+00:00",
+      "provider_updated_at": "2022-11-11T18:46:34.934+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 26199,
@@ -30334,7 +30334,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:32.061Z"
+    "updated_at": "2022-11-11T18:46:34.934Z"
   },
   {
     "candidate_metadata": {
@@ -30470,7 +30470,7 @@
       "precincts_reporting": 46,
       "precincts_total": 46,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:32.282+00:00",
+      "provider_updated_at": "2022-11-11T18:46:35.076+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 44004,
@@ -30478,7 +30478,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:32.282Z"
+    "updated_at": "2022-11-11T18:46:35.076Z"
   },
   {
     "candidate_metadata": {
@@ -30614,7 +30614,7 @@
       "precincts_reporting": 39,
       "precincts_total": 39,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:32.374+00:00",
+      "provider_updated_at": "2022-11-11T18:46:35.09+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 45995,
@@ -30622,7 +30622,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:32.374Z"
+    "updated_at": "2022-11-11T18:46:35.090Z"
   },
   {
     "candidate_metadata": {
@@ -31190,7 +31190,7 @@
       "precincts_reporting": 43,
       "precincts_total": 43,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:32.668+00:00",
+      "provider_updated_at": "2022-11-11T18:58:34.753+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 44890,
@@ -31198,7 +31198,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:32.668Z"
+    "updated_at": "2022-11-11T18:58:34.753Z"
   },
   {
     "candidate_metadata": {
@@ -31334,7 +31334,7 @@
       "precincts_reporting": 38,
       "precincts_total": 38,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:32.807+00:00",
+      "provider_updated_at": "2022-11-11T18:58:34.778+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 40919,
@@ -31342,7 +31342,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:32.807Z"
+    "updated_at": "2022-11-11T18:58:34.778Z"
   },
   {
     "candidate_metadata": {
@@ -31478,7 +31478,7 @@
       "precincts_reporting": 38,
       "precincts_total": 38,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:32.953+00:00",
+      "provider_updated_at": "2022-11-11T18:58:34.8+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 39694,
@@ -31486,7 +31486,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:32.953Z"
+    "updated_at": "2022-11-11T18:58:34.800Z"
   },
   {
     "candidate_metadata": {
@@ -32582,7 +32582,7 @@
       "precincts_reporting": 32,
       "precincts_total": 32,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:33.288+00:00",
+      "provider_updated_at": "2022-11-14T17:22:15.115+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 47344,
@@ -32590,7 +32590,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:33.288Z"
+    "updated_at": "2022-11-14T17:22:15.115Z"
   },
   {
     "candidate_metadata": {
@@ -32663,7 +32663,7 @@
             "nyt_id": "de_boer-n",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 22077
+              "total": 23984
             }
           },
           {
@@ -32671,7 +32671,7 @@
             "nyt_id": "jackson-l",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 17214
+              "total": 18577
             }
           }
         ],
@@ -32688,8 +32688,8 @@
         "precincts_total": 40,
         "state_abb": "Mich.",
         "state_postal": "MI",
-        "total_expected_vote": 39688,
-        "total_votes": 39291
+        "total_expected_vote": 42991,
+        "total_votes": 42561
       }
     ],
     "seat": "District 86",
@@ -32702,7 +32702,7 @@
           "nyt_id": "de_boer-n",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 22077
+            "total": 23984
           }
         },
         {
@@ -32710,7 +32710,7 @@
           "nyt_id": "jackson-l",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 17214
+            "total": 18577
           }
         }
       ],
@@ -32726,15 +32726,15 @@
       "precincts_reporting": 40,
       "precincts_total": 40,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:33.398+00:00",
+      "provider_updated_at": "2022-11-14T17:22:15.153+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
-      "total_expected_vote": 39688,
-      "total_votes": 39291
+      "total_expected_vote": 42991,
+      "total_votes": 42561
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:33.398Z"
+    "updated_at": "2022-11-14T17:22:15.153Z"
   },
   {
     "candidate_metadata": {
@@ -33046,7 +33046,7 @@
       "precincts_reporting": 38,
       "precincts_total": 38,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:33.511+00:00",
+      "provider_updated_at": "2022-11-14T17:22:15.162+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 49508,
@@ -33054,7 +33054,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:33.511Z"
+    "updated_at": "2022-11-14T17:22:15.162Z"
   },
   {
     "candidate_metadata": {
@@ -33190,7 +33190,7 @@
       "precincts_reporting": 30,
       "precincts_total": 30,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:33.694+00:00",
+      "provider_updated_at": "2022-11-14T17:22:15.176+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 40274,
@@ -33198,7 +33198,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:33.694Z"
+    "updated_at": "2022-11-14T17:22:15.176Z"
   },
   {
     "candidate_metadata": {
@@ -33423,7 +33423,7 @@
             "nyt_id": "devries-t",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 12206
+              "total": 12207
             }
           }
         ],
@@ -33441,7 +33441,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 38725,
-        "total_votes": 38338
+        "total_votes": 38339
       }
     ],
     "seat": "District 91",
@@ -33462,7 +33462,7 @@
           "nyt_id": "devries-t",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 12206
+            "total": 12207
           }
         }
       ],
@@ -33478,15 +33478,15 @@
       "precincts_reporting": 38,
       "precincts_total": 38,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:33.845+00:00",
+      "provider_updated_at": "2022-11-14T21:29:02.279+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 38725,
-      "total_votes": 38338
+      "total_votes": 38339
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:33.845Z"
+    "updated_at": "2022-11-14T21:29:02.279Z"
   },
   {
     "candidate_metadata": {
@@ -33575,7 +33575,7 @@
             "nyt_id": "neyer-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 18082
+              "total": 18080
             }
           },
           {
@@ -33583,7 +33583,7 @@
             "nyt_id": "feig-a",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 13832
+              "total": 13809
             }
           },
           {
@@ -33595,7 +33595,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.92,
         "eevp_max": 99,
         "fips_county": null,
         "fips_state": "26",
@@ -33609,7 +33609,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 32913,
-        "total_votes": 32584
+        "total_votes": 32559
       }
     ],
     "seat": "District 92",
@@ -33622,7 +33622,7 @@
           "nyt_id": "neyer-j",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 18082
+            "total": 18080
           }
         },
         {
@@ -33630,7 +33630,7 @@
           "nyt_id": "feig-a",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 13832
+            "total": 13809
           }
         },
         {
@@ -33642,7 +33642,7 @@
           }
         }
       ],
-      "eevp": 99,
+      "eevp": 98.92,
       "eevp_max": 99,
       "fips_county": null,
       "fips_state": "26",
@@ -33654,15 +33654,15 @@
       "precincts_reporting": 39,
       "precincts_total": 39,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:33.882+00:00",
+      "provider_updated_at": "2022-11-14T21:29:01.498+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 32913,
-      "total_votes": 32584
+      "total_votes": 32559
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:33.882Z"
+    "updated_at": "2022-11-14T21:29:01.498Z"
   },
   {
     "candidate_metadata": {
@@ -33735,7 +33735,7 @@
             "nyt_id": "filler-g",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 25730
+              "total": 25731
             }
           },
           {
@@ -33761,7 +33761,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 40347,
-        "total_votes": 39945
+        "total_votes": 39946
       }
     ],
     "seat": "District 93",
@@ -33774,7 +33774,7 @@
           "nyt_id": "filler-g",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 25730
+            "total": 25731
           }
         },
         {
@@ -33798,15 +33798,15 @@
       "precincts_reporting": 51,
       "precincts_total": 51,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:34.088+00:00",
+      "provider_updated_at": "2022-11-14T21:29:02.001+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 40347,
-      "total_votes": 39945
+      "total_votes": 39946
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:34.088Z"
+    "updated_at": "2022-11-14T21:29:02.001Z"
   },
   {
     "candidate_metadata": {
@@ -33879,7 +33879,7 @@
             "nyt_id": "oneal-a",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 21121
+              "total": 21141
             }
           },
           {
@@ -33887,7 +33887,7 @@
             "nyt_id": "shepler-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 9745
+              "total": 9749
             }
           }
         ],
@@ -33905,7 +33905,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 31178,
-        "total_votes": 30866
+        "total_votes": 30890
       }
     ],
     "seat": "District 94",
@@ -33918,7 +33918,7 @@
           "nyt_id": "oneal-a",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 21121
+            "total": 21141
           }
         },
         {
@@ -33926,7 +33926,7 @@
           "nyt_id": "shepler-j",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 9745
+            "total": 9749
           }
         }
       ],
@@ -33942,15 +33942,15 @@
       "precincts_reporting": 37,
       "precincts_total": 37,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:34.167+00:00",
+      "provider_updated_at": "2022-11-14T21:29:03.074+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 31178,
-      "total_votes": 30866
+      "total_votes": 30890
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:34.167Z"
+    "updated_at": "2022-11-14T21:29:03.074Z"
   },
   {
     "candidate_metadata": {
@@ -34086,7 +34086,7 @@
       "precincts_reporting": 49,
       "precincts_total": 49,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:34.279+00:00",
+      "provider_updated_at": "2022-11-14T21:29:00.674+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 44541,
@@ -34094,7 +34094,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:34.279Z"
+    "updated_at": "2022-11-14T21:29:00.674Z"
   },
   {
     "candidate_metadata": {
@@ -34374,7 +34374,7 @@
       "precincts_reporting": 43,
       "precincts_total": 43,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:34.45+00:00",
+      "provider_updated_at": "2022-11-11T18:46:35.254+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 42470,
@@ -34382,7 +34382,7 @@
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:34.450Z"
+    "updated_at": "2022-11-11T18:46:35.254Z"
   },
   {
     "candidate_metadata": {
@@ -34607,11 +34607,11 @@
             "nyt_id": "kish-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 13458
+              "total": 13448
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.97,
         "eevp_max": 99,
         "fips_county": null,
         "fips_state": "26",
@@ -34625,7 +34625,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 42000,
-        "total_votes": 41579
+        "total_votes": 41569
       }
     ],
     "seat": "District 99",
@@ -34646,11 +34646,11 @@
           "nyt_id": "kish-k",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 13458
+            "total": 13448
           }
         }
       ],
-      "eevp": 99,
+      "eevp": 98.97,
       "eevp_max": 99,
       "fips_county": null,
       "fips_state": "26",
@@ -34662,15 +34662,15 @@
       "precincts_reporting": 72,
       "precincts_total": 72,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:34.809+00:00",
+      "provider_updated_at": "2022-11-11T18:52:18.318+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 42000,
-      "total_votes": 41579
+      "total_votes": 41569
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:34.809Z"
+    "updated_at": "2022-11-11T18:52:18.318Z"
   },
   {
     "candidate_metadata": {
@@ -35927,7 +35927,7 @@
             "nyt_id": "prestin-d",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 25080
+              "total": 25075
             }
           },
           {
@@ -35939,7 +35939,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.99,
         "eevp_max": 99,
         "fips_county": null,
         "fips_state": "26",
@@ -35953,7 +35953,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 38555,
-        "total_votes": 38169
+        "total_votes": 38164
       }
     ],
     "seat": "District 108",
@@ -35966,7 +35966,7 @@
           "nyt_id": "prestin-d",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 25080
+            "total": 25075
           }
         },
         {
@@ -35978,7 +35978,7 @@
           }
         }
       ],
-      "eevp": 99,
+      "eevp": 98.99,
       "eevp_max": 99,
       "fips_county": null,
       "fips_state": "26",
@@ -35990,15 +35990,15 @@
       "precincts_reporting": 73,
       "precincts_total": 73,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:36.031+00:00",
+      "provider_updated_at": "2022-11-14T21:29:00.807+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 38555,
-      "total_votes": 38169
+      "total_votes": 38164
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:36.031Z"
+    "updated_at": "2022-11-14T21:29:00.807Z"
   },
   {
     "candidate_metadata": {
@@ -36367,7 +36367,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 2836541
+              "total": 2835933
             }
           },
           {
@@ -36375,7 +36375,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 1430458
+              "total": 1431744
             }
           }
         ],
@@ -36393,7 +36393,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 4307036,
-        "total_votes": 4266999
+        "total_votes": 4267677
       },
       {
         "candidates": [
@@ -36612,7 +36612,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 76635
+              "total": 78584
             }
           },
           {
@@ -36620,7 +36620,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 66032
+              "total": 67295
             }
           }
         ],
@@ -36637,8 +36637,8 @@
         "precincts_total": 113,
         "state_abb": "Mich.",
         "state_postal": "MI",
-        "total_expected_vote": 144108,
-        "total_votes": 142667
+        "total_expected_vote": 147353,
+        "total_votes": 145879
       },
       {
         "candidates": [
@@ -36752,7 +36752,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 50643
+              "total": 50700
             }
           },
           {
@@ -36760,7 +36760,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 26353
+              "total": 26356
             }
           }
         ],
@@ -36778,7 +36778,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 77774,
-        "total_votes": 76996
+        "total_votes": 77056
       },
       {
         "candidates": [
@@ -37102,7 +37102,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 32326
+              "total": 32348
             }
           },
           {
@@ -37110,7 +37110,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 14794
+              "total": 14820
             }
           }
         ],
@@ -37128,7 +37128,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 47596,
-        "total_votes": 47120
+        "total_votes": 47168
       },
       {
         "candidates": [
@@ -37417,7 +37417,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 14989
+              "total": 14990
             }
           },
           {
@@ -37443,7 +37443,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 26762,
-        "total_votes": 26494
+        "total_votes": 26495
       },
       {
         "candidates": [
@@ -37522,7 +37522,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 15656
+              "total": 15632
             }
           },
           {
@@ -37530,11 +37530,11 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 7467
+              "total": 7466
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.89,
         "eevp_max": 99,
         "fips_county": "073",
         "fips_state": "26",
@@ -37548,7 +37548,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 23357,
-        "total_votes": 23123
+        "total_votes": 23098
       },
       {
         "candidates": [
@@ -37802,7 +37802,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 9624
+              "total": 9625
             }
           },
           {
@@ -37810,11 +37810,11 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 7131
+              "total": 7127
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.98,
         "eevp_max": 99,
         "fips_county": "041",
         "fips_state": "26",
@@ -37828,7 +37828,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 16924,
-        "total_votes": 16755
+        "total_votes": 16752
       },
       {
         "candidates": [
@@ -37864,41 +37864,6 @@
         "state_postal": "MI",
         "total_expected_vote": 15654,
         "total_votes": 15497
-      },
-      {
-        "candidates": [
-          {
-            "leader": true,
-            "nyt_id": "yes",
-            "nyt_vote_estimates": null,
-            "votes": {
-              "total": 10163
-            }
-          },
-          {
-            "leader": false,
-            "nyt_id": "no",
-            "nyt_vote_estimates": null,
-            "votes": {
-              "total": 5194
-            }
-          }
-        ],
-        "eevp": 99,
-        "eevp_max": 99,
-        "fips_county": "035",
-        "fips_state": "26",
-        "fips_suffix": null,
-        "level": "county",
-        "name": "Clare",
-        "nyt_id": "MI-county-26-035",
-        "nyt_vote_estimate": null,
-        "precincts_reporting": 19,
-        "precincts_total": 19,
-        "state_abb": "Mich.",
-        "state_postal": "MI",
-        "total_expected_vote": 15512,
-        "total_votes": 15357
       },
       {
         "candidates": [
@@ -37985,7 +37950,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 6064
+              "total": 6063
             }
           }
         ],
@@ -38003,7 +37968,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 15035,
-        "total_votes": 14885
+        "total_votes": 14884
       },
       {
         "candidates": [
@@ -38249,6 +38214,41 @@
         "state_postal": "MI",
         "total_expected_vote": 13697,
         "total_votes": 13560
+      },
+      {
+        "candidates": [
+          {
+            "leader": true,
+            "nyt_id": "yes",
+            "nyt_vote_estimates": null,
+            "votes": {
+              "total": 7546
+            }
+          },
+          {
+            "leader": false,
+            "nyt_id": "no",
+            "nyt_vote_estimates": null,
+            "votes": {
+              "total": 5194
+            }
+          }
+        ],
+        "eevp": 82.13,
+        "eevp_max": 99,
+        "fips_county": "035",
+        "fips_state": "26",
+        "fips_suffix": null,
+        "level": "county",
+        "name": "Clare",
+        "nyt_id": "MI-county-26-035",
+        "nyt_vote_estimate": null,
+        "precincts_reporting": 19,
+        "precincts_total": 19,
+        "state_abb": "Mich.",
+        "state_postal": "MI",
+        "total_expected_vote": 15512,
+        "total_votes": 12740
       },
       {
         "candidates": [
@@ -38782,7 +38782,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 4186
+              "total": 4189
             }
           },
           {
@@ -38808,7 +38808,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 6980,
-        "total_votes": 6910
+        "total_votes": 6913
       },
       {
         "candidates": [
@@ -39311,7 +39311,7 @@
           "nyt_id": "yes",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 2836541
+            "total": 2835933
           }
         },
         {
@@ -39319,7 +39319,7 @@
           "nyt_id": "no",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 1430458
+            "total": 1431744
           }
         }
       ],
@@ -39335,15 +39335,15 @@
       "precincts_reporting": 4690,
       "precincts_total": 4690,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:41.933+00:00",
+      "provider_updated_at": "2022-11-14T21:29:02.586+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 4307036,
-      "total_votes": 4266999
+      "total_votes": 4267677
     },
     "type": "Ballot Issue",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:41.933Z",
+    "updated_at": "2022-11-14T21:29:02.586Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-proposal-1-adjust-term-limits-and-financial-disclosure-rules-for-state-officials.html"
   },
   {
@@ -39425,7 +39425,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 2581989
+              "total": 2583882
             }
           },
           {
@@ -39433,7 +39433,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 1721976
+              "total": 1723440
             }
           }
         ],
@@ -39451,7 +39451,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 4344333,
-        "total_votes": 4303965
+        "total_votes": 4307322
       },
       {
         "candidates": [
@@ -39670,7 +39670,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 76587
+              "total": 78026
             }
           },
           {
@@ -39678,7 +39678,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 66506
+              "total": 68303
             }
           }
         ],
@@ -39695,8 +39695,8 @@
         "precincts_total": 113,
         "state_abb": "Mich.",
         "state_postal": "MI",
-        "total_expected_vote": 144538,
-        "total_votes": 143093
+        "total_expected_vote": 147807,
+        "total_votes": 146329
       },
       {
         "candidates": [
@@ -39810,7 +39810,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 46474
+              "total": 46529
             }
           },
           {
@@ -39818,7 +39818,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 31258
+              "total": 31264
             }
           }
         ],
@@ -39836,7 +39836,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 78517,
-        "total_votes": 77732
+        "total_votes": 77793
       },
       {
         "candidates": [
@@ -40160,7 +40160,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 28264
+              "total": 28287
             }
           },
           {
@@ -40168,7 +40168,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 19052
+              "total": 19078
             }
           }
         ],
@@ -40186,7 +40186,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 47794,
-        "total_votes": 47316
+        "total_votes": 47365
       },
       {
         "candidates": [
@@ -40483,7 +40483,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 12686
+              "total": 12687
             }
           }
         ],
@@ -40501,7 +40501,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 26817,
-        "total_votes": 26549
+        "total_votes": 26550
       },
       {
         "candidates": [
@@ -40580,7 +40580,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 13755
+              "total": 13732
             }
           },
           {
@@ -40588,11 +40588,11 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 9618
+              "total": 9616
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.89,
         "eevp_max": 99,
         "fips_county": "073",
         "fips_state": "26",
@@ -40606,7 +40606,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 23609,
-        "total_votes": 23373
+        "total_votes": 23348
       },
       {
         "candidates": [
@@ -40860,7 +40860,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 8443
+              "total": 8438
             }
           },
           {
@@ -40872,7 +40872,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.97,
         "eevp_max": 99,
         "fips_county": "041",
         "fips_state": "26",
@@ -40886,7 +40886,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 16998,
-        "total_votes": 16828
+        "total_votes": 16823
       },
       {
         "candidates": [
@@ -41008,11 +41008,11 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 7424
+              "total": 7423
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.99,
         "eevp_max": 99,
         "fips_county": "057",
         "fips_state": "26",
@@ -41026,7 +41026,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 15108,
-        "total_votes": 14957
+        "total_votes": 14956
       },
       {
         "candidates": [
@@ -41280,7 +41280,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 6565
+              "total": 6566
             }
           },
           {
@@ -41306,7 +41306,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 12899,
-        "total_votes": 12770
+        "total_votes": 12771
       },
       {
         "candidates": [
@@ -41848,7 +41848,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 3318
+              "total": 3358
             }
           }
         ],
@@ -41866,7 +41866,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 6974,
-        "total_votes": 6904
+        "total_votes": 6944
       },
       {
         "candidates": [
@@ -42369,7 +42369,7 @@
           "nyt_id": "yes",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 2581989
+            "total": 2583882
           }
         },
         {
@@ -42377,7 +42377,7 @@
           "nyt_id": "no",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 1721976
+            "total": 1723440
           }
         }
       ],
@@ -42393,15 +42393,15 @@
       "precincts_reporting": 4690,
       "precincts_total": 4690,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:43.546+00:00",
+      "provider_updated_at": "2022-11-14T21:29:02.43+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 4344333,
-      "total_votes": 4303965
+      "total_votes": 4307322
     },
     "type": "Ballot Issue",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:43.546Z",
+    "updated_at": "2022-11-14T21:29:02.430Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-proposal-2-add-voting-policies-to-state-constitution.html"
   },
   {
@@ -42484,7 +42484,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 1787,
-              "total": 2478426
+              "total": 2480000
             }
           },
           {
@@ -42493,7 +42493,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 1093,
-              "total": 1895608
+              "total": 1897417
             }
           }
         ],
@@ -42511,7 +42511,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 4417459,
-        "total_votes": 4374034
+        "total_votes": 4377417
       },
       {
         "candidates": [
@@ -42549,7 +42549,7 @@
         "name": "Wayne",
         "nyt_id": "MI-county-26-163",
         "nyt_vote_estimate": null,
-        "precincts_reporting": 918,
+        "precincts_reporting": 909,
         "precincts_total": 918,
         "state_abb": "Mich.",
         "state_postal": "MI",
@@ -42738,7 +42738,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 85385
+              "total": 87152
             }
           },
           {
@@ -42746,7 +42746,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 59503
+              "total": 61039
             }
           }
         ],
@@ -42763,8 +42763,8 @@
         "precincts_total": 113,
         "state_abb": "Mich.",
         "state_postal": "MI",
-        "total_expected_vote": 146352,
-        "total_votes": 144888
+        "total_expected_vote": 149688,
+        "total_votes": 148191
       },
       {
         "candidates": [
@@ -42878,7 +42878,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 42433
+              "total": 42478
             }
           },
           {
@@ -42886,7 +42886,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 37128
+              "total": 37146
             }
           }
         ],
@@ -42904,7 +42904,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 80365,
-        "total_votes": 79561
+        "total_votes": 79624
       },
       {
         "candidates": [
@@ -43228,7 +43228,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 25643
+              "total": 25659
             }
           },
           {
@@ -43236,7 +43236,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 22541
+              "total": 22572
             }
           }
         ],
@@ -43254,7 +43254,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 48671,
-        "total_votes": 48184
+        "total_votes": 48231
       },
       {
         "candidates": [
@@ -43551,7 +43551,7 @@
             "nyt_id": "yes",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 11731
+              "total": 11732
             }
           }
         ],
@@ -43569,7 +43569,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 27245,
-        "total_votes": 26973
+        "total_votes": 26974
       },
       {
         "candidates": [
@@ -43610,41 +43610,6 @@
         "candidates": [
           {
             "leader": true,
-            "nyt_id": "yes",
-            "nyt_vote_estimates": null,
-            "votes": {
-              "total": 13484
-            }
-          },
-          {
-            "leader": false,
-            "nyt_id": "no",
-            "nyt_vote_estimates": null,
-            "votes": {
-              "total": 10210
-            }
-          }
-        ],
-        "eevp": 99,
-        "eevp_max": 99,
-        "fips_county": "073",
-        "fips_state": "26",
-        "fips_suffix": null,
-        "level": "county",
-        "name": "Isabella",
-        "nyt_id": "MI-county-26-073",
-        "nyt_vote_estimate": null,
-        "precincts_reporting": 28,
-        "precincts_total": 28,
-        "state_abb": "Mich.",
-        "state_postal": "MI",
-        "total_expected_vote": 23933,
-        "total_votes": 23694
-      },
-      {
-        "candidates": [
-          {
-            "leader": true,
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
@@ -43675,6 +43640,41 @@
         "state_postal": "MI",
         "total_expected_vote": 23926,
         "total_votes": 23687
+      },
+      {
+        "candidates": [
+          {
+            "leader": true,
+            "nyt_id": "yes",
+            "nyt_vote_estimates": null,
+            "votes": {
+              "total": 13460
+            }
+          },
+          {
+            "leader": false,
+            "nyt_id": "no",
+            "nyt_vote_estimates": null,
+            "votes": {
+              "total": 10209
+            }
+          }
+        ],
+        "eevp": 98.9,
+        "eevp_max": 99,
+        "fips_county": "073",
+        "fips_state": "26",
+        "fips_suffix": null,
+        "level": "county",
+        "name": "Isabella",
+        "nyt_id": "MI-county-26-073",
+        "nyt_vote_estimate": null,
+        "precincts_reporting": 28,
+        "precincts_total": 28,
+        "state_abb": "Mich.",
+        "state_postal": "MI",
+        "total_expected_vote": 23933,
+        "total_votes": 23669
       },
       {
         "candidates": [
@@ -43928,7 +43928,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 9844
+              "total": 9839
             }
           },
           {
@@ -43940,7 +43940,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.97,
         "eevp_max": 99,
         "fips_county": "041",
         "fips_state": "26",
@@ -43954,7 +43954,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 17230,
-        "total_votes": 17058
+        "total_votes": 17053
       },
       {
         "candidates": [
@@ -44068,7 +44068,7 @@
             "nyt_id": "no",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 8000
+              "total": 7999
             }
           },
           {
@@ -44080,7 +44080,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.99,
         "eevp_max": 99,
         "fips_county": "057",
         "fips_state": "26",
@@ -44094,7 +44094,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 15288,
-        "total_votes": 15135
+        "total_votes": 15134
       },
       {
         "candidates": [
@@ -45438,7 +45438,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 1787,
-            "total": 2478426
+            "total": 2480000
           }
         },
         {
@@ -45447,7 +45447,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 1093,
-            "total": 1895608
+            "total": 1897417
           }
         }
       ],
@@ -45463,15 +45463,15 @@
       "precincts_reporting": 4690,
       "precincts_total": 4690,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:45.259+00:00",
+      "provider_updated_at": "2022-11-14T21:29:02.478+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 4417459,
-      "total_votes": 4374034
+      "total_votes": 4377417
     },
     "type": "Ballot Issue",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:45.259Z",
+    "updated_at": "2022-11-14T21:29:02.478Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-proposal-3-constitutional-right-to-reproductive-freedom.html"
   },
   {
@@ -45602,7 +45602,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 229192,
-              "total": 2463544
+              "total": 2465218
             }
           },
           {
@@ -45611,7 +45611,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 55001,
-              "total": 1848735
+              "total": 1850362
             }
           },
           {
@@ -45620,7 +45620,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 2081,
-              "total": 53055
+              "total": 53086
             }
           },
           {
@@ -45629,7 +45629,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 1395,
-              "total": 28013
+              "total": 27965
             }
           },
           {
@@ -45638,7 +45638,7 @@
             "nyt_vote_estimates": null,
             "votes": {
               "advance": 849,
-              "total": 16643
+              "total": 16638
             }
           }
         ],
@@ -45656,7 +45656,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 4453779,
-        "total_votes": 4409990
+        "total_votes": 4413269
       },
       {
         "candidates": [
@@ -45730,7 +45730,7 @@
         "name": "Wayne",
         "nyt_id": "MI-county-26-163",
         "nyt_vote_estimate": null,
-        "precincts_reporting": 918,
+        "precincts_reporting": 909,
         "precincts_total": 918,
         "state_abb": "Mich.",
         "state_postal": "MI",
@@ -46039,7 +46039,7 @@
             "nyt_id": "karamo-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 81102
+              "total": 82713
             }
           },
           {
@@ -46047,7 +46047,7 @@
             "nyt_id": "benson-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 61227
+              "total": 62865
             }
           },
           {
@@ -46055,7 +46055,7 @@
             "nyt_id": "stempfle-g",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 1801
+              "total": 1850
             }
           },
           {
@@ -46063,7 +46063,7 @@
             "nyt_id": "schwartz-c",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 575
+              "total": 592
             }
           },
           {
@@ -46071,7 +46071,7 @@
             "nyt_id": "hutchinson-l",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 425
+              "total": 430
             }
           }
         ],
@@ -46088,8 +46088,8 @@
         "precincts_total": 113,
         "state_abb": "Mich.",
         "state_postal": "MI",
-        "total_expected_vote": 146596,
-        "total_votes": 145130
+        "total_expected_vote": 149949,
+        "total_votes": 148450
       },
       {
         "candidates": [
@@ -46275,7 +46275,7 @@
             "nyt_id": "benson-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 44346
+              "total": 44376
             }
           },
           {
@@ -46283,7 +46283,7 @@
             "nyt_id": "karamo-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 34512
+              "total": 34505
             }
           },
           {
@@ -46291,7 +46291,7 @@
             "nyt_id": "stempfle-g",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 927
+              "total": 909
             }
           },
           {
@@ -46299,7 +46299,7 @@
             "nyt_id": "schwartz-c",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 665
+              "total": 650
             }
           },
           {
@@ -46307,11 +46307,11 @@
             "nyt_id": "hutchinson-l",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 305
+              "total": 296
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.98,
         "eevp_max": 99,
         "fips_county": "145",
         "fips_state": "26",
@@ -46325,7 +46325,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 81571,
-        "total_votes": 80755
+        "total_votes": 80736
       },
       {
         "candidates": [
@@ -46865,7 +46865,7 @@
             "nyt_id": "benson-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 25711
+              "total": 25730
             }
           },
           {
@@ -46873,7 +46873,7 @@
             "nyt_id": "karamo-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 21555
+              "total": 21585
             }
           },
           {
@@ -46915,7 +46915,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 49095,
-        "total_votes": 48604
+        "total_votes": 48653
       },
       {
         "candidates": [
@@ -47404,7 +47404,7 @@
             "nyt_id": "benson-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 11362
+              "total": 11363
             }
           },
           {
@@ -47446,7 +47446,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 27144,
-        "total_votes": 26873
+        "total_votes": 26874
       },
       {
         "candidates": [
@@ -47573,7 +47573,7 @@
             "nyt_id": "benson-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 12577
+              "total": 12555
             }
           },
           {
@@ -47581,7 +47581,7 @@
             "nyt_id": "karamo-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 10530
+              "total": 10528
             }
           },
           {
@@ -47605,11 +47605,11 @@
             "nyt_id": "hutchinson-l",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 114
+              "total": 113
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.9,
         "eevp_max": 99,
         "fips_county": "073",
         "fips_state": "26",
@@ -47623,7 +47623,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 23934,
-        "total_votes": 23695
+        "total_votes": 23670
       },
       {
         "candidates": [
@@ -48045,7 +48045,7 @@
             "nyt_id": "karamo-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 9852
+              "total": 9848
             }
           },
           {
@@ -48081,7 +48081,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.97,
         "eevp_max": 99,
         "fips_county": "041",
         "fips_state": "26",
@@ -48095,7 +48095,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 17362,
-        "total_votes": 17188
+        "total_votes": 17184
       },
       {
         "candidates": [
@@ -48281,7 +48281,7 @@
             "nyt_id": "karamo-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 8383
+              "total": 8382
             }
           },
           {
@@ -48317,7 +48317,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.99,
         "eevp_max": 99,
         "fips_county": "057",
         "fips_state": "26",
@@ -48331,7 +48331,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 15379,
-        "total_votes": 15225
+        "total_votes": 15224
       },
       {
         "candidates": [
@@ -49705,15 +49705,7 @@
             "nyt_id": "benson-j",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 2819
-            }
-          },
-          {
-            "leader": false,
-            "nyt_id": "schwartz-c",
-            "nyt_vote_estimates": null,
-            "votes": {
-              "total": 143
+              "total": 2827
             }
           },
           {
@@ -49726,6 +49718,14 @@
           },
           {
             "leader": false,
+            "nyt_id": "schwartz-c",
+            "nyt_vote_estimates": null,
+            "votes": {
+              "total": 93
+            }
+          },
+          {
+            "leader": false,
             "nyt_id": "hutchinson-l",
             "nyt_vote_estimates": null,
             "votes": {
@@ -49733,7 +49733,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.42,
         "eevp_max": 99,
         "fips_county": "011",
         "fips_state": "26",
@@ -49747,7 +49747,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 7228,
-        "total_votes": 7156
+        "total_votes": 7114
       },
       {
         "candidates": [
@@ -50587,7 +50587,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 229192,
-            "total": 2463544
+            "total": 2465218
           }
         },
         {
@@ -50596,7 +50596,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 55001,
-            "total": 1848735
+            "total": 1850362
           }
         },
         {
@@ -50605,7 +50605,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 2081,
-            "total": 53055
+            "total": 53086
           }
         },
         {
@@ -50614,7 +50614,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 1395,
-            "total": 28013
+            "total": 27965
           }
         },
         {
@@ -50623,7 +50623,7 @@
           "nyt_vote_estimates": null,
           "votes": {
             "advance": 849,
-            "total": 16643
+            "total": 16638
           }
         }
       ],
@@ -50639,15 +50639,15 @@
       "precincts_reporting": 4690,
       "precincts_total": 4690,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:18.214+00:00",
+      "provider_updated_at": "2022-11-14T21:29:02.664+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 4453779,
-      "total_votes": 4409990
+      "total_votes": 4413269
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:18.214Z",
+    "updated_at": "2022-11-14T21:29:02.664Z",
     "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan-secretary-of-state.html"
   },
   {
@@ -50772,7 +50772,7 @@
             "nyt_id": "bernstein-r",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 2118475
+              "total": 2118028
             }
           },
           {
@@ -50780,7 +50780,7 @@
             "nyt_id": "zahra-b",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 1490081
+              "total": 1491516
             }
           },
           {
@@ -50788,7 +50788,7 @@
             "nyt_id": "bolden-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 1368452
+              "total": 1369291
             }
           },
           {
@@ -50796,7 +50796,7 @@
             "nyt_id": "hudson-p",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 832722
+              "total": 833510
             }
           },
           {
@@ -50804,7 +50804,7 @@
             "nyt_id": "morgan-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 437800
+              "total": 438015
             }
           }
         ],
@@ -50822,7 +50822,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 6305563,
-        "total_votes": 6247530
+        "total_votes": 6250360
       },
       {
         "candidates": [
@@ -51185,7 +51185,7 @@
             "nyt_id": "zahra-b",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 64753
+              "total": 66094
             }
           },
           {
@@ -51193,7 +51193,7 @@
             "nyt_id": "bernstein-r",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 57220
+              "total": 58597
             }
           },
           {
@@ -51201,7 +51201,7 @@
             "nyt_id": "hudson-p",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 41523
+              "total": 42306
             }
           },
           {
@@ -51209,7 +51209,7 @@
             "nyt_id": "bolden-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 34581
+              "total": 35477
             }
           },
           {
@@ -51217,7 +51217,7 @@
             "nyt_id": "morgan-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 12342
+              "total": 12668
             }
           }
         ],
@@ -51234,8 +51234,8 @@
         "precincts_total": 113,
         "state_abb": "Mich.",
         "state_postal": "MI",
-        "total_expected_vote": 212544,
-        "total_votes": 210419
+        "total_expected_vote": 217315,
+        "total_votes": 215142
       },
       {
         "candidates": [
@@ -51421,7 +51421,7 @@
             "nyt_id": "bernstein-r",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 38862
+              "total": 38898
             }
           },
           {
@@ -51429,7 +51429,7 @@
             "nyt_id": "zahra-b",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 26548
+              "total": 26555
             }
           },
           {
@@ -51437,7 +51437,7 @@
             "nyt_id": "bolden-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 23593
+              "total": 23616
             }
           },
           {
@@ -51445,7 +51445,7 @@
             "nyt_id": "hudson-p",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 15080
+              "total": 15083
             }
           },
           {
@@ -51453,7 +51453,7 @@
             "nyt_id": "morgan-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 8723
+              "total": 8715
             }
           }
         ],
@@ -51471,7 +51471,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 113945,
-        "total_votes": 112806
+        "total_votes": 112867
       },
       {
         "candidates": [
@@ -52011,7 +52011,7 @@
             "nyt_id": "bernstein-r",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 23852
+              "total": 23868
             }
           },
           {
@@ -52019,7 +52019,7 @@
             "nyt_id": "zahra-b",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 16655
+              "total": 16670
             }
           },
           {
@@ -52027,7 +52027,7 @@
             "nyt_id": "bolden-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 13044
+              "total": 13051
             }
           },
           {
@@ -52035,7 +52035,7 @@
             "nyt_id": "hudson-p",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 9679
+              "total": 9690
             }
           },
           {
@@ -52043,7 +52043,7 @@
             "nyt_id": "morgan-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 5809
+              "total": 5818
             }
           }
         ],
@@ -52061,7 +52061,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 69736,
-        "total_votes": 69039
+        "total_votes": 69097
       },
       {
         "candidates": [
@@ -52542,7 +52542,7 @@
             "nyt_id": "bernstein-r",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 11185
+              "total": 11186
             }
           },
           {
@@ -52558,7 +52558,7 @@
             "nyt_id": "bolden-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 5767
+              "total": 5768
             }
           },
           {
@@ -52592,7 +52592,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 36075,
-        "total_votes": 35714
+        "total_votes": 35716
       },
       {
         "candidates": [
@@ -52719,7 +52719,7 @@
             "nyt_id": "bernstein-r",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 10897
+              "total": 10880
             }
           },
           {
@@ -52727,7 +52727,7 @@
             "nyt_id": "zahra-b",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 7456
+              "total": 7448
             }
           },
           {
@@ -52735,7 +52735,7 @@
             "nyt_id": "bolden-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 7121
+              "total": 7107
             }
           },
           {
@@ -52743,7 +52743,7 @@
             "nyt_id": "hudson-p",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 4724
+              "total": 4723
             }
           },
           {
@@ -52751,11 +52751,11 @@
             "nyt_id": "morgan-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 2676
+              "total": 2674
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.87,
         "eevp_max": 99,
         "fips_county": "073",
         "fips_state": "26",
@@ -52769,7 +52769,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 33206,
-        "total_votes": 32874
+        "total_votes": 32832
       },
       {
         "candidates": [
@@ -53191,7 +53191,7 @@
             "nyt_id": "zahra-b",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 6561
+              "total": 6557
             }
           },
           {
@@ -53207,7 +53207,7 @@
             "nyt_id": "bolden-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 3721
+              "total": 3722
             }
           },
           {
@@ -53215,7 +53215,7 @@
             "nyt_id": "hudson-p",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 3659
+              "total": 3657
             }
           },
           {
@@ -53227,7 +53227,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.98,
         "eevp_max": 99,
         "fips_county": "041",
         "fips_state": "26",
@@ -53241,7 +53241,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 22938,
-        "total_votes": 22709
+        "total_votes": 22704
       },
       {
         "candidates": [
@@ -53502,7 +53502,7 @@
             "nyt_id": "bolden-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 3540
+              "total": 3539
             }
           },
           {
@@ -53522,7 +53522,7 @@
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.99,
         "eevp_max": 99,
         "fips_county": "057",
         "fips_state": "26",
@@ -53536,7 +53536,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 21175,
-        "total_votes": 20963
+        "total_votes": 20962
       },
       {
         "candidates": [
@@ -53899,65 +53899,6 @@
             "nyt_id": "bernstein-r",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 7462
-            }
-          },
-          {
-            "leader": false,
-            "nyt_id": "zahra-b",
-            "nyt_vote_estimates": null,
-            "votes": {
-              "total": 4436
-            }
-          },
-          {
-            "leader": false,
-            "nyt_id": "hudson-p",
-            "nyt_vote_estimates": null,
-            "votes": {
-              "total": 3015
-            }
-          },
-          {
-            "leader": false,
-            "nyt_id": "bolden-k",
-            "nyt_vote_estimates": null,
-            "votes": {
-              "total": 2747
-            }
-          },
-          {
-            "leader": false,
-            "nyt_id": "morgan-k",
-            "nyt_vote_estimates": null,
-            "votes": {
-              "total": 1616
-            }
-          }
-        ],
-        "eevp": 99,
-        "eevp_max": 99,
-        "fips_county": "035",
-        "fips_state": "26",
-        "fips_suffix": null,
-        "level": "county",
-        "name": "Clare",
-        "nyt_id": "MI-county-26-035",
-        "nyt_vote_estimate": null,
-        "precincts_reporting": 19,
-        "precincts_total": 19,
-        "state_abb": "Mich.",
-        "state_postal": "MI",
-        "total_expected_vote": 19471,
-        "total_votes": 19276
-      },
-      {
-        "candidates": [
-          {
-            "leader": true,
-            "nyt_id": "bernstein-r",
-            "nyt_vote_estimates": null,
-            "votes": {
               "total": 5835
             }
           },
@@ -54068,6 +54009,65 @@
         "state_postal": "MI",
         "total_expected_vote": 17668,
         "total_votes": 17491
+      },
+      {
+        "candidates": [
+          {
+            "leader": true,
+            "nyt_id": "bernstein-r",
+            "nyt_vote_estimates": null,
+            "votes": {
+              "total": 5577
+            }
+          },
+          {
+            "leader": false,
+            "nyt_id": "zahra-b",
+            "nyt_vote_estimates": null,
+            "votes": {
+              "total": 4436
+            }
+          },
+          {
+            "leader": false,
+            "nyt_id": "hudson-p",
+            "nyt_vote_estimates": null,
+            "votes": {
+              "total": 3015
+            }
+          },
+          {
+            "leader": false,
+            "nyt_id": "bolden-k",
+            "nyt_vote_estimates": null,
+            "votes": {
+              "total": 2747
+            }
+          },
+          {
+            "leader": false,
+            "nyt_id": "morgan-k",
+            "nyt_vote_estimates": null,
+            "votes": {
+              "total": 1616
+            }
+          }
+        ],
+        "eevp": 89.32,
+        "eevp_max": 99,
+        "fips_county": "035",
+        "fips_state": "26",
+        "fips_suffix": null,
+        "level": "county",
+        "name": "Clare",
+        "nyt_id": "MI-county-26-035",
+        "nyt_vote_estimate": null,
+        "precincts_reporting": 19,
+        "precincts_total": 19,
+        "state_abb": "Mich.",
+        "state_postal": "MI",
+        "total_expected_vote": 19471,
+        "total_votes": 17391
       },
       {
         "candidates": [
@@ -54843,7 +54843,7 @@
             "nyt_id": "bernstein-r",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 3212
+              "total": 3237
             }
           },
           {
@@ -54851,7 +54851,7 @@
             "nyt_id": "zahra-b",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 2405
+              "total": 2489
             }
           },
           {
@@ -54859,7 +54859,7 @@
             "nyt_id": "bolden-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 1615
+              "total": 1541
             }
           },
           {
@@ -54867,7 +54867,7 @@
             "nyt_id": "hudson-p",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 1456
+              "total": 1450
             }
           },
           {
@@ -54875,11 +54875,11 @@
             "nyt_id": "morgan-k",
             "nyt_vote_estimates": null,
             "votes": {
-              "total": 864
+              "total": 754
             }
           }
         ],
-        "eevp": 99,
+        "eevp": 98.17,
         "eevp_max": 99,
         "fips_county": "011",
         "fips_state": "26",
@@ -54893,7 +54893,7 @@
         "state_abb": "Mich.",
         "state_postal": "MI",
         "total_expected_vote": 9648,
-        "total_votes": 9552
+        "total_votes": 9471
       },
       {
         "candidates": [
@@ -55732,7 +55732,7 @@
           "nyt_id": "bernstein-r",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 2118475
+            "total": 2118028
           }
         },
         {
@@ -55740,7 +55740,7 @@
           "nyt_id": "zahra-b",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 1490081
+            "total": 1491516
           }
         },
         {
@@ -55748,7 +55748,7 @@
           "nyt_id": "bolden-k",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 1368452
+            "total": 1369291
           }
         },
         {
@@ -55756,7 +55756,7 @@
           "nyt_id": "hudson-p",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 832722
+            "total": 833510
           }
         },
         {
@@ -55764,7 +55764,7 @@
           "nyt_id": "morgan-k",
           "nyt_vote_estimates": null,
           "votes": {
-            "total": 437800
+            "total": 438015
           }
         }
       ],
@@ -55780,14 +55780,14 @@
       "precincts_reporting": 4690,
       "precincts_total": 4690,
       "provider": "ap",
-      "provider_updated_at": "2022-11-11T12:11:40.363+00:00",
+      "provider_updated_at": "2022-11-14T21:29:02.872+00:00",
       "state_abb": "Mich.",
       "state_postal": "MI",
       "total_expected_vote": 6305563,
-      "total_votes": 6247530
+      "total_votes": 6250360
     },
     "type": "General",
     "uncontested": false,
-    "updated_at": "2022-11-11T12:11:40.363Z"
+    "updated_at": "2022-11-14T21:29:02.872Z"
   }
 ]
