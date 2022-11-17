@@ -4,8 +4,8 @@ notebook
 numpy
 pandas
 pre-commit
+pyarrow
 requests
 scikit-learn
 seaborn
 selenium
-pyarrow
