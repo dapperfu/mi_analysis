@@ -23,7 +23,10 @@ def main():
                 print(f"  Counties: {len(race['counties'])}")
                 if len(race['counties']) > 0:
                     print(f"  Sample county: {race['counties'][0]['name']}")
-                    print(f"  Candidates: {len(race['counties'][0]['candidates'])}")
+                    if 'results' in race['counties'][0]:
+                        print(f"  Results keys: {list(race['counties'][0]['results'].keys())}")
+                    elif 'candidates' in race['counties'][0]:
+                        print(f"  Candidates: {len(race['counties'][0]['candidates'])}")
         
         # Test processing one race
         if len(data_2016_primary) > 0:
@@ -35,20 +38,33 @@ def main():
                 row = {"county": county["name"]}
                 total = 0
                 
-                for candidate in county["candidates"]:
-                    candidate_key = candidate["candidate_id"].split("-")[0]
-                    votes = candidate["votes"]
-                    row[f"prim_16_{candidate_key}"] = votes
-                    total += votes
+                # Handle the results structure
+                if "results" in county:
+                    for candidate_key, votes in county["results"].items():
+                        row[f"prim_16_{candidate_key}"] = votes
+                        total += votes
+                else:
+                    # Fallback to candidates structure
+                    for candidate in county.get("candidates", []):
+                        candidate_key = candidate["candidate_id"].split("-")[0]
+                        votes = candidate["votes"]
+                        row[f"prim_16_{candidate_key}"] = votes
+                        total += votes
                 
                 row["prim_16_total"] = total
                 
                 # Calculate percentages
-                for candidate in county["candidates"]:
-                    candidate_key = candidate["candidate_id"].split("-")[0]
-                    row[f"prim_16_{candidate_key}_pct"] = (
-                        candidate["votes"] / total if total > 0 else 0
-                    )
+                if "results" in county:
+                    for candidate_key, votes in county["results"].items():
+                        row[f"prim_16_{candidate_key}_pct"] = (
+                            votes / total if total > 0 else 0
+                        )
+                else:
+                    for candidate in county.get("candidates", []):
+                        candidate_key = candidate["candidate_id"].split("-")[0]
+                        row[f"prim_16_{candidate_key}_pct"] = (
+                            candidate["votes"] / total if total > 0 else 0
+                        )
                 
                 data.append(row)
             

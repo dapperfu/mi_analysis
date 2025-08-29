@@ -113,20 +113,33 @@ class ElectionMetaAnalyzer:
                 row = {"county": county["name"]}
                 total = 0
                 
-                for candidate in county["candidates"]:
-                    candidate_key = candidate["candidate_id"].split("-")[0]
-                    votes = candidate["votes"]
-                    row[f"prim_16_{candidate_key}_{party}"] = votes
-                    total += votes
+                # Handle the results structure (not candidates)
+                if "results" in county:
+                    for candidate_key, votes in county["results"].items():
+                        row[f"prim_16_{candidate_key}_{party}"] = votes
+                        total += votes
+                else:
+                    # Fallback to candidates structure if it exists
+                    for candidate in county.get("candidates", []):
+                        candidate_key = candidate["candidate_id"].split("-")[0]
+                        votes = candidate["votes"]
+                        row[f"prim_16_{candidate_key}_{party}"] = votes
+                        total += votes
                 
                 row[f"prim_16_{party}_total"] = total
                 
                 # Calculate percentages
-                for candidate in county["candidates"]:
-                    candidate_key = candidate["candidate_id"].split("-")[0]
-                    row[f"prim_16_{candidate_key}_{party}_pct"] = (
-                        candidate["votes"] / total if total > 0 else 0
-                    )
+                if "results" in county:
+                    for candidate_key, votes in county["results"].items():
+                        row[f"prim_16_{candidate_key}_{party}_pct"] = (
+                            votes / total if total > 0 else 0
+                        )
+                else:
+                    for candidate in county.get("candidates", []):
+                        candidate_key = candidate["candidate_id"].split("-")[0]
+                        row[f"prim_16_{candidate_key}_{party}_pct"] = (
+                            candidate["votes"] / total if total > 0 else 0
+                        )
                 
                 data.append(row)
         
@@ -144,20 +157,33 @@ class ElectionMetaAnalyzer:
             row = {"county": county["name"]}
             total = 0
             
-            for candidate in county["candidates"]:
-                candidate_key = candidate["candidate_id"].split("-")[0]
-                votes = candidate["votes"]
-                row[f"pres_16_{candidate_key}"] = votes
-                total += votes
+            # Handle the results structure
+            if "results" in county:
+                for candidate_key, votes in county["results"].items():
+                    row[f"pres_16_{candidate_key}"] = votes
+                    total += votes
+            else:
+                # Fallback to candidates structure if it exists
+                for candidate in county.get("candidates", []):
+                    candidate_key = candidate["candidate_id"].split("-")[0]
+                    votes = candidate["votes"]
+                    row[f"pres_16_{candidate_key}"] = votes
+                    total += votes
             
             row["pres_16_total"] = total
             
             # Calculate percentages
-            for candidate in county["candidates"]:
-                candidate_key = candidate["candidate_id"].split("-")[0]
-                row[f"pres_16_{candidate_key}_pct"] = (
-                    candidate["votes"] / total if total > 0 else 0
-                )
+            if "results" in county:
+                for candidate_key, votes in county["results"].items():
+                    row[f"pres_16_{candidate_key}_pct"] = (
+                        votes / total if total > 0 else 0
+                    )
+            else:
+                for candidate in county.get("candidates", []):
+                    candidate_key = candidate["candidate_id"].split("-")[0]
+                    row[f"pres_16_{candidate_key}_pct"] = (
+                        candidate["votes"] / total if total > 0 else 0
+                    )
             
             data.append(row)
         
@@ -175,20 +201,33 @@ class ElectionMetaAnalyzer:
             row = {"county": county["name"]}
             total = 0
             
-            for candidate in county["candidates"]:
-                candidate_key = candidate["candidate_id"].split("-")[0]
-                votes = candidate["votes"]
-                row[f"prim_20_{candidate_key}_dem"] = votes
-                total += votes
+            # Handle the results structure
+            if "results" in county:
+                for candidate_key, votes in county["results"].items():
+                    row[f"prim_20_{candidate_key}_dem"] = votes
+                    total += votes
+            else:
+                # Fallback to candidates structure if it exists
+                for candidate in county.get("candidates", []):
+                    candidate_key = candidate["candidate_id"].split("-")[0]
+                    votes = candidate["votes"]
+                    row[f"prim_20_{candidate_key}_dem"] = votes
+                    total += votes
             
             row["prim_20_dem_total"] = total
             
             # Calculate percentages
-            for candidate in county["candidates"]:
-                candidate_key = candidate["candidate_id"].split("-")[0]
-                row[f"prim_20_{candidate_key}_dem_pct"] = (
-                    candidate["votes"] / total if total > 0 else 0
-                )
+            if "results" in county:
+                for candidate_key, votes in county["results"].items():
+                    row[f"prim_20_{candidate_key}_dem_pct"] = (
+                        votes / total if total > 0 else 0
+                    )
+            else:
+                for candidate in county.get("candidates", []):
+                    candidate_key = candidate["candidate_id"].split("-")[0]
+                    row[f"prim_20_{candidate_key}_dem_pct"] = (
+                        candidate["votes"] / total if total > 0 else 0
+                    )
             
             data.append(row)
         
@@ -206,20 +245,33 @@ class ElectionMetaAnalyzer:
             row = {"county": county["name"]}
             total = 0
             
-            for candidate in county["candidates"]:
-                candidate_key = candidate["candidate_id"].split("-")[0]
-                votes = candidate["votes"]
-                row[f"pres_20_{candidate_key}"] = votes
-                total += votes
+            # Handle the results structure
+            if "results" in county:
+                for candidate_key, votes in county["results"].items():
+                    row[f"pres_20_{candidate_key}"] = votes
+                    total += votes
+            else:
+                # Fallback to candidates structure if it exists
+                for candidate in county.get("candidates", []):
+                    candidate_key = candidate["candidate_id"].split("-")[0]
+                    votes = candidate["votes"]
+                    row[f"pres_20_{candidate_key}"] = votes
+                    total += votes
             
             row["pres_20_total"] = total
             
             # Calculate percentages
-            for candidate in county["candidates"]:
-                candidate_key = candidate["candidate_id"].split("-")[0]
-                row[f"pres_20_{candidate_key}_pct"] = (
-                    candidate["votes"] / total if total > 0 else 0
-                )
+            if "results" in county:
+                for candidate_key, votes in county["results"].items():
+                    row[f"pres_20_{candidate_key}_pct"] = (
+                        votes / total if total > 0 else 0
+                    )
+            else:
+                for candidate in county.get("candidates", []):
+                    candidate_key = candidate["candidate_id"].split("-")[0]
+                    row[f"pres_20_{candidate_key}_pct"] = (
+                        candidate["votes"] / total if total > 0 else 0
+                    )
             
             data.append(row)
         
@@ -231,14 +283,15 @@ class ElectionMetaAnalyzer:
             return None
             
         races = self.data['2022']
-        data = []
+        county_data = {}  # Use dict to aggregate by county
         
         for race in races:
-            if "Governor" in race.get("race_name", ""):
+            # Check the office field instead of race_name
+            if "Governor" in race.get("office", ""):
                 race_key = "gov"
-            elif "Attorney General" in race.get("race_name", ""):
+            elif "Attorney General" in race.get("office", ""):
                 race_key = "ag"
-            elif "Secretary of State" in race.get("race_name", ""):
+            elif "Secretary of State" in race.get("office", ""):
                 race_key = "sos"
             else:
                 continue
@@ -247,26 +300,31 @@ class ElectionMetaAnalyzer:
                 if county["level"] == "state":
                     continue
                     
-                row = {"county": county["name"]}
+                county_name = county["name"]
+                
+                # Initialize county row if not exists
+                if county_name not in county_data:
+                    county_data[county_name] = {"county": county_name}
+                
                 total = 0
                 
                 for candidate in county["candidates"]:
                     candidate_key = candidate["nyt_id"].split("-")[0]
                     votes = candidate["votes"]["total"]
-                    row[f"{race_key}_22_{candidate_key}"] = votes
+                    county_data[county_name][f"{race_key}_22_{candidate_key}"] = votes
                     total += votes
                 
-                row[f"{race_key}_22_total"] = total
+                county_data[county_name][f"{race_key}_22_total"] = total
                 
                 # Calculate percentages
                 for candidate in county["candidates"]:
                     candidate_key = candidate["nyt_id"].split("-")[0]
-                    row[f"{race_key}_22_{candidate_key}_pct"] = (
+                    county_data[county_name][f"{race_key}_22_{candidate_key}_pct"] = (
                         candidate["votes"]["total"] / total if total > 0 else 0
                     )
-                
-                data.append(row)
         
+        # Convert dict to DataFrame
+        data = list(county_data.values())
         return pd.DataFrame(data)
     
     def process_2018_general(self):
@@ -274,27 +332,51 @@ class ElectionMetaAnalyzer:
         if '2018_general' not in self.data:
             return None
             
-        race = self.data['2018_general']
+        races = self.data['2018_general']
         data = []
         
-        for county in race["counties"]:
+        # Find the governor race
+        governor_race = None
+        for race in races:
+            if "governor" in race.get("race_name", "").lower():
+                governor_race = race
+                break
+        
+        if not governor_race:
+            print("No governor race found in 2018 data")
+            return None
+            
+        for county in governor_race["counties"]:
             row = {"county": county["name"]}
             total = 0
             
-            for candidate in county["candidates"]:
-                candidate_key = candidate["candidate_id"].split("-")[0]
-                votes = candidate["votes"]
-                row[f"gov_18_{candidate_key}"] = votes
-                total += votes
+            # Handle the results structure
+            if "results" in county:
+                for candidate_key, votes in county["results"].items():
+                    row[f"gov_18_{candidate_key}"] = votes
+                    total += votes
+            else:
+                # Fallback to candidates structure if it exists
+                for candidate in county.get("candidates", []):
+                    candidate_key = candidate["candidate_id"].split("-")[0]
+                    votes = candidate["votes"]
+                    row[f"gov_18_{candidate_key}"] = votes
+                    total += votes
             
             row["gov_18_total"] = total
             
             # Calculate percentages
-            for candidate in county["candidates"]:
-                candidate_key = candidate["candidate_id"].split("-")[0]
-                row[f"gov_18_{candidate_key}_pct"] = (
-                    candidate["votes"] / total if total > 0 else 0
-                )
+            if "results" in county:
+                for candidate_key, votes in county["results"].items():
+                    row[f"gov_18_{candidate_key}_pct"] = (
+                        votes / total if total > 0 else 0
+                    )
+            else:
+                for candidate in county.get("candidates", []):
+                    candidate_key = candidate["candidate_id"].split("-")[0]
+                    row[f"gov_18_{candidate_key}_pct"] = (
+                        candidate["votes"] / total if total > 0 else 0
+                    )
             
             data.append(row)
         
