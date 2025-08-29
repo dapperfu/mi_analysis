@@ -42,6 +42,10 @@ mi_analysis/
 ├── 📁 normalized_data/         # Standardized election data
 ├── 📁 maps/                    # Geographic visualization outputs
 ├── 📄 *.py                     # Core Python analysis scripts
+│   ├── Election_Meta_Analysis.py      # Main voter behavior analysis
+│   ├── Proposition_Trump_Analysis.py  # Proposition voting analysis
+│   ├── michigan_election_map.py       # Geographic visualization
+│   └── normalize_election_data.py     # Data normalization
 ├── 📓 *.ipynb                  # Jupyter notebooks (auto-generated)
 ├── 📊 *.ft                     # Feather format data files
 ├── 📋 *.json                   # Raw NYTimes API data
@@ -173,6 +177,15 @@ python Election_Meta_Analysis.py
   4. **Cross-cycle Correlation Analysis**: Relationships between different elections
   5. **Voter Migration Patterns**: Party switching and candidate loyalty
   6. **Geographic Clustering**: Regional voting pattern identification
+
+#### `Proposition_Trump_Analysis.py`
+- **Purpose**: Analyze proposition voting patterns vs. Trump performance
+- **Key Analyses**:
+  1. **Prop 1 (2020)**: Parks revenue spending changes
+  2. **Prop 2 (2020)**: Electronic data warrant requirements
+  3. **Prop 3 (2022)**: Reproductive freedom constitutional rights
+  4. **Trump Performance Correlation**: Relationship between proposition support and Trump vote shifts
+  5. **Cannabis Policy Analysis**: Marijuana legalization voting patterns
 
 #### Analysis Classes
 - **`ElectionMetaAnalyzer`**: Main analysis orchestrator
@@ -346,6 +359,11 @@ analyzer.perform_geographic_clustering()
 
 # Generate correlation matrix
 analyzer.generate_correlation_matrix()
+
+# Analyze proposition voting patterns
+from Proposition_Trump_Analysis import PropositionTrumpAnalyzer
+prop_analyzer = PropositionTrumpAnalyzer()
+prop_analyzer.run_complete_analysis()
 ```
 
 ### 3. Data Export
