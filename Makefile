@@ -1,12 +1,18 @@
 .PHONY: all
-all: 2022.ft
+all: 2022.ft 2024.ft
 
 2022.json: 01_Election_Data_Downloader.ipynb
 	jupyter-execute ${^}
 
 2022.ft: 2022.json
-	jupyter-execute 2022_Processing.ipynb
+	jupyter-execute 02_2022_Processing.ipynb
+
+2024.president.json: 01_Election_Data_Downloader.ipynb
+	jupyter-execute ${^}
+
+2024.ft: 2024.president.json
+	jupyter-execute 02_2024_Processing.ipynb
 
 .PHONY: clean
 clean:
-	rm -rf *.json
+	rm -rf *.json *.ft
