@@ -1,0 +1,2 @@
+pony>=0.7.16
+typing-extensions>=4.0.0
