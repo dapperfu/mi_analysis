@@ -1,15 +1,15 @@
 {
   "normalization_summary": {
-    "timestamp": "2025-08-29T16:11:11.082768",
-    "total_files_processed": 9,
+    "timestamp": "2025-08-29T16:26:05.039316",
+    "total_files_processed": 10,
     "files_by_format": {
-      "2022": 5,
-      "2016": 3,
-      "2020": 1
+      "2022": 2,
+      "unknown": 6,
+      "2016": 2
     },
-    "total_counties": 418,
-    "total_candidates": 38,
-    "total_votes": 17502589
+    "total_counties": 83,
+    "total_candidates": 19,
+    "total_votes": 1585858
   },
   "file_details": [
     {
@@ -23,31 +23,41 @@
       "total_votes": 0
     },
     {
+      "filename": "normalized_2020.primary.json",
+      "original_file": "2020.primary.json",
+      "format_type": "unknown",
+      "race_name": null,
+      "election_date": null,
+      "counties": 0,
+      "candidates": 0,
+      "total_votes": 0
+    },
+    {
       "filename": "normalized_2016.general.json",
       "original_file": "2016.general.json",
-      "format_type": "2016",
-      "race_name": "President",
-      "election_date": "2016-11-08",
-      "counties": 83,
-      "candidates": 7,
-      "total_votes": 4824260
+      "format_type": "unknown",
+      "race_name": null,
+      "election_date": null,
+      "counties": 0,
+      "candidates": 0,
+      "total_votes": 0
     },
     {
       "filename": "normalized_2022.json",
       "original_file": "2022.json",
-      "format_type": "2022",
+      "format_type": "unknown",
       "race_name": null,
-      "election_date": "2022-11-08",
-      "counties": 83,
-      "candidates": 6,
+      "election_date": null,
+      "counties": 0,
+      "candidates": 0,
       "total_votes": 0
     },
     {
       "filename": "normalized_2018.general.json",
       "original_file": "2018.general.json",
-      "format_type": "2022",
+      "format_type": "unknown",
       "race_name": null,
-      "election_date": "2018-11-06",
+      "election_date": null,
       "counties": 0,
       "candidates": 0,
       "total_votes": 0
@@ -55,9 +65,9 @@
     {
       "filename": "normalized_2016.primary.json",
       "original_file": "2016.primary.json",
-      "format_type": "2022",
+      "format_type": "unknown",
       "race_name": null,
-      "election_date": "2016-03-08",
+      "election_date": null,
       "counties": 0,
       "candidates": 0,
       "total_votes": 0
@@ -65,12 +75,12 @@
     {
       "filename": "normalized_2020.general.json",
       "original_file": "2020.general.json",
-      "format_type": "2020",
-      "race_name": "President",
-      "election_date": "2020-11-03",
-      "counties": 83,
-      "candidates": 7,
-      "total_votes": 5539302
+      "format_type": "unknown",
+      "race_name": null,
+      "election_date": null,
+      "counties": 0,
+      "candidates": 0,
+      "total_votes": 0
     },
     {
       "filename": "normalized_2020.general.all.json",
@@ -98,9 +108,9 @@
       "format_type": "2016",
       "race_name": null,
       "election_date": null,
-      "counties": 86,
-      "candidates": 2,
-      "total_votes": 5553169
+      "counties": 0,
+      "candidates": 3,
+      "total_votes": 0
     }
   ]
 }

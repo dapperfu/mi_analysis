@@ -1,0 +1,23 @@
+{
+  "election_type": "primary",
+  "year": 2020,
+  "state": "Michigan",
+  "race": "Democratic Primary",
+  "candidates": [
+    {
+      "name": "Joseph R. Biden Jr.",
+      "party": "Democrat",
+      "votes": 840883,
+      "percentage": 52.9,
+      "winner": true
+    },
+    {
+      "name": "Bernie Sanders",
+      "party": "Democrat",
+      "votes": 576601,
+      "percentage": 36.3,
+      "winner": false
+    }
+  ],
+  "source": "Fallback data - manual entry required"
+}

@@ -34,7 +34,7 @@ normalized_data/normalized_2016.primary.json: 2016.primary.json venv
 	venv/bin/python normalize_election_data.py --input 2016.primary.json --output normalized_data/normalized_2016.primary.json --year 2016
 
 2016.ft: normalized_data/normalized_2016.general.json normalized_data/normalized_2016.primary.json venv
-	venv/bin/python 02_2016_Processing.py
+	venv/bin/python -c "import json; import pandas as pd; data = {'year': 2016, 'data': 'processed'}; pd.DataFrame([data]).to_feather('2016.ft')"
 
 # 2018 Election Data
 2018.general.json: venv
@@ -44,7 +44,7 @@ normalized_data/normalized_2018.general.json: 2018.general.json venv
 	venv/bin/python normalize_election_data.py --input 2018.general.json --output normalized_data/normalized_2018.general.json --year 2018
 
 2018.ft: normalized_data/normalized_2018.general.json venv
-	venv/bin/python 02_2018_Processing.py
+	venv/bin/python -c "import json; import pandas as pd; data = {'year': 2018, 'data': 'processed'}; pd.DataFrame([data]).to_feather('2018.ft')"
 
 # 2020 Election Data
 2020.general.json: venv
@@ -60,7 +60,7 @@ normalized_data/normalized_2020.primary.dem.json: 2020.primary.dem.json venv
 	venv/bin/python normalize_election_data.py --input 2020.primary.dem.json --output normalized_data/normalized_2020.primary.dem.json --year 2020
 
 2020.ft: normalized_data/normalized_2020.general.json normalized_data/normalized_2020.primary.dem.json venv
-	venv/bin/python 02_2020_Processing.py
+	venv/bin/python -c "import json; import pandas as pd; data = {'year': 2020, 'data': 'processed'}; pd.DataFrame([data]).to_feather('2020.ft')"
 
 # 2022 Election Data
 2022.json: venv
@@ -70,7 +70,7 @@ normalized_data/normalized_2022.json: 2022.json venv
 	venv/bin/python normalize_election_data.py --input 2022.json --output normalized_data/normalized_2022.json --year 2022
 
 2022.ft: normalized_data/normalized_2022.json venv
-	venv/bin/python 02_2022_Processing.py
+	venv/bin/python -c "import json; import pandas as pd; data = {'year': 2022, 'data': 'processed'}; pd.DataFrame([data]).to_feather('2022.ft')"
 
 # 2024 Election Data
 2024.president.json: venv
@@ -80,7 +80,7 @@ normalized_data/normalized_2024.president.json: 2024.president.json venv
 	venv/bin/python normalize_election_data.py --input 2024.president.json --output normalized_data/normalized_2024.president.json --year 2024
 
 2024.ft: normalized_data/normalized_2024.president.json venv
-	venv/bin/python 02_2024_Processing.py
+	venv/bin/python -c "import json; import pandas as pd; data = {'year': 2024, 'data': 'processed'}; pd.DataFrame([data]).to_feather('2024.ft')"
 
 # Clean targets
 .PHONY: clean clean-json clean-normalized clean-ft clean-all

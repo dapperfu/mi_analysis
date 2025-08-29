@@ -1,29 +1,29 @@
 {
   "metadata": {
     "original_file": "2018.general.json",
-    "format_type": "2022",
-    "normalization_timestamp": "2025-08-29T16:06:43.762394",
+    "format_type": "unknown",
+    "normalization_timestamp": "2025-08-29T16:26:05.029300",
     "normalizer_version": "1.0.0"
   },
   "race": {
-    "race_id": "mi-24453-2018-11-06",
+    "race_id": null,
     "race_name": null,
     "race_type": null,
-    "election_date": "2018-11-06",
-    "state": "Michigan",
-    "state_postal": "MI",
+    "election_date": null,
+    "state": null,
+    "state_postal": null,
     "electoral_votes": 0,
     "total_precincts": 0,
     "precincts_reporting": 0,
     "total_votes": 0,
     "expected_votes": 0,
     "eevp": 0,
-    "eevp_display": "0%",
-    "reporting_percentage": 0,
+    "eevp_display": null,
+    "reporting_percentage": 0.0,
     "winner": null,
     "margin": null,
     "margin_display": null,
-    "data_source": "ap",
+    "data_source": null,
     "last_updated": null,
     "certified": false
   },
@@ -33,6 +33,6 @@
     "total_candidates": 0,
     "total_counties": 0,
     "total_votes": 0,
-    "reporting_percentage": 0
+    "reporting_percentage": 0.0
   }
 }

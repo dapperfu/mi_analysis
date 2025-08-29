@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "original_file": "2020.primary.json",
+    "format_type": "unknown",
+    "normalization_timestamp": "2025-08-29T16:26:05.028094",
+    "normalizer_version": "1.0.0"
+  },
+  "race": {
+    "race_id": null,
+    "race_name": null,
+    "race_type": null,
+    "election_date": null,
+    "state": null,
+    "state_postal": null,
+    "electoral_votes": 0,
+    "total_precincts": 0,
+    "precincts_reporting": 0,
+    "total_votes": 0,
+    "expected_votes": 0,
+    "eevp": 0,
+    "eevp_display": null,
+    "reporting_percentage": 0.0,
+    "winner": null,
+    "margin": null,
+    "margin_display": null,
+    "data_source": null,
+    "last_updated": null,
+    "certified": false
+  },
+  "candidates": [],
+  "counties": [],
+  "summary": {
+    "total_candidates": 0,
+    "total_counties": 0,
+    "total_votes": 0,
+    "reporting_percentage": 0.0
+  }
+}
