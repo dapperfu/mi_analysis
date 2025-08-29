@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "original_file": "2024.json",
+    "format_type": "2022",
+    "normalization_timestamp": "2025-08-29T16:11:11.050099",
+    "normalizer_version": "1.0.0"
+  },
+  "race": {
+    "race_id": null,
+    "race_name": null,
+    "race_type": null,
+    "election_date": "2024-11-05",
+    "state": "Michigan",
+    "state_postal": "MI",
+    "electoral_votes": 0,
+    "total_precincts": 0,
+    "precincts_reporting": 0,
+    "total_votes": 0,
+    "expected_votes": 0,
+    "eevp": 0,
+    "eevp_display": "0%",
+    "reporting_percentage": 0,
+    "winner": null,
+    "margin": null,
+    "margin_display": null,
+    "data_source": "ap",
+    "last_updated": null,
+    "certified": false
+  },
+  "candidates": [],
+  "counties": [],
+  "summary": {
+    "total_candidates": 0,
+    "total_counties": 0,
+    "total_votes": 0,
+    "reporting_percentage": 0
+  }
+}

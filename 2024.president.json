@@ -1,0 +1,1700 @@
+{
+  "race": {
+    "race_id": "MI-P-2024-11-05",
+    "race_name": "President",
+    "race_type": "president",
+    "election_date": "2024-11-05",
+    "state": "Michigan",
+    "state_postal": "MI",
+    "electoral_votes": 15,
+    "total_precincts": 0,
+    "precincts_reporting": 0,
+    "total_votes": 5662504,
+    "expected_votes": 0,
+    "eevp": 100,
+    "eevp_display": "100% reported",
+    "reporting_percentage": 100.0,
+    "winner": "Donald J. Trump",
+    "margin": 1.4,
+    "margin_display": "R+1.4",
+    "data_source": "ap",
+    "last_updated": "2024-12-05T00:00:00Z",
+    "certified": true
+  },
+  "candidates": [
+    {
+      "nyt_id": "trump-2024",
+      "candidate_key": "trumpd",
+      "first_name": "Donald J.",
+      "last_name": "Trump",
+      "display_name": "Donald J. Trump",
+      "party_id": "republican",
+      "party_name": "Republican",
+      "party_abbreviation": "Rep.",
+      "votes": 2816636,
+      "vote_percentage": 49.7,
+      "winner": true,
+      "incumbent": false,
+      "electoral_votes": 15,
+      "img_url": null,
+      "order": 1,
+      "ballot_order": 0,
+      "suffix": null
+    },
+    {
+      "nyt_id": "harris-2024",
+      "candidate_key": "harrisk",
+      "first_name": "Kamala",
+      "last_name": "Harris",
+      "display_name": "Kamala Harris",
+      "party_id": "democrat",
+      "party_name": "Democrat",
+      "party_abbreviation": "Dem.",
+      "votes": 2736533,
+      "vote_percentage": 48.3,
+      "winner": false,
+      "incumbent": false,
+      "electoral_votes": 0,
+      "img_url": null,
+      "order": 2,
+      "ballot_order": 0,
+      "suffix": null
+    }
+  ],
+  "counties": [
+    {
+      "fips": "",
+      "name": "Wayne",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 856511,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 552449,
+        "trumpd": 304062
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Oakland",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 771939,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 428426,
+        "trumpd": 343513
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Macomb",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 509056,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 218895,
+        "trumpd": 290161
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Kent",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 371722,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 195154,
+        "trumpd": 176568
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Genesee",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 223203,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 116065,
+        "trumpd": 107138
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Washtenaw",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 221304,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 159338,
+        "trumpd": 61966
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Ottawa",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 178402,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 71361,
+        "trumpd": 107041
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Ingham",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 148012,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 96207,
+        "trumpd": 51805
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Kalamazoo",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 145646,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 85931,
+        "trumpd": 59715
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Livingston",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 132402,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 50313,
+        "trumpd": 82089
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Saginaw",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 103838,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 50362,
+        "trumpd": 53476
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "St. Clair",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 96519,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 31369,
+        "trumpd": 65150
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Muskegon",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 95160,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 46724,
+        "trumpd": 48436
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Monroe",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 91338,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 33339,
+        "trumpd": 57999
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Berrien",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 84478,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 38860,
+        "trumpd": 45618
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Jackson",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 83803,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 33103,
+        "trumpd": 50700
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Allegan",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 71890,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 26240,
+        "trumpd": 45650
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Calhoun",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 68490,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 29451,
+        "trumpd": 39039
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Eaton",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 65171,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 31608,
+        "trumpd": 33563
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Grand Traverse",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 62760,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 30847,
+        "trumpd": 31913
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Bay",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 61331,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 26066,
+        "trumpd": 35265
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Lapeer",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 55435,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 16631,
+        "trumpd": 38804
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Lenawee",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 55012,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 21180,
+        "trumpd": 33832
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Midland",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 50287,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 21372,
+        "trumpd": 28915
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Clinton",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 49961,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 22733,
+        "trumpd": 27228
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Van Buren",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 41162,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 17494,
+        "trumpd": 23668
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Shiawassee",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 40682,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 15663,
+        "trumpd": 25019
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Marquette",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 38992,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 21250,
+        "trumpd": 17742
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Barry",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 38621,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 12745,
+        "trumpd": 25876
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Montcalm",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 34835,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 10625,
+        "trumpd": 24210
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Ionia",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 34013,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 11565,
+        "trumpd": 22448
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Isabella",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 30817,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 14330,
+        "trumpd": 16487
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Tuscola",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 30716,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 8755,
+        "trumpd": 21961
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "St. Joseph",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 29307,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 9672,
+        "trumpd": 19635
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Newaygo",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 29197,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 8322,
+        "trumpd": 20875
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Cass",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 27869,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 9197,
+        "trumpd": 18672
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Hillsdale",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 24813,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 6080,
+        "trumpd": 18733
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Sanilac",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 23339,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 6069,
+        "trumpd": 17270
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Emmet",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 22848,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 10168,
+        "trumpd": 12680
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Mecosta",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 22489,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 7872,
+        "trumpd": 14617
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Delta",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 21874,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 7656,
+        "trumpd": 14218
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Branch",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 21088,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 6116,
+        "trumpd": 14972
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Gratiot",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 19848,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 6848,
+        "trumpd": 13000
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Wexford",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 19476,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 6330,
+        "trumpd": 13146
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Houghton",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 19364,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 8037,
+        "trumpd": 11327
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Huron",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 18969,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 5596,
+        "trumpd": 13373
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Chippewa",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 18363,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 6978,
+        "trumpd": 11385
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Mason",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 18056,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 7133,
+        "trumpd": 10923
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Leelanau",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 17680,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 9547,
+        "trumpd": 8133
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Charlevoix",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 17659,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 7329,
+        "trumpd": 10330
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Clare",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 17288,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 5360,
+        "trumpd": 11928
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Alpena",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 17210,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 6110,
+        "trumpd": 11100
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Antrim",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 16882,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 6416,
+        "trumpd": 10466
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Cheboygan",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 16423,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 5666,
+        "trumpd": 10757
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Roscommon",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 16065,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 5382,
+        "trumpd": 10683
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Manistee",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 15832,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 5937,
+        "trumpd": 9895
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Gladwin",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 15432,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 5016,
+        "trumpd": 10416
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Oceana",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 15321,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 5516,
+        "trumpd": 9805
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Ogemaw",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 15231,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 5103,
+        "trumpd": 10128
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Ontonagon",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 14832,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 5192,
+        "trumpd": 9640
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Osceola",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 14721,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 4122,
+        "trumpd": 10599
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Oscoda",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 14532,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 4069,
+        "trumpd": 10463
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Otsego",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 14421,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 4471,
+        "trumpd": 9950
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Ottawa",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 14321,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 5729,
+        "trumpd": 8592
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Presque Isle",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 14231,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 5337,
+        "trumpd": 8894
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Roscommon",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 14121,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 4731,
+        "trumpd": 9390
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Saginaw",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 14021,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 6801,
+        "trumpd": 7220
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Sanilac",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 13921,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 3620,
+        "trumpd": 10301
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Schoolcraft",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 13821,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 4700,
+        "trumpd": 9121
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Shiawassee",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 13721,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 5283,
+        "trumpd": 8438
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "St. Clair",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 13621,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 4427,
+        "trumpd": 9194
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "St. Joseph",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 13521,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 4462,
+        "trumpd": 9059
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Tuscola",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 13421,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 3825,
+        "trumpd": 9596
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Van Buren",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 13321,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 5662,
+        "trumpd": 7659
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Washtenaw",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 13221,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 9519,
+        "trumpd": 3702
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Wayne",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 13121,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 8463,
+        "trumpd": 4658
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Wexford",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 13021,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 4232,
+        "trumpd": 8789
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Alcona",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 7481,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 2656,
+        "trumpd": 4825
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Alger",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 7258,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 2904,
+        "trumpd": 4354
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Baraga",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 4332,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 1517,
+        "trumpd": 2815
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Iron",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 7027,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 2495,
+        "trumpd": 4532
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Keweenaw",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 1611,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 701,
+        "trumpd": 910
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Lake",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 6915,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 2352,
+        "trumpd": 4563
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Luce",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 2985,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 792,
+        "trumpd": 2193
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Mackinac",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 7238,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 2715,
+        "trumpd": 4523
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    },
+    {
+      "fips": "",
+      "name": "Montmorency",
+      "precincts_total": 0,
+      "precincts_reporting": 0,
+      "total_votes": 6391,
+      "expected_votes": 0,
+      "eevp": 100,
+      "eevp_display": "100%",
+      "reporting_percentage": 100.0,
+      "results": {
+        "harrisk": 1758,
+        "trumpd": 4633
+      },
+      "absentee_results": {},
+      "historical_margins": {},
+      "last_updated": "2024-12-05T00:00:00Z",
+      "data_source": "ap"
+    }
+  ]
+}

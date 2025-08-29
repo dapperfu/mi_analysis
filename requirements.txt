@@ -1,11 +1,31 @@
-jupyter
-matplotlib
-notebook
-numpy
-pandas
-pre-commit
-pyarrow
-requests
-scikit-learn
-seaborn
-selenium
+# Election Data Analysis Requirements
+# Core dependencies for data processing and analysis
+
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# JSON and data processing
+jsonschema>=4.0.0
+
+# Visualization (optional but useful for analysis)
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Data validation and type checking
+mypy>=0.991
+pydantic>=1.10.0
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Code quality
+black>=22.0.0
+flake8>=5.0.0
+isort>=5.10.0
