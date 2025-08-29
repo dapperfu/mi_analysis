@@ -292,7 +292,7 @@ class ElectionQueryTool:
             for year in year_list:
                 year_elections = select((e.election_type, e.office, e.party)
                                       for e in Election 
-                                      if e.year == year).order_by(e.election_type, e.office)
+                                      if e.year == year).order_by(Election.election_type, Election.office)
                 
                 election_list = []
                 for election_type, office, party in year_elections:
