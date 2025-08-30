@@ -17,7 +17,7 @@ from election_database import db, County, Election, Candidate, Result
 class ElectionQueryTool:
     """Interactive query tool for the election database."""
     
-    def __init__(self, db_path: str = "elections.db"):
+    def __init__(self, db_path: str = "elections_enhanced.db"):
         """Initialize the query tool."""
         self.db_path = db_path
         self.setup_database()
@@ -38,7 +38,7 @@ class ElectionQueryTool:
                            for r in Result 
                            for e in r.election 
                            if e.year == year and e.office == office
-                           ).order_by(desc(r.percentage)).limit(limit)
+                           ).order_by(desc(4)).limit(limit)
             
             data = []
             for candidate_name, party, county_name, votes, percentage, winner in results:
@@ -104,7 +104,7 @@ class ElectionQueryTool:
                            for r in Result 
                            for c in r.candidate 
                            if c.name == candidate_name
-                           ).order_by(desc(r.election.year), r.election.election_type)
+                           ).order_by(desc(1), 2)
             
             data = []
             for year, election_type, office, county_name, votes, percentage, winner in results:
@@ -240,8 +240,7 @@ class ElectionQueryTool:
             candidates = select((c.name, c.party, c.nyt_id, count(r))
                               for c in Candidate 
                               for r in c.results
-                              if search_term.lower() in c.name.lower()
-                              ).group_by(c.name, c.party, c.nyt_id)
+                              if search_term.lower() in c.name.lower())
             
             data = []
             for name, party, nyt_id, result_count in candidates:
@@ -292,7 +291,7 @@ class ElectionQueryTool:
             for year in year_list:
                 year_elections = select((e.election_type, e.office, e.party)
                                       for e in Election 
-                                      if e.year == year).order_by(Election.election_type, Election.office)
+                                      if e.year == year)
                 
                 election_list = []
                 for election_type, office, party in year_elections:
@@ -402,6 +401,12 @@ def main():
                 office = ' '.join(parts[2:-1]) if len(parts) > 3 else parts[2]
                 limit = int(parts[-1]) if len(parts) > 3 and parts[-1].isdigit() else 10
                 tool.get_top_performers(year, office, limit)
+        elif command.startswith('search '):
+            search_term = command[7:]
+            tool.search_candidates(search_term)
+        elif command.startswith('candidate '):
+            candidate_name = command[10:]
+            tool.get_candidate_summary(candidate_name)
         else:
             print("Unknown command. Run without arguments for interactive mode.")
     else:
