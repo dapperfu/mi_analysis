@@ -236,7 +236,7 @@ def main():
             'description': 'Additional Race Types Analysis (U.S. Senate, U.S. House, Local Races)'
         },
         {
-            'script': 'Demographic_Analysis.py',
+            'script': 'Simple_Demographic_Analysis.py',
             'description': 'Demographic Analysis (County Demographics, Economic Indicators, Geographic Patterns)'
         }
     ]
