@@ -96,21 +96,46 @@ class DemographicAnalyzer:
         if 'prim_16_rep_total' in df.columns and 'prim_16_dem_total' in df.columns:
             df['total_votes_2016'] = df['prim_16_rep_total'] + df['prim_16_dem_total']
             
-            # Create population density categories
-            df['population_category'] = pd.cut(df['total_votes_2016'], 
-                                             bins=3, 
-                                             labels=['Rural', 'Suburban', 'Urban'])
-            
-            # Convert to numeric for analysis
-            df['population_density_score'] = df['population_category'].cat.codes
-            print("✓ Created population density categories")
+            # Remove NaN values before creating categories
+            votes_clean = df['total_votes_2016'].dropna()
+            if len(votes_clean) > 0:
+                # Create population density categories with proper bin handling
+                df['population_category'] = pd.cut(df['total_votes_2016'], 
+                                                 bins=3, 
+                                                 labels=['Rural', 'Suburban', 'Urban'],
+                                                 duplicates='drop')
+                
+                # Convert to numeric for analysis
+                df['population_density_score'] = df['population_category'].cat.codes
+                print("✓ Created population density categories")
+            else:
+                print("⚠️ No valid vote data for population density analysis")
+                # Create default values
+                df['population_category'] = 'Unknown'
+                df['population_density_score'] = 0
         
         # 2. Partisan balance indicators
         if 'prim_16_rep_total' in df.columns and 'prim_16_dem_total' in df.columns:
-            df['partisan_balance_2016'] = (df['prim_16_rep_total'] - df['prim_16_dem_total']) / (df['prim_16_rep_total'] + df['prim_16_dem_total'])
-            df['republican_advantage_2016'] = df['partisan_balance_2016'].apply(lambda x: 'Republican' if x > 0.1 else ('Democratic' if x < -0.1 else 'Competitive'))
+            # Handle division by zero and NaN values
+            total_votes = df['prim_16_rep_total'] + df['prim_16_dem_total']
+            mask = total_votes > 0
+            
+            df['partisan_balance_2016'] = np.nan
+            df.loc[mask, 'partisan_balance_2016'] = (df.loc[mask, 'prim_16_rep_total'] - df.loc[mask, 'prim_16_dem_total']) / df.loc[mask, total_votes]
+            
+            df['republican_advantage_2016'] = 'Competitive'  # Default value
+            df.loc[mask, 'republican_advantage_2016'] = df.loc[mask, 'partisan_balance_2016'].apply(
+                lambda x: 'Republican' if x > 0.1 else ('Democratic' if x < -0.1 else 'Competitive')
+            )
+            
             df['republican_advantage_score'] = df['republican_advantage_2016'].map({'Republican': 1, 'Competitive': 0, 'Democratic': -1})
             print("✓ Created partisan balance indicators")
+        else:
+            print("⚠️ No primary data available for partisan balance analysis")
+            # Create default values
+            df['partisan_balance_2016'] = 0
+            df['republican_advantage_2016'] = 'Competitive'
+            df['republican_advantage_score'] = 0
         
         # 3. Political engagement indicators
         if 'prim_16_rep_total' in df.columns and 'prim_16_dem_total' in df.columns:
@@ -119,12 +144,27 @@ class DemographicAnalyzer:
             estimated_registered = df['total_votes_2016'] / 0.7
             df['estimated_population'] = estimated_registered / 0.8  # Assume 80% of population is eligible
             
-            # Create engagement categories
-            df['engagement_level'] = pd.cut(df['total_votes_2016'] / df['estimated_population'], 
-                                          bins=3, 
-                                          labels=['Low', 'Medium', 'High'])
-            df['engagement_score'] = df['engagement_level'].cat.codes
-            print("✓ Created political engagement indicators")
+            # Create engagement categories with proper error handling
+            engagement_ratio = df['total_votes_2016'] / df['estimated_population']
+            engagement_clean = engagement_ratio.dropna()
+            
+            if len(engagement_clean) > 0:
+                df['engagement_level'] = pd.cut(engagement_ratio, 
+                                              bins=3, 
+                                              labels=['Low', 'Medium', 'High'],
+                                              duplicates='drop')
+                df['engagement_score'] = df['engagement_level'].cat.codes
+                print("✓ Created political engagement indicators")
+            else:
+                print("⚠️ No valid data for engagement analysis")
+                # Create default values
+                df['engagement_level'] = 'Medium'
+                df['engagement_score'] = 1
+        else:
+            print("⚠️ No primary data available for engagement analysis")
+            # Create default values
+            df['engagement_level'] = 'Medium'
+            df['engagement_score'] = 1
         
         # 4. Geographic region indicators (based on county names)
         # Create regions based on Michigan geography
@@ -154,19 +194,24 @@ class DemographicAnalyzer:
                                    'isabella', 'mecosta', 'midland', 'montcalm', 'newaygo', 'sanilac', 'tuscola']
         
         # Apply region classification
-        for idx, row in df.iterrows():
-            county_name = row['county'].lower() if 'county' in self.data['election_meta'].columns else 'unknown'
-            
-            if any(county in county_name for county in upper_peninsula_counties):
-                df.at[idx, 'geographic_region'] = 'Upper Peninsula'
-            elif any(county in county_name for county in northern_lower_counties):
-                df.at[idx, 'geographic_region'] = 'Northern Lower Peninsula'
-            elif any(county in county_name for county in west_michigan_counties):
-                df.at[idx, 'geographic_region'] = 'West Michigan'
-            elif any(county in county_name for county in southeast_michigan_counties):
-                df.at[idx, 'geographic_region'] = 'Southeast Michigan'
-            elif any(county in county_name for county in central_michigan_counties):
-                df.at[idx, 'geographic_region'] = 'Central Michigan'
+        if 'county' in df.columns:
+            for idx, row in df.iterrows():
+                county_name = str(row['county']).lower() if pd.notna(row['county']) else 'unknown'
+                
+                if any(county in county_name for county in upper_peninsula_counties):
+                    df.at[idx, 'geographic_region'] = 'Upper Peninsula'
+                elif any(county in county_name for county in northern_lower_counties):
+                    df.at[idx, 'geographic_region'] = 'Northern Lower Peninsula'
+                elif any(county in county_name for county in west_michigan_counties):
+                    df.at[idx, 'geographic_region'] = 'West Michigan'
+                elif any(county in county_name for county in southeast_michigan_counties):
+                    df.at[idx, 'geographic_region'] = 'Central Michigan'
+                elif any(county in county_name for county in central_michigan_counties):
+                    df.at[idx, 'geographic_region'] = 'Central Michigan'
+        else:
+            print("⚠️ No county column found for geographic region analysis")
+            # Create default values
+            df['geographic_region'] = 'Other'
         
         # Convert to numeric for analysis
         df['geographic_region_score'] = df['geographic_region'].astype('category').cat.codes
@@ -177,11 +222,17 @@ class DemographicAnalyzer:
             # Use Kasich support as proxy for economic conservatism
             df['economic_conservatism_score'] = df['prim_16_kasich-36679-president_rep_pct']
             print("✓ Created economic conservatism indicators")
+        else:
+            print("⚠️ No Kasich data available for economic conservatism analysis")
+            df['economic_conservatism_score'] = 0
         
         if 'prim_16_sanders-1445-president_dem_pct' in df.columns:
             # Use Sanders support as proxy for economic liberalism
             df['economic_liberalism_score'] = df['prim_16_sanders-1445-president_dem_pct']
             print("✓ Created economic liberalism indicators")
+        else:
+            print("⚠️ No Sanders data available for economic liberalism analysis")
+            df['economic_liberalism_score'] = 0
         
         self.combined_df = df
         
