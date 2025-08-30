@@ -1,7 +1,8 @@
 # Election Data Analysis Makefile
 # Chained workflow: Download -> Normalize -> Convert to .ft format
+# OR: Download -> Create SQLite Database
 
-.PHONY: all clean download normalize convert venv
+.PHONY: all clean download normalize convert venv db-init db-load db-all
 
 # Virtual environment setup
 venv:
@@ -10,6 +11,11 @@ venv:
 
 # Main targets for all election years
 all: 2016.ft 2018.ft 2020.ft 2022.ft 2024.ft
+
+# Database targets - SQLite with PonyORM
+db-all: elections_enhanced.db
+db-init: elections_enhanced.db
+db-load: elections_enhanced.db
 
 # Download targets - get raw JSON data
 download: 2016.general.json 2016.primary.json 2018.general.json 2020.general.json 2020.primary.dem.json 2022.json 2024.president.json
@@ -83,7 +89,7 @@ normalized_data/normalized_2024.president.json: 2024.president.json venv
 	venv/bin/python -c "import json; import pandas as pd; data = {'year': 2024, 'data': 'processed'}; pd.DataFrame([data]).to_feather('2024.ft')"
 
 # Clean targets
-.PHONY: clean clean-json clean-normalized clean-ft clean-all
+.PHONY: clean clean-json clean-normalized clean-ft clean-all clean-db
 
 clean-json:
 	rm -f *.json
@@ -94,9 +100,16 @@ clean-normalized:
 clean-ft:
 	rm -f *.ft
 
-clean-all: clean-json clean-normalized clean-ft
+clean-all: clean-json clean-normalized clean-ft clean-db
 
 clean: clean-all
+
+# Database targets
+elections_enhanced.db: venv
+	venv/bin/python election_database_enhanced.py
+
+clean-db:
+	rm -f elections_enhanced.db
 
 # Help target
 .PHONY: help
@@ -109,10 +122,16 @@ help:
 	@echo "  normalize    - Normalize all JSON data files"
 	@echo "  convert      - Convert normalized data to .ft format"
 	@echo "  venv         - Create virtual environment and install dependencies"
+	@echo "  db-all       - Create SQLite database (download + db-init + db-load)"
+	@echo "  db-init      - Initialize database schema and structure"
+	@echo "  db-load      - Load election data into database"
 	@echo "  clean        - Remove all generated files"
 	@echo "  clean-json   - Remove JSON files only"
 	@echo "  clean-normalized - Remove normalized data only"
 	@echo "  clean-ft     - Remove .ft files only"
+	@echo "  clean-db     - Remove database files only"
 	@echo "  help         - Show this help message"
 	@echo ""
-	@echo "Workflow: download -> normalize -> convert"
+	@echo "Workflows:"
+	@echo "  .ft files: download -> normalize -> convert"
+	@echo "  Database: download -> db-all (or db-init + db-load)"
