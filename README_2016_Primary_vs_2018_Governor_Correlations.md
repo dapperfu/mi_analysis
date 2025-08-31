@@ -6,8 +6,7 @@ This document catalogs the **19 significant correlations** discovered between 20
 
 **Analysis Date**: December 19, 2024  
 **Data Source**: Michigan Election Data (2016-2018)  
-**Methodology**: Correlation analysis with regression modeling  
-**Statistical Threshold**: |r| > 0.3 for significance  
+**Methodology**: Correlation analysis with regression modeling  nt
 
 ---
 
