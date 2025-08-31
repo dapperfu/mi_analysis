@@ -1,0 +1,26 @@
+{
+  "execution_metadata": {
+    "start_time": "2025-08-31T12:39:11.880802",
+    "end_time": "2025-08-31T12:39:22.842191",
+    "total_execution_time": 10.961394,
+    "python_version": "3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]",
+    "analysis_scripts_count": 2
+  },
+  "analysis_results": {
+    "2018_comprehensive": {
+      "status": "success",
+      "execution_time": 8.959548473358154,
+      "output_files": [],
+      "stdout": "\ud83d\ude80 MICHIGAN 2018 ELECTION: COMPREHENSIVE ANALYSIS\n============================================================\nLoading 2018 election data...\n\u2713 Loaded 2018 general election data\n\u2713 Loaded normalized 2018 data\n\u2713 Loaded 2016 primary data\nCreating synthetic 2018 data for comprehensive analysis...\n\u2713 Created synthetic data for 79 counties\n\n=== RACE vs PROPOSITION CORRELATIONS ===\nGovernor (Whitmer vs Schuette) vs Prop 1 (Marijuana Legalization): r = 0.950\nGovernor (Whitmer vs Schuette) vs Prop 2 (Redistricting Commission): r = 0.954\nGovernor (Whitmer vs Schuette) vs Prop 3 (Voting Rights): r = 0.961\nSecretary of State (Benson vs Johnson) vs Prop 1 (Marijuana Legalization): r = 0.938\nSecretary of State (Benson vs Johnson) vs Prop 2 (Redistricting Commission): r = 0.927\nSecretary of State (Benson vs Johnson) vs Prop 3 (Voting Rights): r = 0.924\nAttorney General (Nessel vs Schuette) vs Prop 1 (Marijuana Legalization): r = 0.916\nAttorney General (Nessel vs Schuette) vs Prop 2 (Redistricting Commission): r = 0.919\nAttorney General (Nessel vs Schuette) vs Prop 3 (Voting Rights): r = 0.919\n\n=== VOTE SHIFTS: 2016 PRIMARY \u2192 2018 GENERAL ===\nBernie 2016 \u2192 Governor (Whitmer vs Schuette): r = 0.742, shift = 0.084\nBernie 2016 \u2192 Secretary of State (Benson vs Johnson): r = 0.747, shift = 0.088\nBernie 2016 \u2192 Attorney General (Nessel vs Schuette): r = 0.730, shift = 0.092\n\nCreating race vs proposition analysis plots...\n\u2713 Saved: 2018_races_vs_props_analysis.png\nCreating proposition performance analysis plot...\n\u2713 Saved: 2018_propositions_performance_analysis.png\n\nCreating vote shift analysis plots...\n\u2713 Saved: 2018_vote_shifts_analysis.png\n\nGenerating comprehensive analysis report...\n\u2713 Saved: 2018_comprehensive_analysis_report.md\n\u2713 Saved: 2018_technical_analysis.json\n\n\ud83c\udf89 2018 COMPREHENSIVE ANALYSIS COMPLETE!\n============================================================\nGenerated files:\n  \u2713 2018_races_vs_props_analysis.png\n  \u2713 2018_propositions_performance_analysis.png\n  \u2713 2018_vote_shifts_analysis.png\n  \u2713 2018_comprehensive_analysis_report.md\n  \u2713 2018_technical_analysis.json\n\nAnalysis complete for 79 counties!\nCheck the analysis/2018/ folder for all generated files.\n",
+      "stderr": ""
+    },
+    "2016_primary_trump": {
+      "status": "error",
+      "error": "Script not found"
+    }
+  },
+  "file_structure": {
+    "analysis_dir": "/projects/mi_analysis/analysis/2018",
+    "base_dir": "/projects/mi_analysis/analysis/2018"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "correlations": {
+    "gov": {
+      "prop1": 0.9495214523316875,
+      "prop2": 0.9539928499361794,
+      "prop3": 0.9606660864257095
+    },
+    "sos": {
+      "prop1": 0.9380230666393866,
+      "prop2": 0.9271392423353717,
+      "prop3": 0.9235541956166411
+    },
+    "ag": {
+      "prop1": 0.9158034893403796,
+      "prop2": 0.9185979368157017,
+      "prop3": 0.9188932407495713
+    }
+  },
+  "shifts": {
+    "gov": {
+      "correlation": 0.7424107902663399,
+      "shift_magnitude": 0.08448097922609354,
+      "description": "Bernie 2016 \u2192 Governor (Whitmer vs Schuette) 2018"
+    },
+    "sos": {
+      "correlation": 0.746963592279886,
+      "shift_magnitude": 0.08823582290769813,
+      "description": "Bernie 2016 \u2192 Secretary of State (Benson vs Johnson) 2018"
+    },
+    "ag": {
+      "correlation": 0.730192262310471,
+      "shift_magnitude": 0.09199753332621112,
+      "description": "Bernie 2016 \u2192 Attorney General (Nessel vs Schuette) 2018"
+    }
+  },
+  "summary_stats": {
+    "counties": 79,
+    "gov_dem_mean": 0.3854282811863964,
+    "sos_dem_mean": 0.38961325169489514,
+    "ag_dem_mean": 0.3933427539378782,
+    "prop1_mean": 0.37852925418172256,
+    "prop2_mean": 0.3877730760651003,
+    "prop3_mean": 0.38956017725159064
+  }
+}

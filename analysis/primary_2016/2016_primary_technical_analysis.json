@@ -1,0 +1,50 @@
+{
+  "patterns": {
+    "bernie_stats": {
+      "mean": 0.41814353030325946,
+      "std": 0.18138254119709882,
+      "min": 0.1,
+      "max": 0.9,
+      "median": 0.3830089490032322
+    },
+    "hillary_stats": {
+      "mean": 0.5818564696967405,
+      "std": 0.18138254119709882,
+      "min": 0.09999999999999998,
+      "max": 0.9,
+      "median": 0.6169910509967678
+    },
+    "bernie_hillary_correlation": -1.0,
+    "urban_rural_pattern": 0.4687949435398876
+  },
+  "shifts": {
+    "bernie_to_trump": {
+      "correlation": -0.816779847247478,
+      "mean_shift": -0.003743147313061711,
+      "shift_std": 0.11482556282857467,
+      "positive_shifts": 41,
+      "negative_shifts": 38,
+      "shift_magnitude": 0.08951583537774986
+    },
+    "hillary_to_trump": {
+      "correlation": 0.816779847247478,
+      "mean_shift": 0.15996979208041923,
+      "shift_std": 0.3591445971548692,
+      "positive_shifts": 53,
+      "negative_shifts": 26,
+      "shift_magnitude": 0.3254936126076066
+    },
+    "overall": {
+      "total_shift_magnitude": 0.41500944798535633,
+      "counties_with_large_shifts": 64,
+      "counties_with_small_shifts": 2
+    }
+  },
+  "summary_stats": {
+    "counties": 79,
+    "bernie_mean": 0.41814353030325946,
+    "hillary_mean": 0.5818564696967405,
+    "trump_mean": 0.5781133223836787,
+    "overall_shift_mean": 0.41500944798535633
+  }
+}
